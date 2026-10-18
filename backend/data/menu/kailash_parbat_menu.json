@@ -1,0 +1,1800 @@
+{
+    "restaurant": {
+        "name": "Kailash Parbat",
+        "location": "C8 & C9, South Service Road, Vellore Corporation II Ward 23, Sathuvachari, Vellore",
+        "contact": "+917449112244"
+    },
+    "menu": [
+        {
+            "category": "Chaats & House Specials Since 1952",
+            "items": [
+                {
+                    "name": "Bhel Puri",
+                    "price": "",
+                    "description": "Chaats",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Corn Basket",
+                    "price": "",
+                    "description": "Little Fried Flour \"Baskets\" Filled With Sweetcorn, Pomegranate, Chopped Onion And Tomato, Topped With Spicy And Tangy Sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dahi Wada",
+                    "price": "",
+                    "description": "Deep Fried Lentil Fritters Dunked In Creamy Yogurt, Topped With Pomegranite And Sweet And Spicy Sauces. These Are Soft And Tender And Just Melt In The Mouth! A Very Popular Snack Across Various Cities In India. A Must-Try!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mix Chaat",
+                    "price": "",
+                    "description": "Mixture of lentil dumplings, flat fried puff, deep fried battered green chillies, potatoes, seasoned with yogurt & served with sweet & sour sauces, garnished with blended spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Papdi Chaat",
+                    "price": "",
+                    "description": "Crushed Crispy, Fried, Flat Dough Combined With Potatoes, Sweet And Sour Sauces And Chilli Chutney, Topped With Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Samosa Chaat",
+                    "price": "",
+                    "description": "A Fried Potato Filled Pastry Dunked In Chick Peas Sauce, Topped With Onions, Sweet And Sour Sauces, Chilli Chutney, Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tikki Chaat",
+                    "price": "",
+                    "description": "Shallow Fried Mashed And Spiced Potato Patties Topped With Curried Chickpeas, Tamarind And Chilli Sauces, Yogurt And Spices. Pure Comfort Food!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bhatura Platter",
+                    "price": "",
+                    "description": "House Special Since 1952",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Wada Pav (2 Pcs)",
+                    "price": "",
+                    "description": "\"The Bombay Burger\" Is A Potato Cake Sandwiched In A Soft Bun Accompanied With Chutneys.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Borivali Ki Dabeli (2 Pcs)",
+                    "price": "",
+                    "description": "A Soft Bun Filled With Mashed Potatoes, Peanuts, Sweet Tamarind Sauce, Chilli Sauces, Garnished With Sev, Pomegranite, Coriander And Peanuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges Topped With Cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chinese Bhel",
+                    "price": "",
+                    "description": "The Classic Indian Street Food From Bombay Prepared With Crispy Noodles, Veggies, Spring Onions And Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Bhatura",
+                    "price": "",
+                    "description": "Chole Is A Spiced, Tangy, Chick Peas Curry Served With Bhatura Which Is A Soft And Fluffy Fried Bread. One Of Our Signature Dishes At Kailash Parbat Since 1952.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Cheese Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pav With Papad (2 Pcs)",
+                    "price": "",
+                    "description": "A Delicious Popular Indian Street Food Made With Butter Toasted Buns & A Spicy Onion Tomato Masala Served Wit Papad.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Pattice (2 Pcs)",
+                    "price": "",
+                    "description": "Shallow Fried Spicy Mash Of Potato Patties Served With Chick Peas Sauce Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Samosa (2 Pcs)",
+                    "price": "",
+                    "description": "Punjabi Samosa [2 Pcs] Fried Potato Filled Pastry Served With Chick Peas Sauce, Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pattice Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Cheese Sandwich",
+                    "price": "",
+                    "description": "Sandwich With Cheese Between Soft Slices Of Bread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks - The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato, With An Oozing Molten Cheese Centre",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, topped with cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks -The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, perfect for a light and healthy bite",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Corriander",
+                    "price": "",
+                    "description": "Soup",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Manchow Soup",
+                    "price": "",
+                    "description": "A Fusion Indo-Chinese Soup Made From Mixed Vegetables, Fried Noodles And Hot And Sweet Chinese Sauces",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sweet Corn Soup",
+                    "price": "",
+                    "description": "Soup made with tender corn kernels in a creamy, mildly seasoned broth",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Soup",
+                    "price": "",
+                    "description": "Flavourful Tomato Soup With Rich Cream Served With Croutons",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold Coffee (200 Ml)",
+                    "price": "",
+                    "description": "Old School Cold Coffee With Ice Cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Desi Kala Khatta (200 Ml)",
+                    "price": "",
+                    "description": "Special Java Plum Spiced Drink From The Streets Of Mumbai.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea (200 Ml)",
+                    "price": "",
+                    "description": "Brewed Tea And Zesty Lemon.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Mangolicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chaas (200 Ml)",
+                    "price": "",
+                    "description": "Buttermilk Flavoured With Cumin Seeds, Corriander And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nimbu Paani (200 Ml)",
+                    "price": "",
+                    "description": "Tango Lemony Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Delicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli",
+                    "price": "",
+                    "description": "Chinese Starters",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Schezwan",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes tossed in schezwan sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Three Pepper",
+                    "price": "",
+                    "description": "Cubes Of Cottage Cheese Tossed With 3 Types Of Bell Peppers In Mild Chinese Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Crispy Potatoes",
+                    "price": "",
+                    "description": "Potato finger fried & tossed in sweet chili sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spring Roll",
+                    "price": "",
+                    "description": "Crispy Deep Fried Veg Rolls Served With Sweet Chilli Sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce",
+                    "price": "",
+                    "description": "Cornflour coated fried cabbage ball cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Chilli Serves 2",
+                    "price": "",
+                    "description": "Chinese Main Course (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Schezwan Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Cubes Tossed In Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boondi Raita",
+                    "price": "",
+                    "description": "Boondi And Curd Mixed With Pinch Of Salt And Roasted Cumin Powder.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Green Salad",
+                    "price": "",
+                    "description": "Platter of fresh greens",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Raita",
+                    "price": "",
+                    "description": "Onion, cucumber, tomato finely choped mix with curd and seasoned with salt and roasted cumin powder",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad (1 Pc)",
+                    "price": "",
+                    "description": "Thin indian wafers with indian spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Curd",
+                    "price": "",
+                    "description": "Fermented milk product",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pot Rice",
+                    "price": "",
+                    "description": "Rice & Noodles (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Fried Rice",
+                    "price": "",
+                    "description": "French Beans, Spring Onions And Carrots In Fried Rice Tossed In Spicy Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable, Schezwan Sauce And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Fried Rice",
+                    "price": "",
+                    "description": "Combination Of Rice And Noodles Served Along With An Spicy Schezwan Gravy.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Indo-Chinese Style Vegetable Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable And Spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Falooda Kulfi",
+                    "price": "",
+                    "description": "Indian Ice-Cream Sundae Float- Malai Kulfi Topped With Rabdi Falooda Nuts And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "A Special Sundae Drink Made With Ice Cream, Falooda, Sweet Basil And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chaats & House Specials Since 1952",
+            "items": [
+                {
+                    "name": "Bhel Puri",
+                    "price": "",
+                    "description": "Chaats",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Corn Basket",
+                    "price": "",
+                    "description": "Little Fried Flour \"Baskets\" Filled With Sweetcorn, Pomegranate, Chopped Onion And Tomato, Topped With Spicy And Tangy Sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dahi Wada",
+                    "price": "",
+                    "description": "Deep Fried Lentil Fritters Dunked In Creamy Yogurt, Topped With Pomegranite And Sweet And Spicy Sauces. These Are Soft And Tender And Just Melt In The Mouth! A Very Popular Snack Across Various Cities In India. A Must-Try!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mix Chaat",
+                    "price": "",
+                    "description": "Mixture of lentil dumplings, flat fried puff, deep fried battered green chillies, potatoes, seasoned with yogurt & served with sweet & sour sauces, garnished with blended spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Papdi Chaat",
+                    "price": "",
+                    "description": "Crushed Crispy, Fried, Flat Dough Combined With Potatoes, Sweet And Sour Sauces And Chilli Chutney, Topped With Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Samosa Chaat",
+                    "price": "",
+                    "description": "A Fried Potato Filled Pastry Dunked In Chick Peas Sauce, Topped With Onions, Sweet And Sour Sauces, Chilli Chutney, Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tikki Chaat",
+                    "price": "",
+                    "description": "Shallow Fried Mashed And Spiced Potato Patties Topped With Curried Chickpeas, Tamarind And Chilli Sauces, Yogurt And Spices. Pure Comfort Food!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bhatura Platter",
+                    "price": "",
+                    "description": "House Special Since 1952",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Wada Pav (2 Pcs)",
+                    "price": "",
+                    "description": "\"The Bombay Burger\" Is A Potato Cake Sandwiched In A Soft Bun Accompanied With Chutneys.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Borivali Ki Dabeli (2 Pcs)",
+                    "price": "",
+                    "description": "A Soft Bun Filled With Mashed Potatoes, Peanuts, Sweet Tamarind Sauce, Chilli Sauces, Garnished With Sev, Pomegranite, Coriander And Peanuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges Topped With Cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chinese Bhel",
+                    "price": "",
+                    "description": "The Classic Indian Street Food From Bombay Prepared With Crispy Noodles, Veggies, Spring Onions And Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Bhatura",
+                    "price": "",
+                    "description": "Chole Is A Spiced, Tangy, Chick Peas Curry Served With Bhatura Which Is A Soft And Fluffy Fried Bread. One Of Our Signature Dishes At Kailash Parbat Since 1952.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Cheese Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pav With Papad (2 Pcs)",
+                    "price": "",
+                    "description": "A Delicious Popular Indian Street Food Made With Butter Toasted Buns & A Spicy Onion Tomato Masala Served Wit Papad.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Pattice (2 Pcs)",
+                    "price": "",
+                    "description": "Shallow Fried Spicy Mash Of Potato Patties Served With Chick Peas Sauce Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Samosa (2 Pcs)",
+                    "price": "",
+                    "description": "Punjabi Samosa [2 Pcs] Fried Potato Filled Pastry Served With Chick Peas Sauce, Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pattice Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Cheese Sandwich",
+                    "price": "",
+                    "description": "Sandwich With Cheese Between Soft Slices Of Bread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks - The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato, With An Oozing Molten Cheese Centre",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, topped with cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks -The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, perfect for a light and healthy bite",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Corriander",
+                    "price": "",
+                    "description": "Soup",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Manchow Soup",
+                    "price": "",
+                    "description": "A Fusion Indo-Chinese Soup Made From Mixed Vegetables, Fried Noodles And Hot And Sweet Chinese Sauces",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sweet Corn Soup",
+                    "price": "",
+                    "description": "Soup made with tender corn kernels in a creamy, mildly seasoned broth",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Soup",
+                    "price": "",
+                    "description": "Flavourful Tomato Soup With Rich Cream Served With Croutons",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold Coffee (200 Ml)",
+                    "price": "",
+                    "description": "Old School Cold Coffee With Ice Cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Desi Kala Khatta (200 Ml)",
+                    "price": "",
+                    "description": "Special Java Plum Spiced Drink From The Streets Of Mumbai.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea (200 Ml)",
+                    "price": "",
+                    "description": "Brewed Tea And Zesty Lemon.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Mangolicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chaas (200 Ml)",
+                    "price": "",
+                    "description": "Buttermilk Flavoured With Cumin Seeds, Corriander And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nimbu Paani (200 Ml)",
+                    "price": "",
+                    "description": "Tango Lemony Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Delicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli",
+                    "price": "",
+                    "description": "Chinese Starters",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Schezwan",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes tossed in schezwan sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Three Pepper",
+                    "price": "",
+                    "description": "Cubes Of Cottage Cheese Tossed With 3 Types Of Bell Peppers In Mild Chinese Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Crispy Potatoes",
+                    "price": "",
+                    "description": "Potato finger fried & tossed in sweet chili sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spring Roll",
+                    "price": "",
+                    "description": "Crispy Deep Fried Veg Rolls Served With Sweet Chilli Sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce",
+                    "price": "",
+                    "description": "Cornflour coated fried cabbage ball cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Chilli Serves 2",
+                    "price": "",
+                    "description": "Chinese Main Course (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Schezwan Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Cubes Tossed In Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boondi Raita",
+                    "price": "",
+                    "description": "Boondi And Curd Mixed With Pinch Of Salt And Roasted Cumin Powder.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Green Salad",
+                    "price": "",
+                    "description": "Platter of fresh greens",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Raita",
+                    "price": "",
+                    "description": "Onion, cucumber, tomato finely choped mix with curd and seasoned with salt and roasted cumin powder",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad (1 Pc)",
+                    "price": "",
+                    "description": "Thin indian wafers with indian spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Curd",
+                    "price": "",
+                    "description": "Fermented milk product",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pot Rice",
+                    "price": "",
+                    "description": "Rice & Noodles (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Fried Rice",
+                    "price": "",
+                    "description": "French Beans, Spring Onions And Carrots In Fried Rice Tossed In Spicy Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable, Schezwan Sauce And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Fried Rice",
+                    "price": "",
+                    "description": "Combination Of Rice And Noodles Served Along With An Spicy Schezwan Gravy.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Indo-Chinese Style Vegetable Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable And Spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Falooda Kulfi",
+                    "price": "",
+                    "description": "Indian Ice-Cream Sundae Float- Malai Kulfi Topped With Rabdi Falooda Nuts And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "A Special Sundae Drink Made With Ice Cream, Falooda, Sweet Basil And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chaats & House Specials Since 1952",
+            "items": [
+                {
+                    "name": "Bhel Puri",
+                    "price": "",
+                    "description": "Chaats",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Corn Basket",
+                    "price": "",
+                    "description": "Little Fried Flour \"Baskets\" Filled With Sweetcorn, Pomegranate, Chopped Onion And Tomato, Topped With Spicy And Tangy Sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dahi Wada",
+                    "price": "",
+                    "description": "Deep Fried Lentil Fritters Dunked In Creamy Yogurt, Topped With Pomegranite And Sweet And Spicy Sauces. These Are Soft And Tender And Just Melt In The Mouth! A Very Popular Snack Across Various Cities In India. A Must-Try!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mix Chaat",
+                    "price": "",
+                    "description": "Mixture of lentil dumplings, flat fried puff, deep fried battered green chillies, potatoes, seasoned with yogurt & served with sweet & sour sauces, garnished with blended spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Papdi Chaat",
+                    "price": "",
+                    "description": "Crushed Crispy, Fried, Flat Dough Combined With Potatoes, Sweet And Sour Sauces And Chilli Chutney, Topped With Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Samosa Chaat",
+                    "price": "",
+                    "description": "A Fried Potato Filled Pastry Dunked In Chick Peas Sauce, Topped With Onions, Sweet And Sour Sauces, Chilli Chutney, Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tikki Chaat",
+                    "price": "",
+                    "description": "Shallow Fried Mashed And Spiced Potato Patties Topped With Curried Chickpeas, Tamarind And Chilli Sauces, Yogurt And Spices. Pure Comfort Food!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bhatura Platter",
+                    "price": "",
+                    "description": "House Special Since 1952",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Wada Pav (2 Pcs)",
+                    "price": "",
+                    "description": "\"The Bombay Burger\" Is A Potato Cake Sandwiched In A Soft Bun Accompanied With Chutneys.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Borivali Ki Dabeli (2 Pcs)",
+                    "price": "",
+                    "description": "A Soft Bun Filled With Mashed Potatoes, Peanuts, Sweet Tamarind Sauce, Chilli Sauces, Garnished With Sev, Pomegranite, Coriander And Peanuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges Topped With Cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chinese Bhel",
+                    "price": "",
+                    "description": "The Classic Indian Street Food From Bombay Prepared With Crispy Noodles, Veggies, Spring Onions And Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Bhatura",
+                    "price": "",
+                    "description": "Chole Is A Spiced, Tangy, Chick Peas Curry Served With Bhatura Which Is A Soft And Fluffy Fried Bread. One Of Our Signature Dishes At Kailash Parbat Since 1952.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Cheese Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pav With Papad (2 Pcs)",
+                    "price": "",
+                    "description": "A Delicious Popular Indian Street Food Made With Butter Toasted Buns & A Spicy Onion Tomato Masala Served Wit Papad.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Pattice (2 Pcs)",
+                    "price": "",
+                    "description": "Shallow Fried Spicy Mash Of Potato Patties Served With Chick Peas Sauce Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Samosa (2 Pcs)",
+                    "price": "",
+                    "description": "Punjabi Samosa [2 Pcs] Fried Potato Filled Pastry Served With Chick Peas Sauce, Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pattice Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Cheese Sandwich",
+                    "price": "",
+                    "description": "Sandwich With Cheese Between Soft Slices Of Bread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks - The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato, With An Oozing Molten Cheese Centre",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, topped with cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks -The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, perfect for a light and healthy bite",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Corriander",
+                    "price": "",
+                    "description": "Soup",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Manchow Soup",
+                    "price": "",
+                    "description": "A Fusion Indo-Chinese Soup Made From Mixed Vegetables, Fried Noodles And Hot And Sweet Chinese Sauces",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sweet Corn Soup",
+                    "price": "",
+                    "description": "Soup made with tender corn kernels in a creamy, mildly seasoned broth",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Soup",
+                    "price": "",
+                    "description": "Flavourful Tomato Soup With Rich Cream Served With Croutons",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold Coffee (200 Ml)",
+                    "price": "",
+                    "description": "Old School Cold Coffee With Ice Cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Desi Kala Khatta (200 Ml)",
+                    "price": "",
+                    "description": "Special Java Plum Spiced Drink From The Streets Of Mumbai.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea (200 Ml)",
+                    "price": "",
+                    "description": "Brewed Tea And Zesty Lemon.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Mangolicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chaas (200 Ml)",
+                    "price": "",
+                    "description": "Buttermilk Flavoured With Cumin Seeds, Corriander And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nimbu Paani (200 Ml)",
+                    "price": "",
+                    "description": "Tango Lemony Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Delicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli",
+                    "price": "",
+                    "description": "Chinese Starters",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Schezwan",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes tossed in schezwan sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Three Pepper",
+                    "price": "",
+                    "description": "Cubes Of Cottage Cheese Tossed With 3 Types Of Bell Peppers In Mild Chinese Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Crispy Potatoes",
+                    "price": "",
+                    "description": "Potato finger fried & tossed in sweet chili sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spring Roll",
+                    "price": "",
+                    "description": "Crispy Deep Fried Veg Rolls Served With Sweet Chilli Sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce",
+                    "price": "",
+                    "description": "Cornflour coated fried cabbage ball cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Chilli Serves 2",
+                    "price": "",
+                    "description": "Chinese Main Course (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Schezwan Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Cubes Tossed In Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boondi Raita",
+                    "price": "",
+                    "description": "Boondi And Curd Mixed With Pinch Of Salt And Roasted Cumin Powder.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Green Salad",
+                    "price": "",
+                    "description": "Platter of fresh greens",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Raita",
+                    "price": "",
+                    "description": "Onion, cucumber, tomato finely choped mix with curd and seasoned with salt and roasted cumin powder",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad (1 Pc)",
+                    "price": "",
+                    "description": "Thin indian wafers with indian spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Curd",
+                    "price": "",
+                    "description": "Fermented milk product",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pot Rice",
+                    "price": "",
+                    "description": "Rice & Noodles (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Fried Rice",
+                    "price": "",
+                    "description": "French Beans, Spring Onions And Carrots In Fried Rice Tossed In Spicy Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable, Schezwan Sauce And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Fried Rice",
+                    "price": "",
+                    "description": "Combination Of Rice And Noodles Served Along With An Spicy Schezwan Gravy.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Indo-Chinese Style Vegetable Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable And Spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Falooda Kulfi",
+                    "price": "",
+                    "description": "Indian Ice-Cream Sundae Float- Malai Kulfi Topped With Rabdi Falooda Nuts And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "A Special Sundae Drink Made With Ice Cream, Falooda, Sweet Basil And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chaats & House Specials Since 1952",
+            "items": [
+                {
+                    "name": "Bhel Puri",
+                    "price": "",
+                    "description": "Chaats",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Corn Basket",
+                    "price": "",
+                    "description": "Little Fried Flour \"Baskets\" Filled With Sweetcorn, Pomegranate, Chopped Onion And Tomato, Topped With Spicy And Tangy Sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dahi Wada",
+                    "price": "",
+                    "description": "Deep Fried Lentil Fritters Dunked In Creamy Yogurt, Topped With Pomegranite And Sweet And Spicy Sauces. These Are Soft And Tender And Just Melt In The Mouth! A Very Popular Snack Across Various Cities In India. A Must-Try!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mix Chaat",
+                    "price": "",
+                    "description": "Mixture of lentil dumplings, flat fried puff, deep fried battered green chillies, potatoes, seasoned with yogurt & served with sweet & sour sauces, garnished with blended spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Papdi Chaat",
+                    "price": "",
+                    "description": "Crushed Crispy, Fried, Flat Dough Combined With Potatoes, Sweet And Sour Sauces And Chilli Chutney, Topped With Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Samosa Chaat",
+                    "price": "",
+                    "description": "A Fried Potato Filled Pastry Dunked In Chick Peas Sauce, Topped With Onions, Sweet And Sour Sauces, Chilli Chutney, Yoghurt And Sev And Garnished With Blended Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tikki Chaat",
+                    "price": "",
+                    "description": "Shallow Fried Mashed And Spiced Potato Patties Topped With Curried Chickpeas, Tamarind And Chilli Sauces, Yogurt And Spices. Pure Comfort Food!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bhatura Platter",
+                    "price": "",
+                    "description": "House Special Since 1952",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Wada Pav (2 Pcs)",
+                    "price": "",
+                    "description": "\"The Bombay Burger\" Is A Potato Cake Sandwiched In A Soft Bun Accompanied With Chutneys.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Borivali Ki Dabeli (2 Pcs)",
+                    "price": "",
+                    "description": "A Soft Bun Filled With Mashed Potatoes, Peanuts, Sweet Tamarind Sauce, Chilli Sauces, Garnished With Sev, Pomegranite, Coriander And Peanuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges Topped With Cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chinese Bhel",
+                    "price": "",
+                    "description": "The Classic Indian Street Food From Bombay Prepared With Crispy Noodles, Veggies, Spring Onions And Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Bhatura",
+                    "price": "",
+                    "description": "Chole Is A Spiced, Tangy, Chick Peas Curry Served With Bhatura Which Is A Soft And Fluffy Fried Bread. One Of Our Signature Dishes At Kailash Parbat Since 1952.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Cheese Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Juhu Chowpaty Tawa Pulav With Raita & Papad",
+                    "price": "",
+                    "description": "Rice And Vegetables.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pav With Papad (2 Pcs)",
+                    "price": "",
+                    "description": "A Delicious Popular Indian Street Food Made With Butter Toasted Buns & A Spicy Onion Tomato Masala Served Wit Papad.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Pav Bhaji",
+                    "price": "",
+                    "description": "A Medley Of Spicy Mashed Vegetables Served With Soft Buttered Dinner Rolls [Pav], Onions And Lemon Wedges.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Pattice (2 Pcs)",
+                    "price": "",
+                    "description": "Shallow Fried Spicy Mash Of Potato Patties Served With Chick Peas Sauce Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ragda Samosa (2 Pcs)",
+                    "price": "",
+                    "description": "Punjabi Samosa [2 Pcs] Fried Potato Filled Pastry Served With Chick Peas Sauce, Served With Onion And Chutney.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pattice Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Cheese Sandwich",
+                    "price": "",
+                    "description": "Sandwich With Cheese Between Soft Slices Of Bread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks - The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato, With An Oozing Molten Cheese Centre",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, topped with cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Grill Sandwich",
+                    "price": "",
+                    "description": "One Of Mumbai'S Famous Street Snacks -The Mumbai Sandwich. Soft, White Bread Topped With A Vibrant Herb Chutney, Mashed Potato Masala, And Double Layered With Cucumber, Onion And Tomato.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sandwich",
+                    "price": "",
+                    "description": "A wholesome sandwich packed with fresh vegetables and flavorful seasonings, perfect for a light and healthy bite",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "name": "Lemon Corriander",
+                    "price": "",
+                    "description": "Soup",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Manchow Soup",
+                    "price": "",
+                    "description": "A Fusion Indo-Chinese Soup Made From Mixed Vegetables, Fried Noodles And Hot And Sweet Chinese Sauces",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sweet Corn Soup",
+                    "price": "",
+                    "description": "Soup made with tender corn kernels in a creamy, mildly seasoned broth",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Soup",
+                    "price": "",
+                    "description": "Flavourful Tomato Soup With Rich Cream Served With Croutons",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Cold Beverages",
+            "items": [
+                {
+                    "name": "Cold Coffee (200 Ml)",
+                    "price": "",
+                    "description": "Old School Cold Coffee With Ice Cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Desi Kala Khatta (200 Ml)",
+                    "price": "",
+                    "description": "Special Java Plum Spiced Drink From The Streets Of Mumbai.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea (200 Ml)",
+                    "price": "",
+                    "description": "Brewed Tea And Zesty Lemon.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Mangolicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chaas (200 Ml)",
+                    "price": "",
+                    "description": "Buttermilk Flavoured With Cumin Seeds, Corriander And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nimbu Paani (200 Ml)",
+                    "price": "",
+                    "description": "Tango Lemony Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi (200 Ml)",
+                    "price": "",
+                    "description": "Delicious Yogurt Drink.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "name": "Paneer Chilli",
+                    "price": "",
+                    "description": "Chinese Starters",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Schezwan",
+                    "price": "",
+                    "description": "Cornflour coated fried paneer cubes tossed in schezwan sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Three Pepper",
+                    "price": "",
+                    "description": "Cubes Of Cottage Cheese Tossed With 3 Types Of Bell Peppers In Mild Chinese Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Crispy Potatoes",
+                    "price": "",
+                    "description": "Potato finger fried & tossed in sweet chili sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spring Roll",
+                    "price": "",
+                    "description": "Crispy Deep Fried Veg Rolls Served With Sweet Chilli Sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce",
+                    "price": "",
+                    "description": "Cornflour coated fried cabbage ball cooked in soy & ginger garlic sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Main Course",
+            "items": [
+                {
+                    "name": "Paneer Chilli Serves 2",
+                    "price": "",
+                    "description": "Chinese Main Course (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Schezwan Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Cottage Cheese Cubes Tossed In Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian In Schezwan Sauce Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian Serves 2",
+                    "price": "",
+                    "description": "Crispy Fried Vegetable Balls Dunked In Hot, Sweet And Sour Manchurian Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "name": "Boondi Raita",
+                    "price": "",
+                    "description": "Boondi And Curd Mixed With Pinch Of Salt And Roasted Cumin Powder.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Green Salad",
+                    "price": "",
+                    "description": "Platter of fresh greens",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Raita",
+                    "price": "",
+                    "description": "Onion, cucumber, tomato finely choped mix with curd and seasoned with salt and roasted cumin powder",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad (1 Pc)",
+                    "price": "",
+                    "description": "Thin indian wafers with indian spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Curd",
+                    "price": "",
+                    "description": "Fermented milk product",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Rice, Biryani & Noodles",
+            "items": [
+                {
+                    "name": "Pot Rice",
+                    "price": "",
+                    "description": "Rice & Noodles (serves 2)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Fried Rice",
+                    "price": "",
+                    "description": "French Beans, Spring Onions And Carrots In Fried Rice Tossed In Spicy Schezwan Sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable, Schezwan Sauce And Spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Fried Rice",
+                    "price": "",
+                    "description": "Combination Of Rice And Noodles Served Along With An Spicy Schezwan Gravy.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Indo-Chinese Style Vegetable Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Hakka Noodles",
+                    "price": "",
+                    "description": "Soft Noodles Tossed With Vegetable And Spices",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "name": "Falooda Kulfi",
+                    "price": "",
+                    "description": "Indian Ice-Cream Sundae Float- Malai Kulfi Topped With Rabdi Falooda Nuts And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "A Special Sundae Drink Made With Ice Cream, Falooda, Sweet Basil And Rose Syrup.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

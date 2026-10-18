@@ -1,0 +1,29 @@
+{
+  "Keyword (BM25)": {
+    "Precision@5": 0.7,
+    "Recall@5": 0.8,
+    "MRR": 0.7,
+    "NDCG@5": 0.7,
+    "Constraint Satisfaction Rate": 0.7,
+    "Answer Accuracy": 0.7,
+    "Average Latency (ms)": 1.83
+  },
+  "Conventional Dense RAG": {
+    "Precision@5": 0.7,
+    "Recall@5": 1.1667,
+    "MRR": 0.7,
+    "NDCG@5": 0.7,
+    "Constraint Satisfaction Rate": 0.7,
+    "Answer Accuracy": 0.7,
+    "Average Latency (ms)": 926.26
+  },
+  "Constraint-Aware Hybrid RAG": {
+    "Precision@5": 0.7,
+    "Recall@5": 1.1667,
+    "MRR": 0.7,
+    "NDCG@5": 0.7,
+    "Constraint Satisfaction Rate": 0.7,
+    "Answer Accuracy": 0.7,
+    "Average Latency (ms)": 13.64
+  }
+}

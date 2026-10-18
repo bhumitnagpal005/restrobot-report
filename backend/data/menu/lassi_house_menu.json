@@ -1,0 +1,1169 @@
+{
+    "restaurant": {
+        "name": "Lassi House",
+        "location": "89, Katpadi Main Road, Katpadi, Vellore",
+        "contact": "+919003368111"
+    },
+    "menu": [
+        {
+            "category": "Falooda",
+            "items": [
+                {
+                    "name": "Cream Falooda [300 ml]",
+                    "price": "",
+                    "description": "Cream falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kesar Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kesar falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kulfi Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kulfi falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Style Falooda [450 ml]",
+                    "price": "",
+                    "description": "Bombay style falooda [450 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "Basil seeds, semiya, fruits cream ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blackcurrant Falooda",
+                    "price": "",
+                    "description": "Basil seeds, samiya, rosemilk, fruits, cream, with blackcurrant ice cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Chocolate",
+                    "price": "",
+                    "description": "Chocolate Ice cream [2 scoops] with cream, choco chips.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Island Pattaya",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gud Bud",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Brownie",
+                    "price": "",
+                    "description": "Vanilla and chocolate ice cream with brownie.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butterscotch Fudge",
+                    "price": "",
+                    "description": "Butterscotch ice cream [2 Scoops], vanilla Icecream [1 Scoop] with cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dry Fruit Sundae",
+                    "price": "",
+                    "description": "3 Icecream scoops with dry fruits",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Wizard of Oreo Shake",
+                    "price": "",
+                    "description": "Freak Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beauty and The Boost Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "The Dark Chocolate Knight Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tintin of Chocolate Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cowboy Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coffee",
+                    "price": "",
+                    "description": "Shakes with Ice Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lychee Shake",
+                    "price": "",
+                    "description": "Lychee shake with vanilla Ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mississippi Mud Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chips Shake",
+                    "price": "",
+                    "description": "Shakes with Cakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hop Scotch Butterscotch Shake",
+                    "price": "",
+                    "description": "Butterscotch shake with cake, cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Muskmelon Shake",
+                    "price": "",
+                    "description": "Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chocolate Shake",
+                    "price": "",
+                    "description": "Chocolate milkshake.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Vanilla Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Body Cooler Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kiwi Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coconut Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Pista Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Coffee",
+                    "price": "",
+                    "description": "Coffee Affairs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mud Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cream",
+                    "price": "",
+                    "description": "Berry Dreamy",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Cream",
+                    "price": "",
+                    "description": "Cranberry shake with cream blend.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Berry Litchi Litchi",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Good Old Vanilla",
+                    "price": "",
+                    "description": "Indian Classic",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Kesar",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Falooda",
+            "items": [
+                {
+                    "name": "Cream Falooda [300 ml]",
+                    "price": "",
+                    "description": "Cream falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kesar Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kesar falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kulfi Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kulfi falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Style Falooda [450 ml]",
+                    "price": "",
+                    "description": "Bombay style falooda [450 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "Basil seeds, semiya, fruits cream ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blackcurrant Falooda",
+                    "price": "",
+                    "description": "Basil seeds, samiya, rosemilk, fruits, cream, with blackcurrant ice cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Chocolate",
+                    "price": "",
+                    "description": "Chocolate Ice cream [2 scoops] with cream, choco chips.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Island Pattaya",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gud Bud",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Brownie",
+                    "price": "",
+                    "description": "Vanilla and chocolate ice cream with brownie.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butterscotch Fudge",
+                    "price": "",
+                    "description": "Butterscotch ice cream [2 Scoops], vanilla Icecream [1 Scoop] with cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dry Fruit Sundae",
+                    "price": "",
+                    "description": "3 Icecream scoops with dry fruits",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Wizard of Oreo Shake",
+                    "price": "",
+                    "description": "Freak Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beauty and The Boost Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "The Dark Chocolate Knight Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tintin of Chocolate Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cowboy Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coffee",
+                    "price": "",
+                    "description": "Shakes with Ice Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lychee Shake",
+                    "price": "",
+                    "description": "Lychee shake with vanilla Ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mississippi Mud Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chips Shake",
+                    "price": "",
+                    "description": "Shakes with Cakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hop Scotch Butterscotch Shake",
+                    "price": "",
+                    "description": "Butterscotch shake with cake, cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Muskmelon Shake",
+                    "price": "",
+                    "description": "Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chocolate Shake",
+                    "price": "",
+                    "description": "Chocolate milkshake.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Vanilla Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Body Cooler Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kiwi Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coconut Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Pista Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Coffee",
+                    "price": "",
+                    "description": "Coffee Affairs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mud Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cream",
+                    "price": "",
+                    "description": "Berry Dreamy",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Cream",
+                    "price": "",
+                    "description": "Cranberry shake with cream blend.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Berry Litchi Litchi",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Good Old Vanilla",
+                    "price": "",
+                    "description": "Indian Classic",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Kesar",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Falooda",
+            "items": [
+                {
+                    "name": "Cream Falooda [300 ml]",
+                    "price": "",
+                    "description": "Cream falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kesar Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kesar falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kulfi Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kulfi falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Style Falooda [450 ml]",
+                    "price": "",
+                    "description": "Bombay style falooda [450 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "Basil seeds, semiya, fruits cream ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blackcurrant Falooda",
+                    "price": "",
+                    "description": "Basil seeds, samiya, rosemilk, fruits, cream, with blackcurrant ice cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Chocolate",
+                    "price": "",
+                    "description": "Chocolate Ice cream [2 scoops] with cream, choco chips.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Island Pattaya",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gud Bud",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Brownie",
+                    "price": "",
+                    "description": "Vanilla and chocolate ice cream with brownie.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butterscotch Fudge",
+                    "price": "",
+                    "description": "Butterscotch ice cream [2 Scoops], vanilla Icecream [1 Scoop] with cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dry Fruit Sundae",
+                    "price": "",
+                    "description": "3 Icecream scoops with dry fruits",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Wizard of Oreo Shake",
+                    "price": "",
+                    "description": "Freak Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beauty and The Boost Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "The Dark Chocolate Knight Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tintin of Chocolate Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cowboy Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coffee",
+                    "price": "",
+                    "description": "Shakes with Ice Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lychee Shake",
+                    "price": "",
+                    "description": "Lychee shake with vanilla Ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mississippi Mud Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chips Shake",
+                    "price": "",
+                    "description": "Shakes with Cakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hop Scotch Butterscotch Shake",
+                    "price": "",
+                    "description": "Butterscotch shake with cake, cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Muskmelon Shake",
+                    "price": "",
+                    "description": "Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chocolate Shake",
+                    "price": "",
+                    "description": "Chocolate milkshake.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Vanilla Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Body Cooler Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kiwi Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coconut Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Pista Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Coffee",
+                    "price": "",
+                    "description": "Coffee Affairs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mud Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cream",
+                    "price": "",
+                    "description": "Berry Dreamy",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Cream",
+                    "price": "",
+                    "description": "Cranberry shake with cream blend.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Berry Litchi Litchi",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Good Old Vanilla",
+                    "price": "",
+                    "description": "Indian Classic",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Kesar",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Falooda",
+            "items": [
+                {
+                    "name": "Cream Falooda [300 ml]",
+                    "price": "",
+                    "description": "Cream falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kesar Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kesar falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kulfi Falooda [300 ml]",
+                    "price": "",
+                    "description": "Kulfi falooda [300 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bombay Style Falooda [450 ml]",
+                    "price": "",
+                    "description": "Bombay style falooda [450 ml].",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Falooda",
+                    "price": "",
+                    "description": "Basil seeds, semiya, fruits cream ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blackcurrant Falooda",
+                    "price": "",
+                    "description": "Basil seeds, samiya, rosemilk, fruits, cream, with blackcurrant ice cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Scoops and Smiles",
+            "items": [
+                {
+                    "name": "Sinful Chocolate",
+                    "price": "",
+                    "description": "Chocolate Ice cream [2 scoops] with cream, choco chips.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Island Pattaya",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gud Bud",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sinful Brownie",
+                    "price": "",
+                    "description": "Vanilla and chocolate ice cream with brownie.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butterscotch Fudge",
+                    "price": "",
+                    "description": "Butterscotch ice cream [2 Scoops], vanilla Icecream [1 Scoop] with cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dry Fruit Sundae",
+                    "price": "",
+                    "description": "3 Icecream scoops with dry fruits",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Shakes and Smoothies",
+            "items": [
+                {
+                    "name": "Wizard of Oreo Shake",
+                    "price": "",
+                    "description": "Freak Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beauty and The Boost Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "The Dark Chocolate Knight Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tintin of Chocolate Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cowboy Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coffee",
+                    "price": "",
+                    "description": "Shakes with Ice Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lychee Shake",
+                    "price": "",
+                    "description": "Lychee shake with vanilla Ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mississippi Mud Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chips Shake",
+                    "price": "",
+                    "description": "Shakes with Cakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hop Scotch Butterscotch Shake",
+                    "price": "",
+                    "description": "Butterscotch shake with cake, cream and nuts.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Muskmelon Shake",
+                    "price": "",
+                    "description": "Shakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgium Chocolate Shake",
+                    "price": "",
+                    "description": "Chocolate milkshake.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Vanilla Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Body Cooler Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kiwi Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coconut Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Pista Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Shake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Cold Coffee Affairs",
+            "items": [
+                {
+                    "name": "Belgium Coffee",
+                    "price": "",
+                    "description": "Coffee Affairs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mud Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks (Beverages)",
+            "items": [
+                {
+                    "name": "Blueberry Cream",
+                    "price": "",
+                    "description": "Berry Dreamy",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Cream",
+                    "price": "",
+                    "description": "Cranberry shake with cream blend.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Berry Litchi Litchi",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Good Old Vanilla",
+                    "price": "",
+                    "description": "Indian Classic",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Badam Kesar",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

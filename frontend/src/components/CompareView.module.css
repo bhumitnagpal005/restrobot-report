@@ -1,0 +1,150 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  background: var(--surface);
+  border-radius: var(--radius);
+  margin-top: 10px;
+  border: 1px solid var(--border);
+}
+
+.headerBox {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.badge {
+  align-self: flex-start;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-dim);
+  padding: 3px 8px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+}
+
+.queryTitle {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.constraintsBox {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.columnsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+@media (max-width: 768px) {
+  .columnsGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.column {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.columnProposed {
+  border-color: var(--accent);
+}
+
+.columnHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.columnHeader h4 {
+  font-size: 14px;
+  color: var(--text);
+}
+
+.latencyPill {
+  font-size: 11px;
+  padding: 2px 6px;
+  background: var(--border);
+  border-radius: 4px;
+  color: var(--text-muted);
+}
+
+.answerBox {
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--text);
+  background: var(--bg);
+  padding: 10px;
+  border-radius: 6px;
+  min-height: 80px;
+}
+
+.detailsBox {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.detailsBox h5 {
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.detailsBox ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.detailsBox li {
+  padding: 3px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.tableBox {
+  margin-top: 10px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.tableBox h4 {
+  font-size: 14px;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.table th, .table td {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+
+.table th {
+  background: var(--surface-2);
+  color: var(--text);
+}
+
+.highlightVal {
+  color: var(--accent);
+  font-weight: 600;
+}

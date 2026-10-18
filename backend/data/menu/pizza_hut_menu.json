@@ -1,0 +1,2683 @@
+{
+    "restaurant": {
+        "name": "Pizza Hut",
+        "location": "300",
+        "contact": "18002022022"
+    },
+    "menu": [
+        {
+            "category": "Ultimate Cheese Crust Pizza",
+            "items": [
+                {
+                    "name": "Chicken Tikka Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Tandoori-spiced chicken tikka, onion, tomato, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (277.7Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with finely chopped veggie mix and Texas garlic sauce. (275Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Chicken sausage, onion, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (295Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Black olives, green capsicum, mushroom, onion, red paprika, sweet corn, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (252.6Kcal /100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Three kinds of chicken : Schezwan meatballs, herbed chicken, chicken sausage, green capsicum, onion, red paprika, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first.  (260Kcal/ 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Classic cheese pizza with extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (283.9Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Spiced paneer, paprika, onions, capsicum, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (345.4Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indi Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with onion, green chill and tandoori sauce. (291.7Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Country Feast",
+                    "price": "",
+                    "description": "Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse (PAN Per/Med-244 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn & Cheese",
+                    "price": "",
+                    "description": "A combination of juicy sweet corn & 100% mozzarella cheese with flavourful signature pan sauce (PAN Per/Med-320 Kcal/100g | TnC-304 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme",
+                    "price": "",
+                    "description": "A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Margherita",
+                    "price": "",
+                    "description": "Your very own margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese (PAN Per/Med-300 Kcal/100g | TnC-309 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tandoori Paneer",
+                    "price": "",
+                    "description": "It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spiced Paneer",
+                    "price": "",
+                    "description": "Spiced paneer, crunchy onion, juicy tomato & 100% mozzarella cheese, with our classic pan sauce (PAN Per/Med-276 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Pizza",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and mozzarella cheese. A classic treat for all cheese lovers out there! (292 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Feast",
+                    "price": "",
+                    "description": "Herbed onion and green capsicum, juicy sweet corn & 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-269 Kcal/100g | TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Tandoori Veggie",
+                    "price": "",
+                    "description": "An ultimate combination of your favourite veggies-onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo (PAN Per/Med-314 Kcal/100g | TnC-395 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bold BBQ Veggies",
+                    "price": "",
+                    "description": "Our signature pan sauce, with BBQ Sauce drizzle, topped with mushroom, onion, green capsicum, & red paprika (PAN Per/Med-242 Kcal/100g | TnC-266 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Fiesta",
+                    "price": "",
+                    "description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce (PAN Per/Med-266 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mazedar Makhni Paneer",
+                    "price": "",
+                    "description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-288 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there! (PAN Per/Med-292 Kcal/100g | TnC-293 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Murg Malai Chicken",
+                    "price": "",
+                    "description": "Amazingly flavourful chicken malai tikka, herbed onion & green capsicum, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-269 Kcal/100g | TnC-299 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sausage & Sweet Corn",
+                    "price": "",
+                    "description": "Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-277 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast",
+                    "price": "",
+                    "description": "Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka",
+                    "price": "",
+                    "description": "Mouth-watering chicken tikka, crunchy onion & tomato with delicious tandoori sauce and 100% mozzarella cheese (PAN Per/Med-275 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dhabe Da Keema",
+                    "price": "",
+                    "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo (PAN Per/Med-270 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pepperoni",
+                    "price": "",
+                    "description": "Yummy chicken pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic! (PAN Per/Med-301 Kcal/100g | TnC-311 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage",
+                    "price": "",
+                    "description": "Pizza topped with chicken n cheese sausages & crunchy onions, flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-310 Kcal/100g | TnC-312 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sizzling Schezwan Chicken",
+                    "price": "",
+                    "description": "Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese (PAN Per/Med-277 Kcal/100g | TnC-286 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Nawabi Murg Makhni",
+                    "price": "",
+                    "description": "A chicken lovers delight! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-252 Kcal/100g | TnC-269 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Supreme",
+                    "price": "",
+                    "description": "Loaded with delicious chicken tikka, flavourful herbed chicken, spicy schezwan chicken meatball with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-273 Kcal/100g | TnC-284 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka Supreme",
+                    "price": "",
+                    "description": "A divine combination of delicious chicken tikka & malai chicken tikka, onion, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-267 Kcal/100g |TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Veg",
+                    "price": "",
+                    "description": "Combos and Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 non veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Non Veg",
+                    "price": "",
+                    "description": "Get 4 assorted flavor fun personal pizzas. Perfect personal pizza crust topped with exciting new sauces, cheesy dressing & your favorite toppings. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Chicken Feast",
+                    "price": "",
+                    "description": "Non Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Herbed Chicken & Capsicum",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, herbed chicken, crunchy capsicum and a flavourful dressing. (331 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Chicken Pepperoni & Onion",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, chicken pepperoni, crunchy onion and a flavourful dressing. (332 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Corn",
+                    "price": "",
+                    "description": "Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer Sizzle",
+                    "price": "",
+                    "description": "Pizza topped with spiced paneer, a spicy Schezwan sauce, juicy tomato, crunchy onion & capsicum and a flavourful dressing. (298 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Sweet Corn, Onion, Green Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy sweet corn, crunchy onion & spicy green chilli and a flavourful dressing. (327 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheesy Spicy Delight",
+                    "price": "",
+                    "description": "Pizza topped with 100% mozzarella cheese, a flavourful dressing, onion and spicy green chilli, sprinkled with our signature spiced seasoning. (367 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Onion Capsicum",
+                    "price": "",
+                    "description": "Personal pizza topped with our classic pan sauce, crunchy onion & capsicum and cheesy dressing (307 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Tomato Onion & Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy tomato, crunchy onion & green chilli for an extra zing and a flavourful dressing. (328 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Jalapeno Dip",
+                    "price": "",
+                    "description": "Cheesy jalapeno dip 20 gm",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked bread sticks, topped with a flavourful dressing & seasoned with herbs (320 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked buttery bread stix, sprinkled with herbs (287 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Veg",
+                    "price": "",
+                    "description": "Melts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Chicken BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Juicy Chicken Sausage, Herbed Chicken, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (330 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Chicken",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with juicy Chicken Sausage, Crunchy Onion, Green Capsicum, Red Bell Pepper, mozzarella cheese, flavorful sauce, folded over and baked then brushed with herbed butter and sprinkled with cheezy seasoning. (268 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Veggie BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Crunchy Onion, Green Capsicum, Red Bell Pepper, Juicy Corn, Mushroom, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (255 Kcal/100g)Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "Appetizer",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "6 pcs of tender and Juicy sweet chilli chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tomato Ketchup",
+                    "price": "",
+                    "description": "Ketchup sachet (11 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings coated in bold, fiery Schezwan flavours. Juicy, & packed with a spicy kick in every bite. (178.9 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "4 pcs of tender and juicy sweet chilly chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhni Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings glazed with rich, butter chicken goodness. Juicy, flavour-packed, and irresistible. (187.1 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "10 Pieces Of Spicy, Tender Chicken Wings (189.5 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (139.6 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with red bell pepper, onions, Capsicum, topped with a cheesy melt (132.7 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with Chicken sausage, Red bell pepper, onions, Capsicum, topped with a cheesy melt (140.2 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with chicken sausage, Red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (146 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with Chicken sausage, olives, Red bell pepper, onions, Capsicum topped with a cheesy melt (177.7 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with red bell pepper, olives, onions, Capsicum, topped with a cheesy melt (175.4 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pepsi",
+                    "price": "",
+                    "description": "Classic Pepsi with a masala kick 350 ml (50.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Glass",
+                    "price": "",
+                    "description": "Chilled glass of Pepsi 350 ml (43Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double the Fizz!",
+                    "price": "",
+                    "description": "Get any 2 mocktails at Rs 189",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirinda Glass",
+                    "price": "",
+                    "description": "Chilled glass of Mirinda 350 ml (55Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Mirinda",
+                    "price": "",
+                    "description": "Good old Mirinda with a masala twist 350 ml (62.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi 475ml.",
+                    "price": "",
+                    "description": "Drinks (Beverages)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Zero Sugar Can",
+                    "price": "",
+                    "description": "Pepsi Zero Sugar Can 300ml. Contains Caffeine (0 Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Pet Bottle",
+                    "price": "",
+                    "description": "Veg. Carbonated Water. Contains Caffeine. Pepsi is registered trademark of Pepsico, inc.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Water Bottle - 1000ml",
+                    "price": "",
+                    "description": "Water Bottle @42.86",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Volcano",
+                    "price": "",
+                    "description": "Desserts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brow-wow-nie",
+                    "price": "",
+                    "description": "A divine choco brownie for your all time chocolate cravings (273 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Veg)",
+                    "price": "",
+                    "description": "Meal for 4: Pizza Party Pack",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Non Veg)",
+                    "price": "",
+                    "description": "Serves 4. For the true chicken lovers! Creamy 1 Medium murgh malai and 1 Medium spicy tikka pizzas paired with 2 loaded breadstix, choco volcano & Pepsi joy! For nutritional data of this meal, refer to individual products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "1 Nawabi Murg Makhni PER Pizza +1 Chicken Tikka Supreme PER",
+                    "price": "",
+                    "description": "1 Plus 1 Personal: Pizza Pair Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Chicken Pepperoni PER Pizza + 1 Nawabi Murgh Makhni PER",
+                    "price": "",
+                    "description": "Serves 2. Classic Chicken Pepperoni Pizza (Personal) paired with rich, regal Nawabi-style Chicken Murgh Makhni Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Ultimate Tandoori Veggie PER Pizza + 1 Mazedar Makhni Paneer PER",
+                    "price": "",
+                    "description": "Serves 2. The Ultimate Pizza party with Ultimate Tandoori Paneer Pizza (Personal) & Mazedar Makhni Paneer Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Mazedar Makhni Paneer PER Pizza + 1 Veggie Supreme PER",
+                    "price": "",
+                    "description": "Serves 2. Flavourful Mazedar Makhni Paneer Pizza (Personal) meets all time favourite loaded Veggie Supreme Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Non Veg Pizza - Combo 1 (PER)",
+                    "price": "",
+                    "description": "1+1 PER Pizza: Ultimate Cheese Combos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Veg Pizza - Combo 2 (PER)",
+                    "price": "",
+                    "description": "Get 2X the cheese on the loaded veg pizzas \u2013 Veggie Supreme & Tandoori Paneer Pizza with Ultimate Cheese Crust!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Sausage, Chicken Pepperoni, Herbed Onion, Tomatoes, Duo Peppers - Green & Red, Texas Garlic Drizzle (256.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Overloaded Veggies Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Capsicum, Onion, Corn, Tomato, Jalapeno, Olives, Texas Garlic Drizzle (242.9 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Tikka Duo - Chicken Tikka & Chicken Malai Tikka, Duo Peppers - Green & Red , Tandoori Sauce, Mint Drizzle (258.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Makhni Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Masala Paneer, Onions, Green Chilli, Red Bell Pepper, Makhni Sauce, Mint Sauce Drizzle (273 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Smokey BBQ Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Exotic Veggie Mix, Corn, White Pizza Sauce, BBQ Drizzle (257.6 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Keema Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Keema, Onion, Red Paprika, Green Capsicum, Makhni Sauce, Mint Sauce Drizzle (275.8 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Schezwan Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Mushroom, Duo Peppers-Red and Green, Onion, Schezwan Sauce (263.7 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Ultimate Cheese Crust Pizza",
+            "items": [
+                {
+                    "name": "Chicken Tikka Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Tandoori-spiced chicken tikka, onion, tomato, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (277.7Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with finely chopped veggie mix and Texas garlic sauce. (275Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Chicken sausage, onion, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (295Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Black olives, green capsicum, mushroom, onion, red paprika, sweet corn, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (252.6Kcal /100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Three kinds of chicken : Schezwan meatballs, herbed chicken, chicken sausage, green capsicum, onion, red paprika, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first.  (260Kcal/ 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Classic cheese pizza with extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (283.9Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Spiced paneer, paprika, onions, capsicum, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (345.4Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indi Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with onion, green chill and tandoori sauce. (291.7Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Country Feast",
+                    "price": "",
+                    "description": "Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse (PAN Per/Med-244 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn & Cheese",
+                    "price": "",
+                    "description": "A combination of juicy sweet corn & 100% mozzarella cheese with flavourful signature pan sauce (PAN Per/Med-320 Kcal/100g | TnC-304 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme",
+                    "price": "",
+                    "description": "A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Margherita",
+                    "price": "",
+                    "description": "Your very own margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese (PAN Per/Med-300 Kcal/100g | TnC-309 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tandoori Paneer",
+                    "price": "",
+                    "description": "It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spiced Paneer",
+                    "price": "",
+                    "description": "Spiced paneer, crunchy onion, juicy tomato & 100% mozzarella cheese, with our classic pan sauce (PAN Per/Med-276 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Pizza",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and mozzarella cheese. A classic treat for all cheese lovers out there! (292 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Feast",
+                    "price": "",
+                    "description": "Herbed onion and green capsicum, juicy sweet corn & 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-269 Kcal/100g | TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Tandoori Veggie",
+                    "price": "",
+                    "description": "An ultimate combination of your favourite veggies-onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo (PAN Per/Med-314 Kcal/100g | TnC-395 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bold BBQ Veggies",
+                    "price": "",
+                    "description": "Our signature pan sauce, with BBQ Sauce drizzle, topped with mushroom, onion, green capsicum, & red paprika (PAN Per/Med-242 Kcal/100g | TnC-266 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Fiesta",
+                    "price": "",
+                    "description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce (PAN Per/Med-266 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mazedar Makhni Paneer",
+                    "price": "",
+                    "description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-288 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there! (PAN Per/Med-292 Kcal/100g | TnC-293 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Murg Malai Chicken",
+                    "price": "",
+                    "description": "Amazingly flavourful chicken malai tikka, herbed onion & green capsicum, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-269 Kcal/100g | TnC-299 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sausage & Sweet Corn",
+                    "price": "",
+                    "description": "Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-277 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast",
+                    "price": "",
+                    "description": "Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka",
+                    "price": "",
+                    "description": "Mouth-watering chicken tikka, crunchy onion & tomato with delicious tandoori sauce and 100% mozzarella cheese (PAN Per/Med-275 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dhabe Da Keema",
+                    "price": "",
+                    "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo (PAN Per/Med-270 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pepperoni",
+                    "price": "",
+                    "description": "Yummy chicken pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic! (PAN Per/Med-301 Kcal/100g | TnC-311 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage",
+                    "price": "",
+                    "description": "Pizza topped with chicken n cheese sausages & crunchy onions, flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-310 Kcal/100g | TnC-312 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sizzling Schezwan Chicken",
+                    "price": "",
+                    "description": "Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese (PAN Per/Med-277 Kcal/100g | TnC-286 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Nawabi Murg Makhni",
+                    "price": "",
+                    "description": "A chicken lovers delight! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-252 Kcal/100g | TnC-269 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Supreme",
+                    "price": "",
+                    "description": "Loaded with delicious chicken tikka, flavourful herbed chicken, spicy schezwan chicken meatball with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-273 Kcal/100g | TnC-284 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka Supreme",
+                    "price": "",
+                    "description": "A divine combination of delicious chicken tikka & malai chicken tikka, onion, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-267 Kcal/100g |TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Veg",
+                    "price": "",
+                    "description": "Combos and Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 non veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Non Veg",
+                    "price": "",
+                    "description": "Get 4 assorted flavor fun personal pizzas. Perfect personal pizza crust topped with exciting new sauces, cheesy dressing & your favorite toppings. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Chicken Feast",
+                    "price": "",
+                    "description": "Non Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Herbed Chicken & Capsicum",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, herbed chicken, crunchy capsicum and a flavourful dressing. (331 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Chicken Pepperoni & Onion",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, chicken pepperoni, crunchy onion and a flavourful dressing. (332 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Corn",
+                    "price": "",
+                    "description": "Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer Sizzle",
+                    "price": "",
+                    "description": "Pizza topped with spiced paneer, a spicy Schezwan sauce, juicy tomato, crunchy onion & capsicum and a flavourful dressing. (298 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Sweet Corn, Onion, Green Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy sweet corn, crunchy onion & spicy green chilli and a flavourful dressing. (327 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheesy Spicy Delight",
+                    "price": "",
+                    "description": "Pizza topped with 100% mozzarella cheese, a flavourful dressing, onion and spicy green chilli, sprinkled with our signature spiced seasoning. (367 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Onion Capsicum",
+                    "price": "",
+                    "description": "Personal pizza topped with our classic pan sauce, crunchy onion & capsicum and cheesy dressing (307 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Tomato Onion & Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy tomato, crunchy onion & green chilli for an extra zing and a flavourful dressing. (328 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Jalapeno Dip",
+                    "price": "",
+                    "description": "Cheesy jalapeno dip 20 gm",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked bread sticks, topped with a flavourful dressing & seasoned with herbs (320 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked buttery bread stix, sprinkled with herbs (287 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Veg",
+                    "price": "",
+                    "description": "Melts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Chicken BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Juicy Chicken Sausage, Herbed Chicken, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (330 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Chicken",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with juicy Chicken Sausage, Crunchy Onion, Green Capsicum, Red Bell Pepper, mozzarella cheese, flavorful sauce, folded over and baked then brushed with herbed butter and sprinkled with cheezy seasoning. (268 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Veggie BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Crunchy Onion, Green Capsicum, Red Bell Pepper, Juicy Corn, Mushroom, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (255 Kcal/100g)Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "Appetizer",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "6 pcs of tender and Juicy sweet chilli chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tomato Ketchup",
+                    "price": "",
+                    "description": "Ketchup sachet (11 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings coated in bold, fiery Schezwan flavours. Juicy, & packed with a spicy kick in every bite. (178.9 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "4 pcs of tender and juicy sweet chilly chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhni Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings glazed with rich, butter chicken goodness. Juicy, flavour-packed, and irresistible. (187.1 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "10 Pieces Of Spicy, Tender Chicken Wings (189.5 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (139.6 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with red bell pepper, onions, Capsicum, topped with a cheesy melt (132.7 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with Chicken sausage, Red bell pepper, onions, Capsicum, topped with a cheesy melt (140.2 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with chicken sausage, Red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (146 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with Chicken sausage, olives, Red bell pepper, onions, Capsicum topped with a cheesy melt (177.7 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with red bell pepper, olives, onions, Capsicum, topped with a cheesy melt (175.4 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pepsi",
+                    "price": "",
+                    "description": "Classic Pepsi with a masala kick 350 ml (50.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Glass",
+                    "price": "",
+                    "description": "Chilled glass of Pepsi 350 ml (43Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double the Fizz!",
+                    "price": "",
+                    "description": "Get any 2 mocktails at Rs 189",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirinda Glass",
+                    "price": "",
+                    "description": "Chilled glass of Mirinda 350 ml (55Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Mirinda",
+                    "price": "",
+                    "description": "Good old Mirinda with a masala twist 350 ml (62.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi 475ml.",
+                    "price": "",
+                    "description": "Drinks (Beverages)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Zero Sugar Can",
+                    "price": "",
+                    "description": "Pepsi Zero Sugar Can 300ml. Contains Caffeine (0 Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Pet Bottle",
+                    "price": "",
+                    "description": "Veg. Carbonated Water. Contains Caffeine. Pepsi is registered trademark of Pepsico, inc.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Water Bottle - 1000ml",
+                    "price": "",
+                    "description": "Water Bottle @42.86",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Volcano",
+                    "price": "",
+                    "description": "Desserts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brow-wow-nie",
+                    "price": "",
+                    "description": "A divine choco brownie for your all time chocolate cravings (273 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Veg)",
+                    "price": "",
+                    "description": "Meal for 4: Pizza Party Pack",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Non Veg)",
+                    "price": "",
+                    "description": "Serves 4. For the true chicken lovers! Creamy 1 Medium murgh malai and 1 Medium spicy tikka pizzas paired with 2 loaded breadstix, choco volcano & Pepsi joy! For nutritional data of this meal, refer to individual products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "1 Nawabi Murg Makhni PER Pizza +1 Chicken Tikka Supreme PER",
+                    "price": "",
+                    "description": "1 Plus 1 Personal: Pizza Pair Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Chicken Pepperoni PER Pizza + 1 Nawabi Murgh Makhni PER",
+                    "price": "",
+                    "description": "Serves 2. Classic Chicken Pepperoni Pizza (Personal) paired with rich, regal Nawabi-style Chicken Murgh Makhni Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Ultimate Tandoori Veggie PER Pizza + 1 Mazedar Makhni Paneer PER",
+                    "price": "",
+                    "description": "Serves 2. The Ultimate Pizza party with Ultimate Tandoori Paneer Pizza (Personal) & Mazedar Makhni Paneer Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Mazedar Makhni Paneer PER Pizza + 1 Veggie Supreme PER",
+                    "price": "",
+                    "description": "Serves 2. Flavourful Mazedar Makhni Paneer Pizza (Personal) meets all time favourite loaded Veggie Supreme Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Non Veg Pizza - Combo 1 (PER)",
+                    "price": "",
+                    "description": "1+1 PER Pizza: Ultimate Cheese Combos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Veg Pizza - Combo 2 (PER)",
+                    "price": "",
+                    "description": "Get 2X the cheese on the loaded veg pizzas \u2013 Veggie Supreme & Tandoori Paneer Pizza with Ultimate Cheese Crust!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Sausage, Chicken Pepperoni, Herbed Onion, Tomatoes, Duo Peppers - Green & Red, Texas Garlic Drizzle (256.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Overloaded Veggies Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Capsicum, Onion, Corn, Tomato, Jalapeno, Olives, Texas Garlic Drizzle (242.9 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Tikka Duo - Chicken Tikka & Chicken Malai Tikka, Duo Peppers - Green & Red , Tandoori Sauce, Mint Drizzle (258.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Makhni Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Masala Paneer, Onions, Green Chilli, Red Bell Pepper, Makhni Sauce, Mint Sauce Drizzle (273 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Smokey BBQ Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Exotic Veggie Mix, Corn, White Pizza Sauce, BBQ Drizzle (257.6 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Keema Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Keema, Onion, Red Paprika, Green Capsicum, Makhni Sauce, Mint Sauce Drizzle (275.8 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Schezwan Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Mushroom, Duo Peppers-Red and Green, Onion, Schezwan Sauce (263.7 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Ultimate Cheese Crust Pizza",
+            "items": [
+                {
+                    "name": "Chicken Tikka Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Tandoori-spiced chicken tikka, onion, tomato, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (277.7Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with finely chopped veggie mix and Texas garlic sauce. (275Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Chicken sausage, onion, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (295Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Black olives, green capsicum, mushroom, onion, red paprika, sweet corn, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (252.6Kcal /100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Three kinds of chicken : Schezwan meatballs, herbed chicken, chicken sausage, green capsicum, onion, red paprika, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first.  (260Kcal/ 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Classic cheese pizza with extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (283.9Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Spiced paneer, paprika, onions, capsicum, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (345.4Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indi Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with onion, green chill and tandoori sauce. (291.7Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Country Feast",
+                    "price": "",
+                    "description": "Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse (PAN Per/Med-244 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn & Cheese",
+                    "price": "",
+                    "description": "A combination of juicy sweet corn & 100% mozzarella cheese with flavourful signature pan sauce (PAN Per/Med-320 Kcal/100g | TnC-304 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme",
+                    "price": "",
+                    "description": "A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Margherita",
+                    "price": "",
+                    "description": "Your very own margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese (PAN Per/Med-300 Kcal/100g | TnC-309 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tandoori Paneer",
+                    "price": "",
+                    "description": "It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spiced Paneer",
+                    "price": "",
+                    "description": "Spiced paneer, crunchy onion, juicy tomato & 100% mozzarella cheese, with our classic pan sauce (PAN Per/Med-276 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Pizza",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and mozzarella cheese. A classic treat for all cheese lovers out there! (292 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Feast",
+                    "price": "",
+                    "description": "Herbed onion and green capsicum, juicy sweet corn & 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-269 Kcal/100g | TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Tandoori Veggie",
+                    "price": "",
+                    "description": "An ultimate combination of your favourite veggies-onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo (PAN Per/Med-314 Kcal/100g | TnC-395 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bold BBQ Veggies",
+                    "price": "",
+                    "description": "Our signature pan sauce, with BBQ Sauce drizzle, topped with mushroom, onion, green capsicum, & red paprika (PAN Per/Med-242 Kcal/100g | TnC-266 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Fiesta",
+                    "price": "",
+                    "description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce (PAN Per/Med-266 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mazedar Makhni Paneer",
+                    "price": "",
+                    "description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-288 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there! (PAN Per/Med-292 Kcal/100g | TnC-293 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Murg Malai Chicken",
+                    "price": "",
+                    "description": "Amazingly flavourful chicken malai tikka, herbed onion & green capsicum, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-269 Kcal/100g | TnC-299 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sausage & Sweet Corn",
+                    "price": "",
+                    "description": "Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-277 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast",
+                    "price": "",
+                    "description": "Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka",
+                    "price": "",
+                    "description": "Mouth-watering chicken tikka, crunchy onion & tomato with delicious tandoori sauce and 100% mozzarella cheese (PAN Per/Med-275 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dhabe Da Keema",
+                    "price": "",
+                    "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo (PAN Per/Med-270 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pepperoni",
+                    "price": "",
+                    "description": "Yummy chicken pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic! (PAN Per/Med-301 Kcal/100g | TnC-311 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage",
+                    "price": "",
+                    "description": "Pizza topped with chicken n cheese sausages & crunchy onions, flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-310 Kcal/100g | TnC-312 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sizzling Schezwan Chicken",
+                    "price": "",
+                    "description": "Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese (PAN Per/Med-277 Kcal/100g | TnC-286 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Nawabi Murg Makhni",
+                    "price": "",
+                    "description": "A chicken lovers delight! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-252 Kcal/100g | TnC-269 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Supreme",
+                    "price": "",
+                    "description": "Loaded with delicious chicken tikka, flavourful herbed chicken, spicy schezwan chicken meatball with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-273 Kcal/100g | TnC-284 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka Supreme",
+                    "price": "",
+                    "description": "A divine combination of delicious chicken tikka & malai chicken tikka, onion, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-267 Kcal/100g |TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Veg",
+                    "price": "",
+                    "description": "Combos and Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 non veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Non Veg",
+                    "price": "",
+                    "description": "Get 4 assorted flavor fun personal pizzas. Perfect personal pizza crust topped with exciting new sauces, cheesy dressing & your favorite toppings. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Chicken Feast",
+                    "price": "",
+                    "description": "Non Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Herbed Chicken & Capsicum",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, herbed chicken, crunchy capsicum and a flavourful dressing. (331 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Chicken Pepperoni & Onion",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, chicken pepperoni, crunchy onion and a flavourful dressing. (332 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Corn",
+                    "price": "",
+                    "description": "Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer Sizzle",
+                    "price": "",
+                    "description": "Pizza topped with spiced paneer, a spicy Schezwan sauce, juicy tomato, crunchy onion & capsicum and a flavourful dressing. (298 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Sweet Corn, Onion, Green Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy sweet corn, crunchy onion & spicy green chilli and a flavourful dressing. (327 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheesy Spicy Delight",
+                    "price": "",
+                    "description": "Pizza topped with 100% mozzarella cheese, a flavourful dressing, onion and spicy green chilli, sprinkled with our signature spiced seasoning. (367 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Onion Capsicum",
+                    "price": "",
+                    "description": "Personal pizza topped with our classic pan sauce, crunchy onion & capsicum and cheesy dressing (307 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Tomato Onion & Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy tomato, crunchy onion & green chilli for an extra zing and a flavourful dressing. (328 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Jalapeno Dip",
+                    "price": "",
+                    "description": "Cheesy jalapeno dip 20 gm",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked bread sticks, topped with a flavourful dressing & seasoned with herbs (320 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked buttery bread stix, sprinkled with herbs (287 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Veg",
+                    "price": "",
+                    "description": "Melts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Chicken BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Juicy Chicken Sausage, Herbed Chicken, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (330 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Chicken",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with juicy Chicken Sausage, Crunchy Onion, Green Capsicum, Red Bell Pepper, mozzarella cheese, flavorful sauce, folded over and baked then brushed with herbed butter and sprinkled with cheezy seasoning. (268 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Veggie BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Crunchy Onion, Green Capsicum, Red Bell Pepper, Juicy Corn, Mushroom, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (255 Kcal/100g)Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "Appetizer",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "6 pcs of tender and Juicy sweet chilli chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tomato Ketchup",
+                    "price": "",
+                    "description": "Ketchup sachet (11 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings coated in bold, fiery Schezwan flavours. Juicy, & packed with a spicy kick in every bite. (178.9 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "4 pcs of tender and juicy sweet chilly chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhni Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings glazed with rich, butter chicken goodness. Juicy, flavour-packed, and irresistible. (187.1 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "10 Pieces Of Spicy, Tender Chicken Wings (189.5 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (139.6 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with red bell pepper, onions, Capsicum, topped with a cheesy melt (132.7 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with Chicken sausage, Red bell pepper, onions, Capsicum, topped with a cheesy melt (140.2 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with chicken sausage, Red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (146 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with Chicken sausage, olives, Red bell pepper, onions, Capsicum topped with a cheesy melt (177.7 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with red bell pepper, olives, onions, Capsicum, topped with a cheesy melt (175.4 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pepsi",
+                    "price": "",
+                    "description": "Classic Pepsi with a masala kick 350 ml (50.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Glass",
+                    "price": "",
+                    "description": "Chilled glass of Pepsi 350 ml (43Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double the Fizz!",
+                    "price": "",
+                    "description": "Get any 2 mocktails at Rs 189",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirinda Glass",
+                    "price": "",
+                    "description": "Chilled glass of Mirinda 350 ml (55Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Mirinda",
+                    "price": "",
+                    "description": "Good old Mirinda with a masala twist 350 ml (62.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi 475ml.",
+                    "price": "",
+                    "description": "Drinks (Beverages)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Zero Sugar Can",
+                    "price": "",
+                    "description": "Pepsi Zero Sugar Can 300ml. Contains Caffeine (0 Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Pet Bottle",
+                    "price": "",
+                    "description": "Veg. Carbonated Water. Contains Caffeine. Pepsi is registered trademark of Pepsico, inc.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Water Bottle - 1000ml",
+                    "price": "",
+                    "description": "Water Bottle @42.86",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Volcano",
+                    "price": "",
+                    "description": "Desserts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brow-wow-nie",
+                    "price": "",
+                    "description": "A divine choco brownie for your all time chocolate cravings (273 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Veg)",
+                    "price": "",
+                    "description": "Meal for 4: Pizza Party Pack",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Non Veg)",
+                    "price": "",
+                    "description": "Serves 4. For the true chicken lovers! Creamy 1 Medium murgh malai and 1 Medium spicy tikka pizzas paired with 2 loaded breadstix, choco volcano & Pepsi joy! For nutritional data of this meal, refer to individual products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "1 Nawabi Murg Makhni PER Pizza +1 Chicken Tikka Supreme PER",
+                    "price": "",
+                    "description": "1 Plus 1 Personal: Pizza Pair Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Chicken Pepperoni PER Pizza + 1 Nawabi Murgh Makhni PER",
+                    "price": "",
+                    "description": "Serves 2. Classic Chicken Pepperoni Pizza (Personal) paired with rich, regal Nawabi-style Chicken Murgh Makhni Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Ultimate Tandoori Veggie PER Pizza + 1 Mazedar Makhni Paneer PER",
+                    "price": "",
+                    "description": "Serves 2. The Ultimate Pizza party with Ultimate Tandoori Paneer Pizza (Personal) & Mazedar Makhni Paneer Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Mazedar Makhni Paneer PER Pizza + 1 Veggie Supreme PER",
+                    "price": "",
+                    "description": "Serves 2. Flavourful Mazedar Makhni Paneer Pizza (Personal) meets all time favourite loaded Veggie Supreme Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Non Veg Pizza - Combo 1 (PER)",
+                    "price": "",
+                    "description": "1+1 PER Pizza: Ultimate Cheese Combos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Veg Pizza - Combo 2 (PER)",
+                    "price": "",
+                    "description": "Get 2X the cheese on the loaded veg pizzas \u2013 Veggie Supreme & Tandoori Paneer Pizza with Ultimate Cheese Crust!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Sausage, Chicken Pepperoni, Herbed Onion, Tomatoes, Duo Peppers - Green & Red, Texas Garlic Drizzle (256.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Overloaded Veggies Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Capsicum, Onion, Corn, Tomato, Jalapeno, Olives, Texas Garlic Drizzle (242.9 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Tikka Duo - Chicken Tikka & Chicken Malai Tikka, Duo Peppers - Green & Red , Tandoori Sauce, Mint Drizzle (258.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Makhni Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Masala Paneer, Onions, Green Chilli, Red Bell Pepper, Makhni Sauce, Mint Sauce Drizzle (273 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Smokey BBQ Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Exotic Veggie Mix, Corn, White Pizza Sauce, BBQ Drizzle (257.6 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Keema Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Keema, Onion, Red Paprika, Green Capsicum, Makhni Sauce, Mint Sauce Drizzle (275.8 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Schezwan Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Mushroom, Duo Peppers-Red and Green, Onion, Schezwan Sauce (263.7 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Ultimate Cheese Crust Pizza",
+            "items": [
+                {
+                    "name": "Chicken Tikka Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Tandoori-spiced chicken tikka, onion, tomato, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (277.7Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with finely chopped veggie mix and Texas garlic sauce. (275Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Chicken sausage, onion, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (295Kcal / 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Black olives, green capsicum, mushroom, onion, red paprika, sweet corn, extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (252.6Kcal /100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Three kinds of chicken : Schezwan meatballs, herbed chicken, chicken sausage, green capsicum, onion, red paprika, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first.  (260Kcal/ 100gm).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Classic cheese pizza with extra molten cheese and a melty gooey Cheese Crown on the crust, you\u2019ll want to Flip to the Cheese first. (283.9Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Ultimate Cheese Pizza",
+                    "price": "",
+                    "description": "Spiced paneer, paprika, onions, capsicum, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you\u2019ll want to Flip to the Cheese first. (345.4Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indi Cheesy Pocket 2Pcs",
+                    "price": "",
+                    "description": "Cheese-loaded pockets, stuffed with onion, green chill and tandoori sauce. (291.7Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Veg Pizza",
+            "items": [
+                {
+                    "name": "Country Feast",
+                    "price": "",
+                    "description": "Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse (PAN Per/Med-244 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn & Cheese",
+                    "price": "",
+                    "description": "A combination of juicy sweet corn & 100% mozzarella cheese with flavourful signature pan sauce (PAN Per/Med-320 Kcal/100g | TnC-304 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Supreme",
+                    "price": "",
+                    "description": "A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Margherita",
+                    "price": "",
+                    "description": "Your very own margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese (PAN Per/Med-300 Kcal/100g | TnC-309 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tandoori Paneer",
+                    "price": "",
+                    "description": "It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spiced Paneer",
+                    "price": "",
+                    "description": "Spiced paneer, crunchy onion, juicy tomato & 100% mozzarella cheese, with our classic pan sauce (PAN Per/Med-276 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Pizza",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and mozzarella cheese. A classic treat for all cheese lovers out there! (292 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Feast",
+                    "price": "",
+                    "description": "Herbed onion and green capsicum, juicy sweet corn & 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-269 Kcal/100g | TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Tandoori Veggie",
+                    "price": "",
+                    "description": "An ultimate combination of your favourite veggies-onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo (PAN Per/Med-314 Kcal/100g | TnC-395 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bold BBQ Veggies",
+                    "price": "",
+                    "description": "Our signature pan sauce, with BBQ Sauce drizzle, topped with mushroom, onion, green capsicum, & red paprika (PAN Per/Med-242 Kcal/100g | TnC-266 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Fiesta",
+                    "price": "",
+                    "description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce (PAN Per/Med-266 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mazedar Makhni Paneer",
+                    "price": "",
+                    "description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-288 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita",
+                    "price": "",
+                    "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there! (PAN Per/Med-292 Kcal/100g | TnC-293 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Non Veg Pizza",
+            "items": [
+                {
+                    "name": "Murg Malai Chicken",
+                    "price": "",
+                    "description": "Amazingly flavourful chicken malai tikka, herbed onion & green capsicum, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-269 Kcal/100g | TnC-299 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sausage & Sweet Corn",
+                    "price": "",
+                    "description": "Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-277 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chicken Feast",
+                    "price": "",
+                    "description": "Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka",
+                    "price": "",
+                    "description": "Mouth-watering chicken tikka, crunchy onion & tomato with delicious tandoori sauce and 100% mozzarella cheese (PAN Per/Med-275 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dhabe Da Keema",
+                    "price": "",
+                    "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo (PAN Per/Med-270 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pepperoni",
+                    "price": "",
+                    "description": "Yummy chicken pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic! (PAN Per/Med-301 Kcal/100g | TnC-311 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage",
+                    "price": "",
+                    "description": "Pizza topped with chicken n cheese sausages & crunchy onions, flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-310 Kcal/100g | TnC-312 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sizzling Schezwan Chicken",
+                    "price": "",
+                    "description": "Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese (PAN Per/Med-277 Kcal/100g | TnC-286 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Nawabi Murg Makhni",
+                    "price": "",
+                    "description": "A chicken lovers delight! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-252 Kcal/100g | TnC-269 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Supreme",
+                    "price": "",
+                    "description": "Loaded with delicious chicken tikka, flavourful herbed chicken, spicy schezwan chicken meatball with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-273 Kcal/100g | TnC-284 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Tikka Supreme",
+                    "price": "",
+                    "description": "A divine combination of delicious chicken tikka & malai chicken tikka, onion, spicy red paprika with flavourful pan sauce and 100% mozzarella cheese (PAN Per/Med-267 Kcal/100g |TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Flavour Fun Pizzas",
+            "items": [
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Veg",
+                    "price": "",
+                    "description": "Combos and Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 non veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 4 - Non Veg",
+                    "price": "",
+                    "description": "Get 4 assorted flavor fun personal pizzas. Perfect personal pizza crust topped with exciting new sauces, cheesy dressing & your favorite toppings. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+                    "price": "",
+                    "description": "Choose any 2 veg personal pizzas from our flavour fun range. For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Chicken Feast",
+                    "price": "",
+                    "description": "Non Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Herbed Chicken & Capsicum",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, herbed chicken, crunchy capsicum and a flavourful dressing. (331 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Chicken Pepperoni & Onion",
+                    "price": "",
+                    "description": "Pizza topped with our classic signature pan sauce, chicken pepperoni, crunchy onion and a flavourful dressing. (332 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Corn",
+                    "price": "",
+                    "description": "Veg Pizza",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer Sizzle",
+                    "price": "",
+                    "description": "Pizza topped with spiced paneer, a spicy Schezwan sauce, juicy tomato, crunchy onion & capsicum and a flavourful dressing. (298 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Sweet Corn, Onion, Green Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy sweet corn, crunchy onion & spicy green chilli and a flavourful dressing. (327 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheesy Spicy Delight",
+                    "price": "",
+                    "description": "Pizza topped with 100% mozzarella cheese, a flavourful dressing, onion and spicy green chilli, sprinkled with our signature spiced seasoning. (367 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Onion Capsicum",
+                    "price": "",
+                    "description": "Personal pizza topped with our classic pan sauce, crunchy onion & capsicum and cheesy dressing (307 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chatpata Tomato Onion & Chilli",
+                    "price": "",
+                    "description": "Pizza topped with a spicy tandoori sauce, juicy tomato, crunchy onion & green chilli for an extra zing and a flavourful dressing. (328 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Garlic Bread & Dips",
+            "items": [
+                {
+                    "name": "Jalapeno Dip",
+                    "price": "",
+                    "description": "Cheesy jalapeno dip 20 gm",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked bread sticks, topped with a flavourful dressing & seasoned with herbs (320 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Bread Stix",
+                    "price": "",
+                    "description": "Freshly baked buttery bread stix, sprinkled with herbs (287 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "name": "Cheezy Cheese Veg",
+                    "price": "",
+                    "description": "Melts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Chicken BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Juicy Chicken Sausage, Herbed Chicken, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (330 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheezy Cheese Chicken",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with juicy Chicken Sausage, Crunchy Onion, Green Capsicum, Red Bell Pepper, mozzarella cheese, flavorful sauce, folded over and baked then brushed with herbed butter and sprinkled with cheezy seasoning. (268 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Loaded Veggie BBQ",
+                    "price": "",
+                    "description": "Thin & Crispy crust, loaded with Crunchy Onion, Green Capsicum, Red Bell Pepper, Juicy Corn, Mushroom, mozzarella cheese, flavorful sauce and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (255 Kcal/100g)Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "Appetizer",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "6 pcs of tender and Juicy sweet chilli chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tomato Ketchup",
+                    "price": "",
+                    "description": "Ketchup sachet (11 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings coated in bold, fiery Schezwan flavours. Juicy, & packed with a spicy kick in every bite. (178.9 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 4pc",
+                    "price": "",
+                    "description": "4 pcs of tender and juicy sweet chilly chicken wings (189 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhni Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "All-new baked chicken wings glazed with rich, butter chicken goodness. Juicy, flavour-packed, and irresistible. (187.1 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Baked Chicken Wings 10pcs",
+                    "price": "",
+                    "description": "10 Pieces Of Spicy, Tender Chicken Wings (189.5 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "BBQ Baked Chicken Wings 6pc",
+                    "price": "",
+                    "description": "All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "name": "Creamy Tomato Mix Sauce Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (139.6 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with red bell pepper, onions, Capsicum, topped with a cheesy melt (132.7 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Italian Red Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in Italian arrabbiata sauce with Chicken sausage, Red bell pepper, onions, Capsicum, topped with a cheesy melt (140.2 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Creamy Tomato Mix Sauce Non Veg",
+                    "price": "",
+                    "description": "Fusilli pasta baked in creamy and tangy mix sauce with chicken sausage, Red bell pepper, onions, Capsicum, paprika, topped with a cheesy melt (146 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Non Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with Chicken sausage, olives, Red bell pepper, onions, Capsicum topped with a cheesy melt (177.7 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic White Sauce Pasta Veg",
+                    "price": "",
+                    "description": "Fusilli Pasta baked in creamy white sauce with red bell pepper, olives, onions, Capsicum, topped with a cheesy melt (175.4 Kcal/100g).",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Hut Caf\u00e9",
+            "items": [
+                {
+                    "name": "Masala Pepsi",
+                    "price": "",
+                    "description": "Classic Pepsi with a masala kick 350 ml (50.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Glass",
+                    "price": "",
+                    "description": "Chilled glass of Pepsi 350 ml (43Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double the Fizz!",
+                    "price": "",
+                    "description": "Get any 2 mocktails at Rs 189",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirinda Glass",
+                    "price": "",
+                    "description": "Chilled glass of Mirinda 350 ml (55Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Mirinda",
+                    "price": "",
+                    "description": "Good old Mirinda with a masala twist 350 ml (62.6Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks & Desserts",
+            "items": [
+                {
+                    "name": "Pepsi 475ml.",
+                    "price": "",
+                    "description": "Drinks (Beverages)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Zero Sugar Can",
+                    "price": "",
+                    "description": "Pepsi Zero Sugar Can 300ml. Contains Caffeine (0 Kcal/100ml)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Pet Bottle",
+                    "price": "",
+                    "description": "Veg. Carbonated Water. Contains Caffeine. Pepsi is registered trademark of Pepsico, inc.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Water Bottle - 1000ml",
+                    "price": "",
+                    "description": "Water Bottle @42.86",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Volcano",
+                    "price": "",
+                    "description": "Desserts",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brow-wow-nie",
+                    "price": "",
+                    "description": "A divine choco brownie for your all time chocolate cravings (273 Kcal/100g)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Everyday Meals",
+            "items": [
+                {
+                    "name": "Pizza Party Pack for 4 (Veg)",
+                    "price": "",
+                    "description": "Meal for 4: Pizza Party Pack",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party Pack for 4 (Non Veg)",
+                    "price": "",
+                    "description": "Serves 4. For the true chicken lovers! Creamy 1 Medium murgh malai and 1 Medium spicy tikka pizzas paired with 2 loaded breadstix, choco volcano & Pepsi joy! For nutritional data of this meal, refer to individual products",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "1 Nawabi Murg Makhni PER Pizza +1 Chicken Tikka Supreme PER",
+                    "price": "",
+                    "description": "1 Plus 1 Personal: Pizza Pair Deals",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Chicken Pepperoni PER Pizza + 1 Nawabi Murgh Makhni PER",
+                    "price": "",
+                    "description": "Serves 2. Classic Chicken Pepperoni Pizza (Personal) paired with rich, regal Nawabi-style Chicken Murgh Makhni Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Ultimate Tandoori Veggie PER Pizza + 1 Mazedar Makhni Paneer PER",
+                    "price": "",
+                    "description": "Serves 2. The Ultimate Pizza party with Ultimate Tandoori Paneer Pizza (Personal) & Mazedar Makhni Paneer Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "1 Mazedar Makhni Paneer PER Pizza + 1 Veggie Supreme PER",
+                    "price": "",
+                    "description": "Serves 2. Flavourful Mazedar Makhni Paneer Pizza (Personal) meets all time favourite loaded Veggie Supreme Pizza (Personal). For nutritional data of this meal, refer to individual products.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Non Veg Pizza - Combo 1 (PER)",
+                    "price": "",
+                    "description": "1+1 PER Pizza: Ultimate Cheese Combos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Veg Pizza - Combo 2 (PER)",
+                    "price": "",
+                    "description": "Get 2X the cheese on the loaded veg pizzas \u2013 Veggie Supreme & Tandoori Paneer Pizza with Ultimate Cheese Crust!",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "New Flatzz Pizzas - Light Crust, Big Flavour",
+            "items": [
+                {
+                    "name": "Ultimate Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Sausage, Chicken Pepperoni, Herbed Onion, Tomatoes, Duo Peppers - Green & Red, Texas Garlic Drizzle (256.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Overloaded Veggies Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Capsicum, Onion, Corn, Tomato, Jalapeno, Olives, Texas Garlic Drizzle (242.9 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Tikka Duo - Chicken Tikka & Chicken Malai Tikka, Duo Peppers - Green & Red , Tandoori Sauce, Mint Drizzle (258.1 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Makhni Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Masala Paneer, Onions, Green Chilli, Red Bell Pepper, Makhni Sauce, Mint Sauce Drizzle (273 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Smokey BBQ Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Exotic Veggie Mix, Corn, White Pizza Sauce, BBQ Drizzle (257.6 kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Keema Masala Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Chicken Keema, Onion, Red Paprika, Green Capsicum, Makhni Sauce, Mint Sauce Drizzle (275.8 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Schezwan Veggie Flatzz Pizza",
+                    "price": "",
+                    "description": "Mozzarella Cheese, Mushroom, Duo Peppers-Red and Green, Onion, Schezwan Sauce (263.7 Kcal/100gm)",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

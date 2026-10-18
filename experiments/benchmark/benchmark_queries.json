@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q01",
+    "query": "Show vegetarian food under ₹200",
+    "category": "Price & Dietary Constraint",
+    "expected_constraints": {"dietary_preference": "vegetarian", "max_price": 200.0}
+  },
+  {
+    "id": "q02",
+    "query": "Find spicy non-veg rolls under ₹150",
+    "category": "Multi-Constraint",
+    "expected_constraints": {"dietary_preference": "non-vegetarian", "spice_level": "spicy", "max_price": 150.0, "category": "roll"}
+  },
+  {
+    "id": "q03",
+    "query": "Which restaurants serve biryani?",
+    "category": "Simple Keyword",
+    "expected_constraints": {"category": "biryani"}
+  },
+  {
+    "id": "q04",
+    "query": "Show me vegetarian options from KFC under ₹200",
+    "category": "Restaurant & Price & Dietary",
+    "expected_constraints": {"restaurant_name": "KFC", "dietary_preference": "vegetarian", "max_price": 200.0}
+  },
+  {
+    "id": "q05",
+    "query": "Find pizza under ₹300 near Delhi",
+    "category": "Location & Price & Category",
+    "expected_constraints": {"category": "pizza", "max_price": 300.0, "location": "Delhi"}
+  },
+  {
+    "id": "q06",
+    "query": "Which restaurants offer spicy vegetarian food?",
+    "category": "Dietary & Spice Level",
+    "expected_constraints": {"dietary_preference": "vegetarian", "spice_level": "spicy"}
+  },
+  {
+    "id": "q07",
+    "query": "Show non-vegetarian dishes below ₹250 from a specific restaurant",
+    "category": "Price & Dietary",
+    "expected_constraints": {"dietary_preference": "non-vegetarian", "max_price": 250.0}
+  },
+  {
+    "id": "q08",
+    "query": "Paneer tikka masala with naan",
+    "category": "Semantic Search",
+    "expected_constraints": {"food_item": "paneer"}
+  },
+  {
+    "id": "q09",
+    "query": "Cold beverages and thick shakes under ₹150",
+    "category": "Category & Price",
+    "expected_constraints": {"category": "shake", "max_price": 150.0}
+  },
+  {
+    "id": "q10",
+    "query": "Chocolate pancake or dessert",
+    "category": "Category",
+    "expected_constraints": {"category": "pancake"}
+  }
+]

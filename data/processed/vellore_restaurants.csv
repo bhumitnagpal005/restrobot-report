@@ -1,0 +1,1011 @@
+item_id,restaurant,location,cuisine,category,item_name,price,diet,spice_level,description,ingredients,document_text,clean_search_text
+item_001,Spice Villa,Vellore,Indian,Rolls,Paneer Tikka Roll,180.0,vegetarian,spicy,Spicy paneer roll with vegetables and green chutney,"paneer, onion, capsicum, chutney, roti","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Rolls
+Item: Paneer Tikka Roll
+Price: ₹180
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Spicy paneer roll with vegetables and green chutney
+Ingredients: paneer, onion, capsicum, chutney, roti",spice villa rolls paneer tikka roll vegetarian spicy spicy paneer roll with vegetables and green chutney paneer onion capsicum chutney roti
+item_002,Spice Villa,Vellore,Indian,Rolls,Veg Roll,120.0,vegetarian,medium,Delicious stuffed vegetable roll with tangy spices,"potato, peas, carrot, spices, roti","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Rolls
+Item: Veg Roll
+Price: ₹120
+Diet: Vegetarian
+Spice Level: Medium
+Description: Delicious stuffed vegetable roll with tangy spices
+Ingredients: potato, peas, carrot, spices, roti",spice villa rolls veg roll vegetarian medium delicious stuffed vegetable roll with tangy spices potato peas carrot spices roti
+item_003,Spice Villa,Vellore,Indian,Rolls,Chicken Tikka Roll,190.0,non-vegetarian,spicy,Succulent grilled chicken tikka wrapped in a paratha,"chicken, onion, spices, paratha","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Rolls
+Item: Chicken Tikka Roll
+Price: ₹190
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Succulent grilled chicken tikka wrapped in a paratha
+Ingredients: chicken, onion, spices, paratha",spice villa rolls chicken tikka roll non vegetarian spicy succulent grilled chicken tikka wrapped in a paratha chicken onion spices paratha
+item_004,Spice Villa,Vellore,Indian,Biryani,Chicken Biryani,220.0,non-vegetarian,spicy,Aromatic basmati rice with spicy chicken and authentic herbs,"chicken, basmati rice, biryani masala, ghee","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Biryani
+Item: Chicken Biryani
+Price: ₹220
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Aromatic basmati rice with spicy chicken and authentic herbs
+Ingredients: chicken, basmati rice, biryani masala, ghee",spice villa biryani chicken biryani non vegetarian spicy aromatic basmati rice with spicy chicken and authentic herbs chicken basmati rice biryani masala ghee
+item_005,Spice Villa,Vellore,Indian,Biryani,Veg Hyderabadi Biryani,180.0,vegetarian,medium,Fragrant rice cooked with mixed vegetables and aromatic spices,"basmati rice, paneer, carrot, peas, biryani spices","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Biryani
+Item: Veg Hyderabadi Biryani
+Price: ₹180
+Diet: Vegetarian
+Spice Level: Medium
+Description: Fragrant rice cooked with mixed vegetables and aromatic spices
+Ingredients: basmati rice, paneer, carrot, peas, biryani spices",spice villa biryani veg hyderabadi biryani vegetarian medium fragrant rice cooked with mixed vegetables and aromatic spices basmati rice paneer carrot peas biryani spices
+item_006,Spice Villa,Vellore,Indian,Main Course,Paneer Butter Masala,190.0,vegetarian,mild,Rich creamy cottage cheese gravy cooked in butter and tomatoes,"paneer, butter, tomato gravy, cream","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Main Course
+Item: Paneer Butter Masala
+Price: ₹190
+Diet: Vegetarian
+Spice Level: Mild
+Description: Rich creamy cottage cheese gravy cooked in butter and tomatoes
+Ingredients: paneer, butter, tomato gravy, cream",spice villa main course paneer butter masala vegetarian mild rich creamy cottage cheese gravy cooked in butter and tomatoes paneer butter tomato gravy cream
+item_007,Spice Villa,Vellore,Indian,Main Course,Chicken Korma,210.0,non-vegetarian,medium,Tender chicken pieces in a creamy cashew and yogurt curry,"chicken, cashew paste, cream, yogurt","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Main Course
+Item: Chicken Korma
+Price: ₹210
+Diet: Non-vegetarian
+Spice Level: Medium
+Description: Tender chicken pieces in a creamy cashew and yogurt curry
+Ingredients: chicken, cashew paste, cream, yogurt",spice villa main course chicken korma non vegetarian medium tender chicken pieces in a creamy cashew and yogurt curry chicken cashew paste cream yogurt
+item_008,Spice Villa,Vellore,Indian,Breads,Butter Naan,40.0,vegetarian,mild,Soft Indian flatbread brushed with fresh butter,"flour, butter, milk","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Breads
+Item: Butter Naan
+Price: ₹40
+Diet: Vegetarian
+Spice Level: Mild
+Description: Soft Indian flatbread brushed with fresh butter
+Ingredients: flour, butter, milk",spice villa breads butter naan vegetarian mild soft indian flatbread brushed with fresh butter flour butter milk
+item_009,Spice Villa,Vellore,Indian,Breads,Garlic Naan,50.0,vegetarian,mild,Tandoori flatbread infused with minced garlic and butter,"flour, garlic, butter","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Breads
+Item: Garlic Naan
+Price: ₹50
+Diet: Vegetarian
+Spice Level: Mild
+Description: Tandoori flatbread infused with minced garlic and butter
+Ingredients: flour, garlic, butter",spice villa breads garlic naan vegetarian mild tandoori flatbread infused with minced garlic and butter flour garlic butter
+item_010,Spice Villa,Vellore,Indian,Starters,Chicken 65,175.0,non-vegetarian,extra spicy,Deep fried spicy chicken morsels marinated in South Indian spices,"chicken, curry leaves, red chili, yogurt","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Starters
+Item: Chicken 65
+Price: ₹175
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Deep fried spicy chicken morsels marinated in South Indian spices
+Ingredients: chicken, curry leaves, red chili, yogurt",spice villa starters chicken 65 non vegetarian extra spicy deep fried spicy chicken morsels marinated in south indian spices chicken curry leaves red chili yogurt
+item_011,Spice Villa,Vellore,Indian,Starters,Paneer 65,160.0,vegetarian,spicy,Crispy fried cottage cheese cubes tossed in spicy tempering,"paneer, curry leaves, red chili paste","Restaurant: Spice Villa
+Location: Vellore
+Cuisine: Indian
+Category: Starters
+Item: Paneer 65
+Price: ₹160
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Crispy fried cottage cheese cubes tossed in spicy tempering
+Ingredients: paneer, curry leaves, red chili paste",spice villa starters paneer 65 vegetarian spicy crispy fried cottage cheese cubes tossed in spicy tempering paneer curry leaves red chili paste
+item_012,Food House,Katpadi,Indian,Biryani,Special Veg Biryani,190.0,vegetarian,medium,Layered vegetable biryani served with raita and mirchi ka salan,"basmati rice, mixed veggies, saffron, mint","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Biryani
+Item: Special Veg Biryani
+Price: ₹190
+Diet: Vegetarian
+Spice Level: Medium
+Description: Layered vegetable biryani served with raita and mirchi ka salan
+Ingredients: basmati rice, mixed veggies, saffron, mint",food house biryani special veg biryani vegetarian medium layered vegetable biryani served with raita and mirchi ka salan basmati rice mixed veggies saffron mint
+item_013,Food House,Katpadi,Indian,Biryani,Mutton Biryani,280.0,non-vegetarian,spicy,Slow cooked tender mutton biryani rich in Indian spices,"mutton, basmati rice, ghee, spices","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Biryani
+Item: Mutton Biryani
+Price: ₹280
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Slow cooked tender mutton biryani rich in Indian spices
+Ingredients: mutton, basmati rice, ghee, spices",food house biryani mutton biryani non vegetarian spicy slow cooked tender mutton biryani rich in indian spices mutton basmati rice ghee spices
+item_014,Food House,Katpadi,Indian,Main Course,Dal Makhani,150.0,vegetarian,mild,Slow cooked black lentils simmered with cream and butter,"black lentils, butter, cream, tomato","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Main Course
+Item: Dal Makhani
+Price: ₹150
+Diet: Vegetarian
+Spice Level: Mild
+Description: Slow cooked black lentils simmered with cream and butter
+Ingredients: black lentils, butter, cream, tomato",food house main course dal makhani vegetarian mild slow cooked black lentils simmered with cream and butter black lentils butter cream tomato
+item_015,Food House,Katpadi,Indian,Main Course,Kadai Paneer,185.0,vegetarian,spicy,Cottage cheese cooked with bell peppers and fresh ground spices,"paneer, capsicum, coriander seeds, onion","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Main Course
+Item: Kadai Paneer
+Price: ₹185
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Cottage cheese cooked with bell peppers and fresh ground spices
+Ingredients: paneer, capsicum, coriander seeds, onion",food house main course kadai paneer vegetarian spicy cottage cheese cooked with bell peppers and fresh ground spices paneer capsicum coriander seeds onion
+item_016,Food House,Katpadi,Indian,Main Course,Butter Chicken,230.0,non-vegetarian,medium,Classic Punjabi chicken curry in creamy tomato gravy,"chicken, butter, cream, tomato","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Main Course
+Item: Butter Chicken
+Price: ₹230
+Diet: Non-vegetarian
+Spice Level: Medium
+Description: Classic Punjabi chicken curry in creamy tomato gravy
+Ingredients: chicken, butter, cream, tomato",food house main course butter chicken non vegetarian medium classic punjabi chicken curry in creamy tomato gravy chicken butter cream tomato
+item_017,Food House,Katpadi,Indian,Rolls,Spicy Paneer Roll,140.0,vegetarian,spicy,Pan fried roll stuffed with spicy cottage cheese and onions,"paneer, onions, capsicum, wrap","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Rolls
+Item: Spicy Paneer Roll
+Price: ₹140
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Pan fried roll stuffed with spicy cottage cheese and onions
+Ingredients: paneer, onions, capsicum, wrap",food house rolls spicy paneer roll vegetarian spicy pan fried roll stuffed with spicy cottage cheese and onions paneer onions capsicum wrap
+item_018,Food House,Katpadi,Indian,Rolls,Egg Roll,110.0,non-vegetarian,medium,Fresh double egg wrap with crunchy onions and spices,"egg, onion, chat masala, paratha","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Rolls
+Item: Egg Roll
+Price: ₹110
+Diet: Non-vegetarian
+Spice Level: Medium
+Description: Fresh double egg wrap with crunchy onions and spices
+Ingredients: egg, onion, chat masala, paratha",food house rolls egg roll non vegetarian medium fresh double egg wrap with crunchy onions and spices egg onion chat masala paratha
+item_019,Food House,Katpadi,Indian,Starters,Veg Manchurian,140.0,vegetarian,spicy,Fried vegetable balls tossed in spicy Chinese gravy,"cabbage, carrot, soy sauce, chili","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Starters
+Item: Veg Manchurian
+Price: ₹140
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Fried vegetable balls tossed in spicy Chinese gravy
+Ingredients: cabbage, carrot, soy sauce, chili",food house starters veg manchurian vegetarian spicy fried vegetable balls tossed in spicy chinese gravy cabbage carrot soy sauce chili
+item_020,Food House,Katpadi,Indian,Starters,Gobi 65,130.0,vegetarian,spicy,Crispy cauliflower florets coated in red spicy batter,"cauliflower, chili powder, cornflour","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Starters
+Item: Gobi 65
+Price: ₹130
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Crispy cauliflower florets coated in red spicy batter
+Ingredients: cauliflower, chili powder, cornflour",food house starters gobi 65 vegetarian spicy crispy cauliflower florets coated in red spicy batter cauliflower chili powder cornflour
+item_021,Food House,Katpadi,Indian,Desserts,Gulab Jamun,60.0,vegetarian,mild,Warm soft milk solid dumplings soaked in sugar syrup,"khoya, sugar syrup, cardamom","Restaurant: Food House
+Location: Katpadi
+Cuisine: Indian
+Category: Desserts
+Item: Gulab Jamun
+Price: ₹60
+Diet: Vegetarian
+Spice Level: Mild
+Description: Warm soft milk solid dumplings soaked in sugar syrup
+Ingredients: khoya, sugar syrup, cardamom",food house desserts gulab jamun vegetarian mild warm soft milk solid dumplings soaked in sugar syrup khoya sugar syrup cardamom
+item_022,KFC,Gandhi Nagar,American,Burgers,Veg Zinger Burger,179.0,vegetarian,medium,Crispy vegetable patty with fresh lettuce and creamy mayo in a sesame bun,"veg patty, lettuce, mayo, bun","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Burgers
+Item: Veg Zinger Burger
+Price: ₹179
+Diet: Vegetarian
+Spice Level: Medium
+Description: Crispy vegetable patty with fresh lettuce and creamy mayo in a sesame bun
+Ingredients: veg patty, lettuce, mayo, bun",kfc burgers veg zinger burger vegetarian medium crispy vegetable patty with fresh lettuce and creamy mayo in a sesame bun veg patty lettuce mayo bun
+item_023,KFC,Gandhi Nagar,American,Burgers,Chicken Zinger Burger,199.0,non-vegetarian,spicy,Signature crispy chicken fillet burger with spicy mayo,"crispy chicken, lettuce, spicy mayo, bun","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Burgers
+Item: Chicken Zinger Burger
+Price: ₹199
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Signature crispy chicken fillet burger with spicy mayo
+Ingredients: crispy chicken, lettuce, spicy mayo, bun",kfc burgers chicken zinger burger non vegetarian spicy signature crispy chicken fillet burger with spicy mayo crispy chicken lettuce spicy mayo bun
+item_024,KFC,Gandhi Nagar,American,Chicken,Hot & Spicy Chicken Wings (4 pcs),249.0,non-vegetarian,extra spicy,Juicy chicken wings coated in hot and spicy breading fried crisp,"chicken wings, spicy breading, herbs","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Chicken
+Item: Hot & Spicy Chicken Wings (4 pcs)
+Price: ₹249
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Juicy chicken wings coated in hot and spicy breading fried crisp
+Ingredients: chicken wings, spicy breading, herbs",kfc chicken hot spicy chicken wings 4 pcs non vegetarian extra spicy juicy chicken wings coated in hot and spicy breading fried crisp chicken wings spicy breading herbs
+item_025,KFC,Gandhi Nagar,American,Chicken,Popcorn Chicken (Medium),169.0,non-vegetarian,medium,Bite sized crispy boneless chicken chunks with dip,"chicken popcorn, seasoning, dip","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Chicken
+Item: Popcorn Chicken (Medium)
+Price: ₹169
+Diet: Non-vegetarian
+Spice Level: Medium
+Description: Bite sized crispy boneless chicken chunks with dip
+Ingredients: chicken popcorn, seasoning, dip",kfc chicken popcorn chicken medium non vegetarian medium bite sized crispy boneless chicken chunks with dip chicken popcorn seasoning dip
+item_026,KFC,Gandhi Nagar,American,Rolls,Veg Longer Roll,99.0,vegetarian,mild,Crispy veg strip wrap with tangy sauces,"veg strip, wrap, mayo, lettuce","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Rolls
+Item: Veg Longer Roll
+Price: ₹99
+Diet: Vegetarian
+Spice Level: Mild
+Description: Crispy veg strip wrap with tangy sauces
+Ingredients: veg strip, wrap, mayo, lettuce",kfc rolls veg longer roll vegetarian mild crispy veg strip wrap with tangy sauces veg strip wrap mayo lettuce
+item_027,KFC,Gandhi Nagar,American,Rolls,Chicken Roll,129.0,non-vegetarian,spicy,Crunchy chicken strip wrap with tangy mayo and spicy seasonings,"chicken strip, wrap, spicy mayo","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Rolls
+Item: Chicken Roll
+Price: ₹129
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Crunchy chicken strip wrap with tangy mayo and spicy seasonings
+Ingredients: chicken strip, wrap, spicy mayo",kfc rolls chicken roll non vegetarian spicy crunchy chicken strip wrap with tangy mayo and spicy seasonings chicken strip wrap spicy mayo
+item_028,KFC,Gandhi Nagar,American,Sides,Crispy Fries (Large),119.0,vegetarian,mild,Golden salted potato french fries,"potato, salt, oil","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Sides
+Item: Crispy Fries (Large)
+Price: ₹119
+Diet: Vegetarian
+Spice Level: Mild
+Description: Golden salted potato french fries
+Ingredients: potato, salt, oil",kfc sides crispy fries large vegetarian mild golden salted potato french fries potato salt oil
+item_029,KFC,Gandhi Nagar,American,Sides,Peri Peri Fries,139.0,vegetarian,spicy,French fries tossed in spicy African peri peri seasoning,"potato, peri peri spice","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Sides
+Item: Peri Peri Fries
+Price: ₹139
+Diet: Vegetarian
+Spice Level: Spicy
+Description: French fries tossed in spicy African peri peri seasoning
+Ingredients: potato, peri peri spice",kfc sides peri peri fries vegetarian spicy french fries tossed in spicy african peri peri seasoning potato peri peri spice
+item_030,KFC,Gandhi Nagar,American,Beverages,Chocolate Krushers,120.0,vegetarian,mild,Thick chilled chocolate shake topped with whipped cream,"milk, chocolate, ice cream","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Beverages
+Item: Chocolate Krushers
+Price: ₹120
+Diet: Vegetarian
+Spice Level: Mild
+Description: Thick chilled chocolate shake topped with whipped cream
+Ingredients: milk, chocolate, ice cream",kfc beverages chocolate krushers vegetarian mild thick chilled chocolate shake topped with whipped cream milk chocolate ice cream
+item_031,KFC,Gandhi Nagar,American,Beverages,Virgin Mojito,99.0,vegetarian,mild,Refreshing mint and lime fizzy drink,"mint, lime, soda, sugar","Restaurant: KFC
+Location: Gandhi Nagar
+Cuisine: American
+Category: Beverages
+Item: Virgin Mojito
+Price: ₹99
+Diet: Vegetarian
+Spice Level: Mild
+Description: Refreshing mint and lime fizzy drink
+Ingredients: mint, lime, soda, sugar",kfc beverages virgin mojito vegetarian mild refreshing mint and lime fizzy drink mint lime soda sugar
+item_032,Domino's Pizza,Vellore,Italian,Pizza,Peppy Paneer Pizza (Medium),295.0,vegetarian,spicy,Flavorful paneer cubes capsicum and spicy red pepper on cheesy crust,paneer capsicum red paprika cheese,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pizza
+Item: Peppy Paneer Pizza (Medium)
+Price: ₹295
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Flavorful paneer cubes capsicum and spicy red pepper on cheesy crust
+Ingredients: paneer capsicum red paprika cheese",domino s pizza pizza peppy paneer pizza medium vegetarian spicy flavorful paneer cubes capsicum and spicy red pepper on cheesy crust paneer capsicum red paprika cheese
+item_033,Domino's Pizza,Vellore,Italian,Pizza,Veggie Paradise Pizza (Personal),199.0,non-vegetarian,mild,Golden corn black olives capsicum and red paprika,corn olives capsicum red paprika cheese,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pizza
+Item: Veggie Paradise Pizza (Personal)
+Price: ₹199
+Diet: Non-vegetarian
+Spice Level: Mild
+Description: Golden corn black olives capsicum and red paprika
+Ingredients: corn olives capsicum red paprika cheese",domino s pizza pizza veggie paradise pizza personal non vegetarian mild golden corn black olives capsicum and red paprika corn olives capsicum red paprika cheese
+item_034,Domino's Pizza,Vellore,Italian,Pizza,Margherita Pizza (Personal),129.0,vegetarian,mild,Classic mozzarella cheese pizza with tangy tomato sauce,mozzarella cheese tomato sauce basil,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pizza
+Item: Margherita Pizza (Personal)
+Price: ₹129
+Diet: Vegetarian
+Spice Level: Mild
+Description: Classic mozzarella cheese pizza with tangy tomato sauce
+Ingredients: mozzarella cheese tomato sauce basil",domino s pizza pizza margherita pizza personal vegetarian mild classic mozzarella cheese pizza with tangy tomato sauce mozzarella cheese tomato sauce basil
+item_035,Domino's Pizza,Vellore,Italian,Pizza,Chicken Pepperoni Pizza (Medium),380.0,non-vegetarian,spicy,Classic pepperoni slices with melted mozzarella on sourdough crust,chicken pepperoni mozzarella tomato sauce,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pizza
+Item: Chicken Pepperoni Pizza (Medium)
+Price: ₹380
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Classic pepperoni slices with melted mozzarella on sourdough crust
+Ingredients: chicken pepperoni mozzarella tomato sauce",domino s pizza pizza chicken pepperoni pizza medium non vegetarian spicy classic pepperoni slices with melted mozzarella on sourdough crust chicken pepperoni mozzarella tomato sauce
+item_036,Domino's Pizza,Vellore,Italian,Pizza,Non-Veg Supreme Pizza (Medium),420.0,non-vegetarian,spicy,Black olives grilled chicken rashers hot chicken breast and meatballs,grilled chicken meatballs olives cheese,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pizza
+Item: Non-Veg Supreme Pizza (Medium)
+Price: ₹420
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Black olives grilled chicken rashers hot chicken breast and meatballs
+Ingredients: grilled chicken meatballs olives cheese",domino s pizza pizza non veg supreme pizza medium non vegetarian spicy black olives grilled chicken rashers hot chicken breast and meatballs grilled chicken meatballs olives cheese
+item_037,Domino's Pizza,Vellore,Italian,Pasta,Cheesy Tomato Pasta Veg,149.0,vegetarian,mild,Penne pasta baked in creamy tomato and cheese sauce,penne pasta tomato sauce cheese,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pasta
+Item: Cheesy Tomato Pasta Veg
+Price: ₹149
+Diet: Vegetarian
+Spice Level: Mild
+Description: Penne pasta baked in creamy tomato and cheese sauce
+Ingredients: penne pasta tomato sauce cheese",domino s pizza pasta cheesy tomato pasta veg vegetarian mild penne pasta baked in creamy tomato and cheese sauce penne pasta tomato sauce cheese
+item_038,Domino's Pizza,Vellore,Italian,Pasta,Spicy Chicken Pasta,179.0,non-vegetarian,spicy,Penne pasta with hot chicken chunks in spicy arrabbiata sauce,penne chicken arrabbiata sauce,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Pasta
+Item: Spicy Chicken Pasta
+Price: ₹179
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Penne pasta with hot chicken chunks in spicy arrabbiata sauce
+Ingredients: penne chicken arrabbiata sauce",domino s pizza pasta spicy chicken pasta non vegetarian spicy penne pasta with hot chicken chunks in spicy arrabbiata sauce penne chicken arrabbiata sauce
+item_039,Domino's Pizza,Vellore,Italian,Sides,Garlic Breadsticks,109.0,vegetarian,mild,Freshly baked breadsticks seasoned with garlic and butter,bread garlic butter herbs,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Sides
+Item: Garlic Breadsticks
+Price: ₹109
+Diet: Vegetarian
+Spice Level: Mild
+Description: Freshly baked breadsticks seasoned with garlic and butter
+Ingredients: bread garlic butter herbs",domino s pizza sides garlic breadsticks vegetarian mild freshly baked breadsticks seasoned with garlic and butter bread garlic butter herbs
+item_040,Domino's Pizza,Vellore,Italian,Sides,Stuffed Garlic Bread,159.0,vegetarian,medium,Garlic bread stuffed with mozzarella cheese corn and jalapenos,bread cheese corn jalapenos,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Sides
+Item: Stuffed Garlic Bread
+Price: ₹159
+Diet: Vegetarian
+Spice Level: Medium
+Description: Garlic bread stuffed with mozzarella cheese corn and jalapenos
+Ingredients: bread cheese corn jalapenos",domino s pizza sides stuffed garlic bread vegetarian medium garlic bread stuffed with mozzarella cheese corn and jalapenos bread cheese corn jalapenos
+item_041,Domino's Pizza,Vellore,Italian,Desserts,Choco Lava Cake,109.0,vegetarian,mild,Warm chocolate cake filled with molten gooey chocolate center,chocolate flour butter,"Restaurant: Domino's Pizza
+Location: Vellore
+Cuisine: Italian
+Category: Desserts
+Item: Choco Lava Cake
+Price: ₹109
+Diet: Vegetarian
+Spice Level: Mild
+Description: Warm chocolate cake filled with molten gooey chocolate center
+Ingredients: chocolate flour butter",domino s pizza desserts choco lava cake vegetarian mild warm chocolate cake filled with molten gooey chocolate center chocolate flour butter
+item_042,Zorko,Katpadi,Fast Food,Rolls,Spicy Veg Roll,120.0,non-vegetarian,spicy,Stuffed wrap loaded with spicy paneer crunchy veggies and zesty sauces,paneer cabbage chili sauce wrap,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Rolls
+Item: Spicy Veg Roll
+Price: ₹120
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Stuffed wrap loaded with spicy paneer crunchy veggies and zesty sauces
+Ingredients: paneer cabbage chili sauce wrap",zorko rolls spicy veg roll non vegetarian spicy stuffed wrap loaded with spicy paneer crunchy veggies and zesty sauces paneer cabbage chili sauce wrap
+item_043,Zorko,Katpadi,Fast Food,Rolls,Spicy Chicken Roll,140.0,non-vegetarian,spicy,Juicy grilled chicken roll with hot sauce onions and spicy mayo,chicken hot sauce onion wrap,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Rolls
+Item: Spicy Chicken Roll
+Price: ₹140
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Juicy grilled chicken roll with hot sauce onions and spicy mayo
+Ingredients: chicken hot sauce onion wrap",zorko rolls spicy chicken roll non vegetarian spicy juicy grilled chicken roll with hot sauce onions and spicy mayo chicken hot sauce onion wrap
+item_044,Zorko,Katpadi,Fast Food,Burgers,Veg Crunchy Burger,99.0,vegetarian,medium,Crispy potato patty with cheese and crunchy lettuce,veg patty cheese lettuce bun,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Burgers
+Item: Veg Crunchy Burger
+Price: ₹99
+Diet: Vegetarian
+Spice Level: Medium
+Description: Crispy potato patty with cheese and crunchy lettuce
+Ingredients: veg patty cheese lettuce bun",zorko burgers veg crunchy burger vegetarian medium crispy potato patty with cheese and crunchy lettuce veg patty cheese lettuce bun
+item_045,Zorko,Katpadi,Fast Food,Burgers,Spicy Chicken Burger,129.0,non-vegetarian,extra spicy,Crispy spicy chicken patty with fiery red sauce,spicy chicken patty red sauce bun,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Burgers
+Item: Spicy Chicken Burger
+Price: ₹129
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Crispy spicy chicken patty with fiery red sauce
+Ingredients: spicy chicken patty red sauce bun",zorko burgers spicy chicken burger non vegetarian extra spicy crispy spicy chicken patty with fiery red sauce spicy chicken patty red sauce bun
+item_046,Zorko,Katpadi,Fast Food,Pizza,Veg Overloaded Pizza (Personal),179.0,vegetarian,medium,Loaded with paneer corn capsicum onion and extra cheese,paneer corn capsicum cheese,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Pizza
+Item: Veg Overloaded Pizza (Personal)
+Price: ₹179
+Diet: Vegetarian
+Spice Level: Medium
+Description: Loaded with paneer corn capsicum onion and extra cheese
+Ingredients: paneer corn capsicum cheese",zorko pizza veg overloaded pizza personal vegetarian medium loaded with paneer corn capsicum onion and extra cheese paneer corn capsicum cheese
+item_047,Zorko,Katpadi,Fast Food,Pizza,Chicken Feast Pizza (Personal),199.0,non-vegetarian,spicy,Topped with spicy chicken tikka barbecue chicken and cheese,chicken tikka bbq chicken cheese,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Pizza
+Item: Chicken Feast Pizza (Personal)
+Price: ₹199
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Topped with spicy chicken tikka barbecue chicken and cheese
+Ingredients: chicken tikka bbq chicken cheese",zorko pizza chicken feast pizza personal non vegetarian spicy topped with spicy chicken tikka barbecue chicken and cheese chicken tikka bbq chicken cheese
+item_048,Zorko,Katpadi,Fast Food,Shakes,Oreo Thick Shake,110.0,vegetarian,mild,Rich blended milk shake with crushed Oreo cookies and chocolate,oreo milk vanilla ice cream,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Shakes
+Item: Oreo Thick Shake
+Price: ₹110
+Diet: Vegetarian
+Spice Level: Mild
+Description: Rich blended milk shake with crushed Oreo cookies and chocolate
+Ingredients: oreo milk vanilla ice cream",zorko shakes oreo thick shake vegetarian mild rich blended milk shake with crushed oreo cookies and chocolate oreo milk vanilla ice cream
+item_049,Zorko,Katpadi,Fast Food,Shakes,KitKat Shake,120.0,vegetarian,mild,Creamy milk shake blended with crunchy KitKat bars,kitkat milk chocolate syrup,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Shakes
+Item: KitKat Shake
+Price: ₹120
+Diet: Vegetarian
+Spice Level: Mild
+Description: Creamy milk shake blended with crunchy KitKat bars
+Ingredients: kitkat milk chocolate syrup",zorko shakes kitkat shake vegetarian mild creamy milk shake blended with crunchy kitkat bars kitkat milk chocolate syrup
+item_050,Zorko,Katpadi,Fast Food,Sides,Cheese Corn Balls,119.0,vegetarian,mild,Deep fried crispy balls filled with melted cheese and sweet corn,cheese corn breadcrumbs,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Sides
+Item: Cheese Corn Balls
+Price: ₹119
+Diet: Vegetarian
+Spice Level: Mild
+Description: Deep fried crispy balls filled with melted cheese and sweet corn
+Ingredients: cheese corn breadcrumbs",zorko sides cheese corn balls vegetarian mild deep fried crispy balls filled with melted cheese and sweet corn cheese corn breadcrumbs
+item_051,Zorko,Katpadi,Fast Food,Sides,Spicy Peri Peri Nuggets,129.0,vegetarian,extra spicy,Crispy veg nuggets sprinkled with fiery peri peri seasoning,veg nuggets peri peri spice,"Restaurant: Zorko
+Location: Katpadi
+Cuisine: Fast Food
+Category: Sides
+Item: Spicy Peri Peri Nuggets
+Price: ₹129
+Diet: Vegetarian
+Spice Level: Extra spicy
+Description: Crispy veg nuggets sprinkled with fiery peri peri seasoning
+Ingredients: veg nuggets peri peri spice",zorko sides spicy peri peri nuggets vegetarian extra spicy crispy veg nuggets sprinkled with fiery peri peri seasoning veg nuggets peri peri spice
+item_052,Saleem Punjabi Dhaba,Green Circle,Punjabi,Biryani,Special Chicken Biryani,220.0,non-vegetarian,spicy,Aromatic basmati rice cooked with tender spicy chicken pieces and authentic herbs,chicken basmati rice Punjabi spices,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Biryani
+Item: Special Chicken Biryani
+Price: ₹220
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Aromatic basmati rice cooked with tender spicy chicken pieces and authentic herbs
+Ingredients: chicken basmati rice Punjabi spices",saleem punjabi dhaba biryani special chicken biryani non vegetarian spicy aromatic basmati rice cooked with tender spicy chicken pieces and authentic herbs chicken basmati rice punjabi spices
+item_053,Saleem Punjabi Dhaba,Green Circle,Punjabi,Biryani,Paneer Tikka Biryani,190.0,vegetarian,spicy,Basmati rice layered with smoky tandoori paneer tikka,paneer tikka basmati rice spices,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Biryani
+Item: Paneer Tikka Biryani
+Price: ₹190
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Basmati rice layered with smoky tandoori paneer tikka
+Ingredients: paneer tikka basmati rice spices",saleem punjabi dhaba biryani paneer tikka biryani vegetarian spicy basmati rice layered with smoky tandoori paneer tikka paneer tikka basmati rice spices
+item_054,Saleem Punjabi Dhaba,Green Circle,Punjabi,Main Course,Paneer Butter Masala Combo,180.0,vegetarian,normal,Rich creamy cottage cheese gravy served with 2 butter naans,paneer butter gravy naan,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Main Course
+Item: Paneer Butter Masala Combo
+Price: ₹180
+Diet: Vegetarian
+Spice Level: Normal
+Description: Rich creamy cottage cheese gravy served with 2 butter naans
+Ingredients: paneer butter gravy naan",saleem punjabi dhaba main course paneer butter masala combo vegetarian normal rich creamy cottage cheese gravy served with 2 butter naans paneer butter gravy naan
+item_055,Saleem Punjabi Dhaba,Green Circle,Punjabi,Main Course,Chicken Tikka Masala,225.0,non-vegetarian,spicy,Tandoori chicken chunks cooked in rich spicy onion tomato masala,chicken tikka tomato masala butter,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Main Course
+Item: Chicken Tikka Masala
+Price: ₹225
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Tandoori chicken chunks cooked in rich spicy onion tomato masala
+Ingredients: chicken tikka tomato masala butter",saleem punjabi dhaba main course chicken tikka masala non vegetarian spicy tandoori chicken chunks cooked in rich spicy onion tomato masala chicken tikka tomato masala butter
+item_056,Saleem Punjabi Dhaba,Green Circle,Punjabi,Main Course,Dal Tadka,130.0,vegetarian,medium,Yellow arhar dal tempered with garlic cumin and red chili,yellow lentils garlic cumin ghee,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Main Course
+Item: Dal Tadka
+Price: ₹130
+Diet: Vegetarian
+Spice Level: Medium
+Description: Yellow arhar dal tempered with garlic cumin and red chili
+Ingredients: yellow lentils garlic cumin ghee",saleem punjabi dhaba main course dal tadka vegetarian medium yellow arhar dal tempered with garlic cumin and red chili yellow lentils garlic cumin ghee
+item_057,Saleem Punjabi Dhaba,Green Circle,Punjabi,Starters,Tandoori Chicken (Half),240.0,non-vegetarian,spicy,Chicken marinated in yogurt and spices roasted in clay tandoor,chicken yogurt tandoori masala,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Starters
+Item: Tandoori Chicken (Half)
+Price: ₹240
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Chicken marinated in yogurt and spices roasted in clay tandoor
+Ingredients: chicken yogurt tandoori masala",saleem punjabi dhaba starters tandoori chicken half non vegetarian spicy chicken marinated in yogurt and spices roasted in clay tandoor chicken yogurt tandoori masala
+item_058,Saleem Punjabi Dhaba,Green Circle,Punjabi,Starters,Paneer Tikka Tandoori,185.0,vegetarian,spicy,Cottage cheese cubes marinated in spices and charred in tandoor,paneer bell pepper yogurt marinade,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Starters
+Item: Paneer Tikka Tandoori
+Price: ₹185
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Cottage cheese cubes marinated in spices and charred in tandoor
+Ingredients: paneer bell pepper yogurt marinade",saleem punjabi dhaba starters paneer tikka tandoori vegetarian spicy cottage cheese cubes marinated in spices and charred in tandoor paneer bell pepper yogurt marinade
+item_059,Saleem Punjabi Dhaba,Green Circle,Punjabi,Breads,Lachha Paratha,45.0,vegetarian,normal,Layered crispy whole wheat Punjabi paratha,wheat flour ghee,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Breads
+Item: Lachha Paratha
+Price: ₹45
+Diet: Vegetarian
+Spice Level: Normal
+Description: Layered crispy whole wheat Punjabi paratha
+Ingredients: wheat flour ghee",saleem punjabi dhaba breads lachha paratha vegetarian normal layered crispy whole wheat punjabi paratha wheat flour ghee
+item_060,Saleem Punjabi Dhaba,Green Circle,Punjabi,Breads,Butter Roti,25.0,vegetarian,normal,Tandoori roti brushed with fresh butter,whole wheat flour butter,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Breads
+Item: Butter Roti
+Price: ₹25
+Diet: Vegetarian
+Spice Level: Normal
+Description: Tandoori roti brushed with fresh butter
+Ingredients: whole wheat flour butter",saleem punjabi dhaba breads butter roti vegetarian normal tandoori roti brushed with fresh butter whole wheat flour butter
+item_061,Saleem Punjabi Dhaba,Green Circle,Punjabi,Beverages,Sweet Lassi,60.0,vegetarian,mild,Traditional thick churned Punjabi sweet yogurt drink,curd sugar malai cardamom,"Restaurant: Saleem Punjabi Dhaba
+Location: Green Circle
+Cuisine: Punjabi
+Category: Beverages
+Item: Sweet Lassi
+Price: ₹60
+Diet: Vegetarian
+Spice Level: Mild
+Description: Traditional thick churned Punjabi sweet yogurt drink
+Ingredients: curd sugar malai cardamom",saleem punjabi dhaba beverages sweet lassi vegetarian mild traditional thick churned punjabi sweet yogurt drink curd sugar malai cardamom
+item_062,Kailash Parbat,Gandhi Nagar,Pure Veg,North Indian,Chole Bhature,160.0,vegetarian,spicy,Spicy chickpeas curry served with 2 large fluffy fried bhaturas,chickpeas bhatura spices pickle,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: North Indian
+Item: Chole Bhature
+Price: ₹160
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Spicy chickpeas curry served with 2 large fluffy fried bhaturas
+Ingredients: chickpeas bhatura spices pickle",kailash parbat north indian chole bhature vegetarian spicy spicy chickpeas curry served with 2 large fluffy fried bhaturas chickpeas bhatura spices pickle
+item_063,Kailash Parbat,Gandhi Nagar,Pure Veg,North Indian,Pav Bhaji,140.0,vegetarian,spicy,Mashed vegetable curry served with toasted buttered bread rolls,mixed veggies butter pav bread,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: North Indian
+Item: Pav Bhaji
+Price: ₹140
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Mashed vegetable curry served with toasted buttered bread rolls
+Ingredients: mixed veggies butter pav bread",kailash parbat north indian pav bhaji vegetarian spicy mashed vegetable curry served with toasted buttered bread rolls mixed veggies butter pav bread
+item_064,Kailash Parbat,Gandhi Nagar,Pure Veg,North Indian,Paneer Korma,190.0,vegetarian,mild,Soft cottage cheese cubes in rich cashew nuts and saffron gravy,paneer cashew gravy saffron,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: North Indian
+Item: Paneer Korma
+Price: ₹190
+Diet: Vegetarian
+Spice Level: Mild
+Description: Soft cottage cheese cubes in rich cashew nuts and saffron gravy
+Ingredients: paneer cashew gravy saffron",kailash parbat north indian paneer korma vegetarian mild soft cottage cheese cubes in rich cashew nuts and saffron gravy paneer cashew gravy saffron
+item_065,Kailash Parbat,Gandhi Nagar,Pure Veg,South Indian,Special Masala Dosa,110.0,vegetarian,medium,Crispy rice crepe filled with spiced potato mash served with chutneys,rice batter potato mash coconut chutney,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: South Indian
+Item: Special Masala Dosa
+Price: ₹110
+Diet: Vegetarian
+Spice Level: Medium
+Description: Crispy rice crepe filled with spiced potato mash served with chutneys
+Ingredients: rice batter potato mash coconut chutney",kailash parbat south indian special masala dosa vegetarian medium crispy rice crepe filled with spiced potato mash served with chutneys rice batter potato mash coconut chutney
+item_066,Kailash Parbat,Gandhi Nagar,Pure Veg,South Indian,Ghee Roast Dosa,130.0,vegetarian,mild,Golden crispy dosa roasted with pure desi ghee,rice batter desi ghee sambar,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: South Indian
+Item: Ghee Roast Dosa
+Price: ₹130
+Diet: Vegetarian
+Spice Level: Mild
+Description: Golden crispy dosa roasted with pure desi ghee
+Ingredients: rice batter desi ghee sambar",kailash parbat south indian ghee roast dosa vegetarian mild golden crispy dosa roasted with pure desi ghee rice batter desi ghee sambar
+item_067,Kailash Parbat,Gandhi Nagar,Pure Veg,Thali,Special North Indian Thali,220.0,vegetarian,medium,Complete meal with Paneer Curry Dal Sabzi Rice Roti Sweets,paneer dal rice roti gulab jamun,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: Thali
+Item: Special North Indian Thali
+Price: ₹220
+Diet: Vegetarian
+Spice Level: Medium
+Description: Complete meal with Paneer Curry Dal Sabzi Rice Roti Sweets
+Ingredients: paneer dal rice roti gulab jamun",kailash parbat thali special north indian thali vegetarian medium complete meal with paneer curry dal sabzi rice roti sweets paneer dal rice roti gulab jamun
+item_068,Kailash Parbat,Gandhi Nagar,Pure Veg,Rolls,Paneer Kathi Roll,150.0,non-vegetarian,spicy,Tandoori paneer and crunchy veggies wrapped in a thin paratha,paneer veggies kathi wrap,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: Rolls
+Item: Paneer Kathi Roll
+Price: ₹150
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Tandoori paneer and crunchy veggies wrapped in a thin paratha
+Ingredients: paneer veggies kathi wrap",kailash parbat rolls paneer kathi roll non vegetarian spicy tandoori paneer and crunchy veggies wrapped in a thin paratha paneer veggies kathi wrap
+item_069,Kailash Parbat,Gandhi Nagar,Pure Veg,Starters,Crispy Corn Pepper Fry,145.0,vegetarian,spicy,Sweet corn kernels fried crisp and tossed with black pepper,sweet corn black pepper butter,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: Starters
+Item: Crispy Corn Pepper Fry
+Price: ₹145
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Sweet corn kernels fried crisp and tossed with black pepper
+Ingredients: sweet corn black pepper butter",kailash parbat starters crispy corn pepper fry vegetarian spicy sweet corn kernels fried crisp and tossed with black pepper sweet corn black pepper butter
+item_070,Kailash Parbat,Gandhi Nagar,Pure Veg,Beverages,Badam Milk,70.0,vegetarian,mild,Rich chilled milk flavored with almonds and saffron,milk almond saffron sugar,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: Beverages
+Item: Badam Milk
+Price: ₹70
+Diet: Vegetarian
+Spice Level: Mild
+Description: Rich chilled milk flavored with almonds and saffron
+Ingredients: milk almond saffron sugar",kailash parbat beverages badam milk vegetarian mild rich chilled milk flavored with almonds and saffron milk almond saffron sugar
+item_071,Kailash Parbat,Gandhi Nagar,Pure Veg,Desserts,Rasgulla (2 pcs),60.0,vegetarian,mild,Soft spongy cottage cheese balls soaked in sugar syrup,chhena sugar syrup,"Restaurant: Kailash Parbat
+Location: Gandhi Nagar
+Cuisine: Pure Veg
+Category: Desserts
+Item: Rasgulla (2 pcs)
+Price: ₹60
+Diet: Vegetarian
+Spice Level: Mild
+Description: Soft spongy cottage cheese balls soaked in sugar syrup
+Ingredients: chhena sugar syrup",kailash parbat desserts rasgulla 2 pcs vegetarian mild soft spongy cottage cheese balls soaked in sugar syrup chhena sugar syrup
+item_072,Limra Garden,Main Road,Multi-Cuisine,Biryani,Chicken Dum Biryani,210.0,non-vegetarian,spicy,Authentic Dum biryani cooked with marinated chicken and basmati rice,chicken basmati rice biryani spices,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Biryani
+Item: Chicken Dum Biryani
+Price: ₹210
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Authentic Dum biryani cooked with marinated chicken and basmati rice
+Ingredients: chicken basmati rice biryani spices",limra garden biryani chicken dum biryani non vegetarian spicy authentic dum biryani cooked with marinated chicken and basmati rice chicken basmati rice biryani spices
+item_073,Limra Garden,Main Road,Multi-Cuisine,Biryani,Veg Biryani,160.0,vegetarian,medium,Basmati rice cooked with garden vegetables and aromatic spices,basmati rice vegetables spices,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Biryani
+Item: Veg Biryani
+Price: ₹160
+Diet: Vegetarian
+Spice Level: Medium
+Description: Basmati rice cooked with garden vegetables and aromatic spices
+Ingredients: basmati rice vegetables spices",limra garden biryani veg biryani vegetarian medium basmati rice cooked with garden vegetables and aromatic spices basmati rice vegetables spices
+item_074,Limra Garden,Main Road,Multi-Cuisine,Rolls,Chicken Shawarma Roll,130.0,non-vegetarian,medium,Slow roasted shaved chicken wrapped in pita bread with garlic mayo,chicken pita bread garlic mayo pickle,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Rolls
+Item: Chicken Shawarma Roll
+Price: ₹130
+Diet: Non-vegetarian
+Spice Level: Medium
+Description: Slow roasted shaved chicken wrapped in pita bread with garlic mayo
+Ingredients: chicken pita bread garlic mayo pickle",limra garden rolls chicken shawarma roll non vegetarian medium slow roasted shaved chicken wrapped in pita bread with garlic mayo chicken pita bread garlic mayo pickle
+item_075,Limra Garden,Main Road,Multi-Cuisine,Rolls,Spicy Paneer Shawarma,120.0,non-vegetarian,spicy,Spicy paneer cubes wrapped in pita bread with tahini sauce,paneer pita bread tahini spices,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Rolls
+Item: Spicy Paneer Shawarma
+Price: ₹120
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Spicy paneer cubes wrapped in pita bread with tahini sauce
+Ingredients: paneer pita bread tahini spices",limra garden rolls spicy paneer shawarma non vegetarian spicy spicy paneer cubes wrapped in pita bread with tahini sauce paneer pita bread tahini spices
+item_076,Limra Garden,Main Road,Multi-Cuisine,Main Course,Chettinad Chicken Curry,230.0,non-vegetarian,extra spicy,Spicy South Indian chicken curry with roasted spices and coconut,chicken coconut Chettinad masala,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Main Course
+Item: Chettinad Chicken Curry
+Price: ₹230
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Spicy South Indian chicken curry with roasted spices and coconut
+Ingredients: chicken coconut Chettinad masala",limra garden main course chettinad chicken curry non vegetarian extra spicy spicy south indian chicken curry with roasted spices and coconut chicken coconut chettinad masala
+item_077,Limra Garden,Main Road,Multi-Cuisine,Main Course,Kadai Veg,160.0,vegetarian,spicy,Seasonal vegetables cooked in spicy onion tomato kadai masala,mixed veggies kadai masala capsicum,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Main Course
+Item: Kadai Veg
+Price: ₹160
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Seasonal vegetables cooked in spicy onion tomato kadai masala
+Ingredients: mixed veggies kadai masala capsicum",limra garden main course kadai veg vegetarian spicy seasonal vegetables cooked in spicy onion tomato kadai masala mixed veggies kadai masala capsicum
+item_078,Limra Garden,Main Road,Multi-Cuisine,Starters,Dragon Chicken,210.0,non-vegetarian,extra spicy,Crispy chicken strips tossed in spicy red chili and soy sauce,chicken red chili sauce cashews,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Starters
+Item: Dragon Chicken
+Price: ₹210
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Crispy chicken strips tossed in spicy red chili and soy sauce
+Ingredients: chicken red chili sauce cashews",limra garden starters dragon chicken non vegetarian extra spicy crispy chicken strips tossed in spicy red chili and soy sauce chicken red chili sauce cashews
+item_079,Limra Garden,Main Road,Multi-Cuisine,Starters,Paneer Manchurian,170.0,vegetarian,spicy,Crispy paneer cubes tossed in tangy Manchurian sauce,paneer soy sauce green chili,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Starters
+Item: Paneer Manchurian
+Price: ₹170
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Crispy paneer cubes tossed in tangy Manchurian sauce
+Ingredients: paneer soy sauce green chili",limra garden starters paneer manchurian vegetarian spicy crispy paneer cubes tossed in tangy manchurian sauce paneer soy sauce green chili
+item_080,Limra Garden,Main Road,Multi-Cuisine,Beverages,Fresh Lime Soda,50.0,vegetarian,mild,Sparkling lime soda served sweet or salted,lime soda sugar salt,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Beverages
+Item: Fresh Lime Soda
+Price: ₹50
+Diet: Vegetarian
+Spice Level: Mild
+Description: Sparkling lime soda served sweet or salted
+Ingredients: lime soda sugar salt",limra garden beverages fresh lime soda vegetarian mild sparkling lime soda served sweet or salted lime soda sugar salt
+item_081,Limra Garden,Main Road,Multi-Cuisine,Beverages,Mango Milkshake,90.0,vegetarian,mild,Thick delicious milkshake made with fresh Alphonso mango pulp,mango pulp milk vanilla ice cream,"Restaurant: Limra Garden
+Location: Main Road
+Cuisine: Multi-Cuisine
+Category: Beverages
+Item: Mango Milkshake
+Price: ₹90
+Diet: Vegetarian
+Spice Level: Mild
+Description: Thick delicious milkshake made with fresh Alphonso mango pulp
+Ingredients: mango pulp milk vanilla ice cream",limra garden beverages mango milkshake vegetarian mild thick delicious milkshake made with fresh alphonso mango pulp mango pulp milk vanilla ice cream
+item_082,Wow Momo,Main Road,Chinese,Momos,Steam Veg Momos (8 pcs),119.0,vegetarian,mild,Steamed dumplings stuffed with finely chopped cabbage carrot and onion,cabbage carrot onion flour chili dip,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Momos
+Item: Steam Veg Momos (8 pcs)
+Price: ₹119
+Diet: Vegetarian
+Spice Level: Mild
+Description: Steamed dumplings stuffed with finely chopped cabbage carrot and onion
+Ingredients: cabbage carrot onion flour chili dip",wow momo momos steam veg momos 8 pcs vegetarian mild steamed dumplings stuffed with finely chopped cabbage carrot and onion cabbage carrot onion flour chili dip
+item_083,Wow Momo,Main Road,Chinese,Momos,Steam Chicken Momos (8 pcs),139.0,non-vegetarian,medium,Steamed dumplings stuffed with juicy minced chicken and coriander,minced chicken onion spices dip,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Momos
+Item: Steam Chicken Momos (8 pcs)
+Price: ₹139
+Diet: Non-vegetarian
+Spice Level: Medium
+Description: Steamed dumplings stuffed with juicy minced chicken and coriander
+Ingredients: minced chicken onion spices dip",wow momo momos steam chicken momos 8 pcs non vegetarian medium steamed dumplings stuffed with juicy minced chicken and coriander minced chicken onion spices dip
+item_084,Wow Momo,Main Road,Chinese,Momos,Fried Veg Momos (8 pcs),129.0,vegetarian,spicy,Crispy fried vegetable dumplings served with spicy garlic chutney,veg filling chili garlic chutney,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Momos
+Item: Fried Veg Momos (8 pcs)
+Price: ₹129
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Crispy fried vegetable dumplings served with spicy garlic chutney
+Ingredients: veg filling chili garlic chutney",wow momo momos fried veg momos 8 pcs vegetarian spicy crispy fried vegetable dumplings served with spicy garlic chutney veg filling chili garlic chutney
+item_085,Wow Momo,Main Road,Chinese,Momos,Fried Chicken Momos (8 pcs),149.0,non-vegetarian,extra spicy,Crispy fried chicken momos served with fiery red dip,minced chicken spicy dip,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Momos
+Item: Fried Chicken Momos (8 pcs)
+Price: ₹149
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Crispy fried chicken momos served with fiery red dip
+Ingredients: minced chicken spicy dip",wow momo momos fried chicken momos 8 pcs non vegetarian extra spicy crispy fried chicken momos served with fiery red dip minced chicken spicy dip
+item_086,Wow Momo,Main Road,Chinese,Momos,Pan Fried Schezwan Chicken Momos,179.0,non-vegetarian,extra spicy,Momos tossed in spicy fiery Schezwan gravy with bell peppers,chicken momos Schezwan sauce capsicum,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Momos
+Item: Pan Fried Schezwan Chicken Momos
+Price: ₹179
+Diet: Non-vegetarian
+Spice Level: Extra spicy
+Description: Momos tossed in spicy fiery Schezwan gravy with bell peppers
+Ingredients: chicken momos Schezwan sauce capsicum",wow momo momos pan fried schezwan chicken momos non vegetarian extra spicy momos tossed in spicy fiery schezwan gravy with bell peppers chicken momos schezwan sauce capsicum
+item_087,Wow Momo,Main Road,Chinese,Momos,Pan Fried Paneer Momos in Hot Garlic,169.0,vegetarian,spicy,Steamed paneer momos tossed in hot garlic sauce,paneer momos hot garlic sauce,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Momos
+Item: Pan Fried Paneer Momos in Hot Garlic
+Price: ₹169
+Diet: Vegetarian
+Spice Level: Spicy
+Description: Steamed paneer momos tossed in hot garlic sauce
+Ingredients: paneer momos hot garlic sauce",wow momo momos pan fried paneer momos in hot garlic vegetarian spicy steamed paneer momos tossed in hot garlic sauce paneer momos hot garlic sauce
+item_088,Wow Momo,Main Road,Chinese,Noodles,Veg Hakka Noodles,139.0,vegetarian,medium,Stir fried noodles with crunchy vegetables and Asian seasonings,noodles cabbage capsicum soy sauce,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Noodles
+Item: Veg Hakka Noodles
+Price: ₹139
+Diet: Vegetarian
+Spice Level: Medium
+Description: Stir fried noodles with crunchy vegetables and Asian seasonings
+Ingredients: noodles cabbage capsicum soy sauce",wow momo noodles veg hakka noodles vegetarian medium stir fried noodles with crunchy vegetables and asian seasonings noodles cabbage capsicum soy sauce
+item_089,Wow Momo,Main Road,Chinese,Noodles,Chicken Schezwan Noodles,169.0,non-vegetarian,spicy,Spicy stir fried noodles with chicken chunks and Schezwan sauce,noodles chicken Schezwan sauce,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Noodles
+Item: Chicken Schezwan Noodles
+Price: ₹169
+Diet: Non-vegetarian
+Spice Level: Spicy
+Description: Spicy stir fried noodles with chicken chunks and Schezwan sauce
+Ingredients: noodles chicken Schezwan sauce",wow momo noodles chicken schezwan noodles non vegetarian spicy spicy stir fried noodles with chicken chunks and schezwan sauce noodles chicken schezwan sauce
+item_090,Wow Momo,Main Road,Chinese,Beverages,Peach Ice Tea,79.0,vegetarian,mild,Chilled refreshing brewed black tea flavored with peach,black tea peach syrup ice,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Beverages
+Item: Peach Ice Tea
+Price: ₹79
+Diet: Vegetarian
+Spice Level: Mild
+Description: Chilled refreshing brewed black tea flavored with peach
+Ingredients: black tea peach syrup ice",wow momo beverages peach ice tea vegetarian mild chilled refreshing brewed black tea flavored with peach black tea peach syrup ice
+item_091,Wow Momo,Main Road,Chinese,Beverages,Cold Coffee,99.0,vegetarian,mild,Classic blended icy coffee with milk and chocolate drizzle,coffee milk sugar ice,"Restaurant: Wow Momo
+Location: Main Road
+Cuisine: Chinese
+Category: Beverages
+Item: Cold Coffee
+Price: ₹99
+Diet: Vegetarian
+Spice Level: Mild
+Description: Classic blended icy coffee with milk and chocolate drizzle
+Ingredients: coffee milk sugar ice",wow momo beverages cold coffee vegetarian mild classic blended icy coffee with milk and chocolate drizzle coffee milk sugar ice
+item_092,Frozen Bottle,Gandhi Nagar,Desserts,Shakes,Belgian Dark Chocolate Shake,179.0,vegetarian,mild,Rich thick shake made with premium Belgian dark chocolate and cocoa,dark chocolate milk ice cream,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Shakes
+Item: Belgian Dark Chocolate Shake
+Price: ₹179
+Diet: Vegetarian
+Spice Level: Mild
+Description: Rich thick shake made with premium Belgian dark chocolate and cocoa
+Ingredients: dark chocolate milk ice cream",frozen bottle shakes belgian dark chocolate shake vegetarian mild rich thick shake made with premium belgian dark chocolate and cocoa dark chocolate milk ice cream
+item_093,Frozen Bottle,Gandhi Nagar,Desserts,Shakes,Nutella Banana Shake,189.0,vegetarian,mild,Delicious blend of creamy Nutella hazelnut spread and fresh bananas,nutella banana milk,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Shakes
+Item: Nutella Banana Shake
+Price: ₹189
+Diet: Vegetarian
+Spice Level: Mild
+Description: Delicious blend of creamy Nutella hazelnut spread and fresh bananas
+Ingredients: nutella banana milk",frozen bottle shakes nutella banana shake vegetarian mild delicious blend of creamy nutella hazelnut spread and fresh bananas nutella banana milk
+item_094,Frozen Bottle,Gandhi Nagar,Desserts,Shakes,Mango Alphonso Thick Shake,169.0,vegetarian,mild,Decadent milkshake crafted from real Alphonso mangoes,alphonso mango milk ice cream,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Shakes
+Item: Mango Alphonso Thick Shake
+Price: ₹169
+Diet: Vegetarian
+Spice Level: Mild
+Description: Decadent milkshake crafted from real Alphonso mangoes
+Ingredients: alphonso mango milk ice cream",frozen bottle shakes mango alphonso thick shake vegetarian mild decadent milkshake crafted from real alphonso mangoes alphonso mango milk ice cream
+item_095,Frozen Bottle,Gandhi Nagar,Desserts,Desserts,Berry Blast Waffle,159.0,vegetarian,mild,Crispy warm waffle topped with wild berry compote and whipped cream,waffle berry compote cream,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Desserts
+Item: Berry Blast Waffle
+Price: ₹159
+Diet: Vegetarian
+Spice Level: Mild
+Description: Crispy warm waffle topped with wild berry compote and whipped cream
+Ingredients: waffle berry compote cream",frozen bottle desserts berry blast waffle vegetarian mild crispy warm waffle topped with wild berry compote and whipped cream waffle berry compote cream
+item_096,Frozen Bottle,Gandhi Nagar,Desserts,Desserts,Nutella Brownie Sundae,199.0,vegetarian,mild,Warm chocolate brownie topped with vanilla ice cream and Nutella,brownie vanilla ice cream nutella,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Desserts
+Item: Nutella Brownie Sundae
+Price: ₹199
+Diet: Vegetarian
+Spice Level: Mild
+Description: Warm chocolate brownie topped with vanilla ice cream and Nutella
+Ingredients: brownie vanilla ice cream nutella",frozen bottle desserts nutella brownie sundae vegetarian mild warm chocolate brownie topped with vanilla ice cream and nutella brownie vanilla ice cream nutella
+item_097,Frozen Bottle,Gandhi Nagar,Desserts,Beverages,Cold Brew Coffee,129.0,vegetarian,medium,Smooth slow steeped cold brew coffee served on ice,coffee extract water ice,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Beverages
+Item: Cold Brew Coffee
+Price: ₹129
+Diet: Vegetarian
+Spice Level: Medium
+Description: Smooth slow steeped cold brew coffee served on ice
+Ingredients: coffee extract water ice",frozen bottle beverages cold brew coffee vegetarian medium smooth slow steeped cold brew coffee served on ice coffee extract water ice
+item_098,Frozen Bottle,Gandhi Nagar,Desserts,Beverages,Strawberry Lemonade,99.0,vegetarian,mild,Tangy lemon juice blended with sweet strawberry syrup and soda,strawberry syrup lemon soda,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Beverages
+Item: Strawberry Lemonade
+Price: ₹99
+Diet: Vegetarian
+Spice Level: Mild
+Description: Tangy lemon juice blended with sweet strawberry syrup and soda
+Ingredients: strawberry syrup lemon soda",frozen bottle beverages strawberry lemonade vegetarian mild tangy lemon juice blended with sweet strawberry syrup and soda strawberry syrup lemon soda
+item_099,Frozen Bottle,Gandhi Nagar,Desserts,Sides,Cheesy French Fries,139.0,vegetarian,mild,Crispy french fries drenched in warm melted cheddar cheese sauce,fries cheese sauce,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Sides
+Item: Cheesy French Fries
+Price: ₹139
+Diet: Vegetarian
+Spice Level: Mild
+Description: Crispy french fries drenched in warm melted cheddar cheese sauce
+Ingredients: fries cheese sauce",frozen bottle sides cheesy french fries vegetarian mild crispy french fries drenched in warm melted cheddar cheese sauce fries cheese sauce
+item_100,Frozen Bottle,Gandhi Nagar,Desserts,Sides,Peri Peri Cheese Fries,149.0,vegetarian,extra spicy,French fries topped with melted cheese and fiery peri peri spice,fries cheese sauce peri peri spice,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Sides
+Item: Peri Peri Cheese Fries
+Price: ₹149
+Diet: Vegetarian
+Spice Level: Extra spicy
+Description: French fries topped with melted cheese and fiery peri peri spice
+Ingredients: fries cheese sauce peri peri spice",frozen bottle sides peri peri cheese fries vegetarian extra spicy french fries topped with melted cheese and fiery peri peri spice fries cheese sauce peri peri spice
+item_101,Frozen Bottle,Gandhi Nagar,Desserts,Desserts,Red Velvet Cake Jar,149.0,vegetarian,mild,Layers of soft red velvet cake and cream cheese frosting in a jar,red velvet cake cream cheese frosting,"Restaurant: Frozen Bottle
+Location: Gandhi Nagar
+Cuisine: Desserts
+Category: Desserts
+Item: Red Velvet Cake Jar
+Price: ₹149
+Diet: Vegetarian
+Spice Level: Mild
+Description: Layers of soft red velvet cake and cream cheese frosting in a jar
+Ingredients: red velvet cake cream cheese frosting",frozen bottle desserts red velvet cake jar vegetarian mild layers of soft red velvet cake and cream cheese frosting in a jar red velvet cake cream cheese frosting

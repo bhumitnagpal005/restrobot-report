@@ -1,0 +1,4 @@
+approach,precision_at_5,recall_at_5,mrr,constraint_satisfaction_rate,total_latency_ms
+Constraint-Aware Hybrid RAG,0.08,0.2,0.2,0.76,4008079.7
+Conventional Dense RAG,0.12000000000000002,0.2,0.15,0.4,508345.6
+Keyword Retrieval,0.04,0.1,0.1,0.27999999999999997,915399.7

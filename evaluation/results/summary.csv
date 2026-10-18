@@ -1,0 +1,5 @@
+Metric,BM25,Dense RAG
+Precision@5,0.34,0.3467
+Recall@5,0.5458,0.5596
+MRR,0.7494,0.7722
+Latency (ms),1.09,228.42

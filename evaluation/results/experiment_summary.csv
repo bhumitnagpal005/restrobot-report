@@ -1,0 +1,31 @@
+query_id,query,query_type,approach,precision_at_5,recall_at_5,mrr,constraint_satisfaction_rate,total_latency_ms
+Q001,Find vegetarian food under ₹200.,Price & Diet,Keyword Retrieval,0.0,0.0,0.0,0.0,37013
+Q001,Find vegetarian food under ₹200.,Price & Diet,Conventional Dense RAG,0.0,0.0,0.0,0.2,30208
+Q001,Find vegetarian food under ₹200.,Price & Diet,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,1.0,74958
+Q002,Find spicy vegetarian rolls under ₹180 near VIT.,Multi-Constraint,Keyword Retrieval,0.0,0.0,0.0,0.0,457820
+Q002,Find spicy vegetarian rolls under ₹180 near VIT.,Multi-Constraint,Conventional Dense RAG,0.0,0.0,0.0,0.0,17558
+Q002,Find spicy vegetarian rolls under ₹180 near VIT.,Multi-Constraint,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,0.0,173618
+Q003,What is the cheapest veg burger at KFC?,Price & Restaurant,Keyword Retrieval,0.0,0.0,0.0,0.4,8602875
+Q003,What is the cheapest veg burger at KFC?,Price & Restaurant,Conventional Dense RAG,0.8,1.0,1.0,0.4,8083
+Q003,What is the cheapest veg burger at KFC?,Price & Restaurant,Constraint-Aware Hybrid RAG,0.4,1.0,1.0,1.0,8192
+Q004,Show me non-veg chicken rolls under ₹200.,Price & Diet,Keyword Retrieval,0.0,0.0,0.0,0.0,8038
+Q004,Show me non-veg chicken rolls under ₹200.,Price & Diet,Conventional Dense RAG,0.0,0.0,0.0,0.6,4979025
+Q004,Show me non-veg chicken rolls under ₹200.,Price & Diet,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,1.0,39775499
+Q005,Pizza Hut combos under ₹300.,Price & Restaurant,Keyword Retrieval,0.0,0.0,0.0,0.0,8077
+Q005,Pizza Hut combos under ₹300.,Price & Restaurant,Conventional Dense RAG,0.0,0.0,0.0,0.0,8213
+Q005,Pizza Hut combos under ₹300.,Price & Restaurant,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,0.0,8094
+Q006,Dominos peppy paneer pizza.,Item Search,Keyword Retrieval,0.4,1.0,1.0,0.6,8048
+Q006,Dominos peppy paneer pizza.,Item Search,Conventional Dense RAG,0.4,1.0,0.5,0.4,8082
+Q006,Dominos peppy paneer pizza.,Item Search,Constraint-Aware Hybrid RAG,0.4,1.0,1.0,0.6,8119
+Q007,Find spicy chicken food.,Diet & Spice,Keyword Retrieval,0.0,0.0,0.0,0.8,8024
+Q007,Find spicy chicken food.,Diet & Spice,Conventional Dense RAG,0.0,0.0,0.0,1.0,8083
+Q007,Find spicy chicken food.,Diet & Spice,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,1.0,8070
+Q008,Show me something cheap and filling.,Semantic Search,Keyword Retrieval,0.0,0.0,0.0,1.0,8028
+Q008,Show me something cheap and filling.,Semantic Search,Conventional Dense RAG,0.0,0.0,0.0,1.0,8074
+Q008,Show me something cheap and filling.,Semantic Search,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,1.0,8076
+Q009,Find vegetarian biryani under ₹250.,Multi-Constraint,Keyword Retrieval,0.0,0.0,0.0,0.0,8045
+Q009,Find vegetarian biryani under ₹250.,Multi-Constraint,Conventional Dense RAG,0.0,0.0,0.0,0.0,8059
+Q009,Find vegetarian biryani under ₹250.,Multi-Constraint,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,1.0,8093
+Q010,Find spicy non-veg rolls below ₹150.,Multi-Constraint,Keyword Retrieval,0.0,0.0,0.0,0.0,8029
+Q010,Find spicy non-veg rolls below ₹150.,Multi-Constraint,Conventional Dense RAG,0.0,0.0,0.0,0.4,8071
+Q010,Find spicy non-veg rolls below ₹150.,Multi-Constraint,Constraint-Aware Hybrid RAG,0.0,0.0,0.0,1.0,8078

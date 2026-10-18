@@ -1,0 +1,2668 @@
+{
+    "restaurant": {
+        "name": "Limra Garden Restaurant",
+        "location": "Shop 97/A, Opposite Nethaji Stadium, Kosapet, Vellore",
+        "contact": "+919042528555"
+    },
+    "menu": [
+        {
+            "category": "Fried Rice and Noodles",
+            "items": [
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Veg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fried Rice",
+                    "price": "",
+                    "description": "Fragrant rice cooked with tender chicken and mild spices for a simple, hearty meal.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Fried Rice",
+                    "price": "",
+                    "description": "| Boiled rice mixed with pieces of beef to have the Chinese taste |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles",
+                    "price": "",
+                    "description": "Noodles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Non Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Dry",
+                    "price": "",
+                    "description": "| A popular Indo Chinese appetizer made with chicken, corn flour, soya sauce, vinegar, chilli sauce, ginger |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Garlic Chicken Dry",
+                    "price": "",
+                    "description": "| Stir-fried chicken pieces cooked with strong flavours of garlic and freshly ground mixture of dry roasted spices. Goes well with rotis or steamed rice |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dragon Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Rolls",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Chicken Roll",
+                    "price": "",
+                    "description": "Soft paratha wrapped around juicy chicken, two fluffy eggs, fresh onions, and flavorful spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Stick Burger",
+                    "price": "",
+                    "description": "Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Corn Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Aloo Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jalapeno Cheese Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Patty Sandwich",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Double Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutton Burger Patty",
+                    "price": "",
+                    "description": "Non Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Mutton Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Mutton Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Beef Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Beef Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Stick Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hot Dog Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Patty Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Potato Bits [15 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cutlet [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Popcorn [14 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fingers [8 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Steak",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise Dip",
+                    "price": "",
+                    "description": "Mayonnaise",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Fried Rice and Noodles",
+            "items": [
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Veg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fried Rice",
+                    "price": "",
+                    "description": "Fragrant rice cooked with tender chicken and mild spices for a simple, hearty meal.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Fried Rice",
+                    "price": "",
+                    "description": "| Boiled rice mixed with pieces of beef to have the Chinese taste |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles",
+                    "price": "",
+                    "description": "Noodles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Non Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Dry",
+                    "price": "",
+                    "description": "| A popular Indo Chinese appetizer made with chicken, corn flour, soya sauce, vinegar, chilli sauce, ginger |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Garlic Chicken Dry",
+                    "price": "",
+                    "description": "| Stir-fried chicken pieces cooked with strong flavours of garlic and freshly ground mixture of dry roasted spices. Goes well with rotis or steamed rice |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dragon Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Rolls",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Chicken Roll",
+                    "price": "",
+                    "description": "Soft paratha wrapped around juicy chicken, two fluffy eggs, fresh onions, and flavorful spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Stick Burger",
+                    "price": "",
+                    "description": "Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Corn Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Aloo Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jalapeno Cheese Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Patty Sandwich",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Double Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutton Burger Patty",
+                    "price": "",
+                    "description": "Non Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Mutton Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Mutton Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Beef Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Beef Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Stick Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hot Dog Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Patty Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Potato Bits [15 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cutlet [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Popcorn [14 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fingers [8 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Steak",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise Dip",
+                    "price": "",
+                    "description": "Mayonnaise",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Fried Rice and Noodles",
+            "items": [
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Veg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fried Rice",
+                    "price": "",
+                    "description": "Fragrant rice cooked with tender chicken and mild spices for a simple, hearty meal.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Fried Rice",
+                    "price": "",
+                    "description": "| Boiled rice mixed with pieces of beef to have the Chinese taste |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles",
+                    "price": "",
+                    "description": "Noodles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Non Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Dry",
+                    "price": "",
+                    "description": "| A popular Indo Chinese appetizer made with chicken, corn flour, soya sauce, vinegar, chilli sauce, ginger |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Garlic Chicken Dry",
+                    "price": "",
+                    "description": "| Stir-fried chicken pieces cooked with strong flavours of garlic and freshly ground mixture of dry roasted spices. Goes well with rotis or steamed rice |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dragon Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Rolls",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Chicken Roll",
+                    "price": "",
+                    "description": "Soft paratha wrapped around juicy chicken, two fluffy eggs, fresh onions, and flavorful spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Stick Burger",
+                    "price": "",
+                    "description": "Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Corn Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Aloo Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jalapeno Cheese Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Patty Sandwich",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Double Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutton Burger Patty",
+                    "price": "",
+                    "description": "Non Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Mutton Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Mutton Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Beef Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Beef Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Stick Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hot Dog Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Patty Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Potato Bits [15 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cutlet [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Popcorn [14 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fingers [8 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Steak",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise Dip",
+                    "price": "",
+                    "description": "Mayonnaise",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Fried Rice and Noodles",
+            "items": [
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "",
+                    "description": "Fried Rice",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Veg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fried Rice",
+                    "price": "",
+                    "description": "Fragrant rice cooked with tender chicken and mild spices for a simple, hearty meal.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Fried Rice",
+                    "price": "",
+                    "description": "| Boiled rice mixed with pieces of beef to have the Chinese taste |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Fried Rice",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles",
+                    "price": "",
+                    "description": "Noodles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Egg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Non Veg Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Singapuri Chicken Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Noodles",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "name": "Chilli Gobhi Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Dry",
+                    "price": "",
+                    "description": "| A popular Indo Chinese appetizer made with chicken, corn flour, soya sauce, vinegar, chilli sauce, ginger |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Garlic Chicken Dry",
+                    "price": "",
+                    "description": "| Stir-fried chicken pieces cooked with strong flavours of garlic and freshly ground mixture of dry roasted spices. Goes well with rotis or steamed rice |",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dragon Chicken Dry",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Main Course",
+            "items": [
+                {
+                    "name": "Chilli Gobhi Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chilli Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ginger Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Chicken Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop Gravy",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "name": "Veg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Chicken Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Mayonnaise Pasta",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Rolls",
+            "items": [
+                {
+                    "name": "Veg Aloo Tikki Rolls",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Paneer Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Chicken Roll",
+                    "price": "",
+                    "description": "Soft paratha wrapped around juicy chicken, two fluffy eggs, fresh onions, and flavorful spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Beef Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Roll",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Burgers and Sandwich",
+            "items": [
+                {
+                    "name": "Veg Cheese Stick Burger",
+                    "price": "",
+                    "description": "Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Aloo Tikki Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Corn Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Veg Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Aloo Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jalapeno Cheese Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Patty Sandwich",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Double Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutton Burger Patty",
+                    "price": "",
+                    "description": "Non Veg Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Mutton Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Mutton Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Beef Burger Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Beef Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Beef Patty",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Stick Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hot Dog Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Patty Burger",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Snacks",
+            "items": [
+                {
+                    "name": "French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala French Fries",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Potato Bits [15 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cutlet [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sausage Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Omelette",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Popcorn [14 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Nuggets [6 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fingers [8 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage [3 Pieces]",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Chicken Steak",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Accompaniments",
+            "items": [
+                {
+                    "name": "Mayonnaise Dip",
+                    "price": "",
+                    "description": "Mayonnaise",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mayonnaise",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

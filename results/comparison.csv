@@ -1,0 +1,4 @@
+Approach,Precision@5,Recall@5,MRR,Constraint Satisfaction Rate,Answer Accuracy,Latency (ms)
+Keyword (BM25),0.7,0.8,0.7,0.7,0.7,1.83
+Conventional Dense RAG,0.7,1.1667,0.7,0.7,0.7,926.26
+Constraint-Aware Hybrid RAG,0.7,1.1667,0.7,0.7,0.7,13.64

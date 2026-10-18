@@ -1,0 +1,90 @@
+.window {
+  flex: 1;
+  overflow-y: auto;
+  background: transparent;
+  scroll-behavior: smooth;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 24px 24px 16px;
+  min-height: 100%;
+}
+
+.heroSection {
+  margin-top: 12px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius);
+  animation: fadeUp 0.3s ease-out;
+}
+
+.heroSubtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 14px;
+  font-weight: 500;
+}
+
+.heroGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.heroCard {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px 14px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  text-align: left;
+  transition: all 0.2s ease;
+}
+
+.heroCard:hover {
+  background: rgba(255, 107, 53, 0.08);
+  border-color: rgba(255, 107, 53, 0.35);
+  transform: translateY(-2px);
+}
+
+.heroIcon {
+  font-size: 22px;
+  line-height: 1;
+  padding: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+}
+
+.heroText {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.heroTitle {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.heroPrompt {
+  font-size: 11px;
+  color: var(--text-muted);
+  line-height: 1.35;
+}
+
+@media (max-width: 600px) {
+  .inner {
+    padding: 16px;
+  }
+  .heroGrid {
+    grid-template-columns: 1fr;
+  }
+}
+

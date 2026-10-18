@@ -1,0 +1,2210 @@
+{
+    "restaurant": {
+        "name": "Uncle Peter's Pancakes",
+        "location": "SF 617/19, Shop 5 & 6, Ward 4, Selvam Nagar, VIT Road, Katpadi, Vellore",
+        "contact": "+919894577798"
+    },
+    "menu": [
+        {
+            "category": "Pancakes",
+            "items": [
+                {
+                    "name": "Belgian Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Chocolate Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Death By Chocolate Pancake [dbc]",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with White chocolate, milk chocolate and dark chocolate and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with decadent Belgian milk chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with a smooth Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with Belgian milk, Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a Belgian almond chocolate ganache, almond flakes and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Pancake",
+                    "price": "",
+                    "description": "Signature Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Pancake With Maple Syrup",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with whipped cream, maple syrup and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with rich Nutella, smooth cream cheese, and a generous topping of whipped cream. You can choose between a regular or a gluten-free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Garden Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with blueberry compote, white chocolate ganache, whipped cream and crumble .You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Pancake",
+                    "price": "",
+                    "description": "Soft And Fluffy Pancake Served With Cookie Cream Spread, Oreo Biscuits, Whipped Cream And Crumble. You Can Choose Between A Regular Or A Gluten Free Option In The Next Step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with a coffee mousse and coffee infused white chocolate. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with crushed Oreos and a sweetened cream cheese. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a unique raspberry chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Filled Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Nutella stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Blueberry compote stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Lava Pancake",
+                    "price": "",
+                    "description": "Chocolate lava pancake that oozes out with Belgian milk chocolate pancake topped with crumbled oreos and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Fruits & Nutella Pancake",
+                    "price": "",
+                    "description": "Fresh Fruit Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream Cheese And Fresh Fruits Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with cream cheese and seasonal fresh fruits. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and fresh bananas. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dark Chocolate Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Filled Mini Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Miniature Filled Pancakes Served With Nutella And Whipped Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn And Cheese Pancake With Beans",
+                    "price": "",
+                    "description": "Savory Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Corn And Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy golden pancake packed with corn and gooey cheese, topped with herbs and served with spicy gochujang sauce for a bold Korean-style kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mushroom Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft savory pancake layered with rich cream cheese and topped with saut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Triple Chocolate Waffle",
+                    "price": "",
+                    "description": "Chocolate Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk and White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Dark Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Dark chocolate ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with almond chocolate ganache and topped with almond flakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Waffle",
+                    "price": "",
+                    "description": "Signature Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a mocha mousse and mocha chocolate ganache sprinkled with cocoa dust",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kitkat Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle, white chocolate ganache and KitKat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo And Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a sweet and creamy cream cheese topped with oreo crumbs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Waffle",
+                    "price": "",
+                    "description": "Crispy and golden waffle served with Cookie Cream spread, Oreo biscuits, whipped cream and crumble.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Raspberry Chocolate Ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle and imported lotus biscoff spread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cheesecake Waffle",
+                    "price": "",
+                    "description": "Gourmet Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with sweetened cream cheese and nutella",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese & Strawberry Pancake",
+                    "price": "",
+                    "description": "Fluffy matcha pancake layered with matcha cream cheese and tangy strawberry compote for a perfect sweet-tangy balance.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy matcha pancake topped with rich matcha cream cheese and whipped cream for a smooth, indulgent bite.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Latte",
+                    "price": "",
+                    "description": "A smooth and refreshing blend of premium matcha and milk served over ice.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Matcha Latte",
+                    "price": "",
+                    "description": "A refreshing mix of matcha, milk, and strawberry compote, offering a perfect balance of earthy and fruity flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Cream Cheese Crepe",
+                    "price": "",
+                    "description": "Eggless Crepes Folded Around A Sweetened Lemon Cream Cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella & bananas.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Milk Chocolate Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a milk chocolate ganache.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Very Berry Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a cream cheese and berry filling.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Fresh Fruit Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella and diced assorted fresh fruits.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tropical Mango Pancake Sundae",
+                    "price": "",
+                    "description": "A delightful dessert featuring fluffy pancakes layered with white chocolate, topped with fresh mango chunks, a scoop of vanilla ice cream, and finished with crunchy almond flakes for a refreshing and indulgent sundae twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sticky Coconut & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with creamy coconut cream, topped with tropical mango chunks, and finished with sesame seeds, bringing a rich and exotic island-style flavor profile.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Mini Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Bite-sized pancakes filled with gooey Nutella, topped with mango, and finished with a dusting of sugar powder, perfect for a fun and indulgent snacking experience.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with rich Nutella, topped with fresh, juicy mango chunks, and finished with vanilla crumbles for a perfect sweet and fruity indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Decadent pancakes infused with rich dark chocolate, complemented by the sweetness of fresh mango and finished with vanilla crumbles for a bold flavor combination.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy waffles topped with luscious cream cheese, fresh mango, and vanilla crumbles, creating a refreshing and mildly tangy treat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Waffle",
+                    "price": "",
+                    "description": "Golden crisp waffles drizzled with creamy Nutella, loaded with ripe mango pieces, and finished with vanilla crumbles for a delightful contrast of textures.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Soft pancakes paired with smooth cream cheese, topped with sweet mango chunks, and finished with vanilla crumbles, offering a balanced blend of tangy and tropical flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Matcha Pancake",
+                    "price": "",
+                    "description": "Premium matcha-flavored pancakes layered with creamy cheese, topped with mango, and finished with vanilla crumbles, delivering a unique earthy and fruity fusion.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Matcha Ice Latte",
+                    "price": "",
+                    "description": "A refreshing iced latte combining tropical mango sweetness with the earthy richness of matcha, perfectly chilled for a smooth sip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Hot Chocolate",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Strawberry Hot Chocolate",
+                    "price": "",
+                    "description": "Rich hot chocolate infused with the flavors of strawberries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mocha Hot Chocolate",
+                    "price": "",
+                    "description": "Coffee flavored rich and dense hot chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boba Cold Coffee",
+                    "price": "",
+                    "description": "Boba Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "A decadent blend of cold coffee infused with rich chocolate and nutty hazelnut, topped with popping boba pearls for the perfect indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A refreshing soda-based cooler bursting with zesty mint, tangy lime, and the playful pop of boba pearls",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A fizzy soda-based mojito infused with ripe mango, fresh mint, and popping boba for a tropical twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Watermelon Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with juicy watermelon, fresh mint, and popping boba for a refreshing twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Orange Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with zesty orange, fresh mint, and popping boba for a citrusy twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Cold Coffee",
+                    "price": "",
+                    "description": "Cold Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "Cold coffee infused with chocolate hazelnut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mint mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mango mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Watermelon Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Refreshing virgin watermelon mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Zesty virgin orange mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pancakes",
+            "items": [
+                {
+                    "name": "Belgian Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Chocolate Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Death By Chocolate Pancake [dbc]",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with White chocolate, milk chocolate and dark chocolate and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with decadent Belgian milk chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with a smooth Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with Belgian milk, Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a Belgian almond chocolate ganache, almond flakes and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Pancake",
+                    "price": "",
+                    "description": "Signature Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Pancake With Maple Syrup",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with whipped cream, maple syrup and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with rich Nutella, smooth cream cheese, and a generous topping of whipped cream. You can choose between a regular or a gluten-free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Garden Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with blueberry compote, white chocolate ganache, whipped cream and crumble .You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Pancake",
+                    "price": "",
+                    "description": "Soft And Fluffy Pancake Served With Cookie Cream Spread, Oreo Biscuits, Whipped Cream And Crumble. You Can Choose Between A Regular Or A Gluten Free Option In The Next Step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with a coffee mousse and coffee infused white chocolate. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with crushed Oreos and a sweetened cream cheese. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a unique raspberry chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Filled Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Nutella stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Blueberry compote stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Lava Pancake",
+                    "price": "",
+                    "description": "Chocolate lava pancake that oozes out with Belgian milk chocolate pancake topped with crumbled oreos and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Fruits & Nutella Pancake",
+                    "price": "",
+                    "description": "Fresh Fruit Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream Cheese And Fresh Fruits Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with cream cheese and seasonal fresh fruits. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and fresh bananas. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dark Chocolate Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Filled Mini Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Miniature Filled Pancakes Served With Nutella And Whipped Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn And Cheese Pancake With Beans",
+                    "price": "",
+                    "description": "Savory Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Corn And Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy golden pancake packed with corn and gooey cheese, topped with herbs and served with spicy gochujang sauce for a bold Korean-style kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mushroom Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft savory pancake layered with rich cream cheese and topped with saut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Triple Chocolate Waffle",
+                    "price": "",
+                    "description": "Chocolate Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk and White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Dark Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Dark chocolate ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with almond chocolate ganache and topped with almond flakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Waffle",
+                    "price": "",
+                    "description": "Signature Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a mocha mousse and mocha chocolate ganache sprinkled with cocoa dust",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kitkat Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle, white chocolate ganache and KitKat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo And Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a sweet and creamy cream cheese topped with oreo crumbs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Waffle",
+                    "price": "",
+                    "description": "Crispy and golden waffle served with Cookie Cream spread, Oreo biscuits, whipped cream and crumble.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Raspberry Chocolate Ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle and imported lotus biscoff spread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cheesecake Waffle",
+                    "price": "",
+                    "description": "Gourmet Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with sweetened cream cheese and nutella",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese & Strawberry Pancake",
+                    "price": "",
+                    "description": "Fluffy matcha pancake layered with matcha cream cheese and tangy strawberry compote for a perfect sweet-tangy balance.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy matcha pancake topped with rich matcha cream cheese and whipped cream for a smooth, indulgent bite.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Latte",
+                    "price": "",
+                    "description": "A smooth and refreshing blend of premium matcha and milk served over ice.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Matcha Latte",
+                    "price": "",
+                    "description": "A refreshing mix of matcha, milk, and strawberry compote, offering a perfect balance of earthy and fruity flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Cream Cheese Crepe",
+                    "price": "",
+                    "description": "Eggless Crepes Folded Around A Sweetened Lemon Cream Cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella & bananas.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Milk Chocolate Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a milk chocolate ganache.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Very Berry Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a cream cheese and berry filling.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Fresh Fruit Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella and diced assorted fresh fruits.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tropical Mango Pancake Sundae",
+                    "price": "",
+                    "description": "A delightful dessert featuring fluffy pancakes layered with white chocolate, topped with fresh mango chunks, a scoop of vanilla ice cream, and finished with crunchy almond flakes for a refreshing and indulgent sundae twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sticky Coconut & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with creamy coconut cream, topped with tropical mango chunks, and finished with sesame seeds, bringing a rich and exotic island-style flavor profile.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Mini Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Bite-sized pancakes filled with gooey Nutella, topped with mango, and finished with a dusting of sugar powder, perfect for a fun and indulgent snacking experience.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with rich Nutella, topped with fresh, juicy mango chunks, and finished with vanilla crumbles for a perfect sweet and fruity indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Decadent pancakes infused with rich dark chocolate, complemented by the sweetness of fresh mango and finished with vanilla crumbles for a bold flavor combination.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy waffles topped with luscious cream cheese, fresh mango, and vanilla crumbles, creating a refreshing and mildly tangy treat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Waffle",
+                    "price": "",
+                    "description": "Golden crisp waffles drizzled with creamy Nutella, loaded with ripe mango pieces, and finished with vanilla crumbles for a delightful contrast of textures.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Soft pancakes paired with smooth cream cheese, topped with sweet mango chunks, and finished with vanilla crumbles, offering a balanced blend of tangy and tropical flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Matcha Pancake",
+                    "price": "",
+                    "description": "Premium matcha-flavored pancakes layered with creamy cheese, topped with mango, and finished with vanilla crumbles, delivering a unique earthy and fruity fusion.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Matcha Ice Latte",
+                    "price": "",
+                    "description": "A refreshing iced latte combining tropical mango sweetness with the earthy richness of matcha, perfectly chilled for a smooth sip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Hot Chocolate",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Strawberry Hot Chocolate",
+                    "price": "",
+                    "description": "Rich hot chocolate infused with the flavors of strawberries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mocha Hot Chocolate",
+                    "price": "",
+                    "description": "Coffee flavored rich and dense hot chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boba Cold Coffee",
+                    "price": "",
+                    "description": "Boba Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "A decadent blend of cold coffee infused with rich chocolate and nutty hazelnut, topped with popping boba pearls for the perfect indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A refreshing soda-based cooler bursting with zesty mint, tangy lime, and the playful pop of boba pearls",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A fizzy soda-based mojito infused with ripe mango, fresh mint, and popping boba for a tropical twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Watermelon Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with juicy watermelon, fresh mint, and popping boba for a refreshing twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Orange Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with zesty orange, fresh mint, and popping boba for a citrusy twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Cold Coffee",
+                    "price": "",
+                    "description": "Cold Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "Cold coffee infused with chocolate hazelnut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mint mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mango mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Watermelon Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Refreshing virgin watermelon mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Zesty virgin orange mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pancakes",
+            "items": [
+                {
+                    "name": "Belgian Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Chocolate Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Death By Chocolate Pancake [dbc]",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with White chocolate, milk chocolate and dark chocolate and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with decadent Belgian milk chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with a smooth Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with Belgian milk, Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a Belgian almond chocolate ganache, almond flakes and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Pancake",
+                    "price": "",
+                    "description": "Signature Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Pancake With Maple Syrup",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with whipped cream, maple syrup and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with rich Nutella, smooth cream cheese, and a generous topping of whipped cream. You can choose between a regular or a gluten-free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Garden Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with blueberry compote, white chocolate ganache, whipped cream and crumble .You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Pancake",
+                    "price": "",
+                    "description": "Soft And Fluffy Pancake Served With Cookie Cream Spread, Oreo Biscuits, Whipped Cream And Crumble. You Can Choose Between A Regular Or A Gluten Free Option In The Next Step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with a coffee mousse and coffee infused white chocolate. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with crushed Oreos and a sweetened cream cheese. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a unique raspberry chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Filled Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Nutella stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Blueberry compote stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Lava Pancake",
+                    "price": "",
+                    "description": "Chocolate lava pancake that oozes out with Belgian milk chocolate pancake topped with crumbled oreos and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Fruits & Nutella Pancake",
+                    "price": "",
+                    "description": "Fresh Fruit Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream Cheese And Fresh Fruits Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with cream cheese and seasonal fresh fruits. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and fresh bananas. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dark Chocolate Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Filled Mini Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Miniature Filled Pancakes Served With Nutella And Whipped Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn And Cheese Pancake With Beans",
+                    "price": "",
+                    "description": "Savory Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Corn And Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy golden pancake packed with corn and gooey cheese, topped with herbs and served with spicy gochujang sauce for a bold Korean-style kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mushroom Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft savory pancake layered with rich cream cheese and topped with saut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Triple Chocolate Waffle",
+                    "price": "",
+                    "description": "Chocolate Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk and White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Dark Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Dark chocolate ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with almond chocolate ganache and topped with almond flakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Waffle",
+                    "price": "",
+                    "description": "Signature Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a mocha mousse and mocha chocolate ganache sprinkled with cocoa dust",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kitkat Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle, white chocolate ganache and KitKat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo And Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a sweet and creamy cream cheese topped with oreo crumbs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Waffle",
+                    "price": "",
+                    "description": "Crispy and golden waffle served with Cookie Cream spread, Oreo biscuits, whipped cream and crumble.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Raspberry Chocolate Ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle and imported lotus biscoff spread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cheesecake Waffle",
+                    "price": "",
+                    "description": "Gourmet Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with sweetened cream cheese and nutella",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese & Strawberry Pancake",
+                    "price": "",
+                    "description": "Fluffy matcha pancake layered with matcha cream cheese and tangy strawberry compote for a perfect sweet-tangy balance.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy matcha pancake topped with rich matcha cream cheese and whipped cream for a smooth, indulgent bite.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Latte",
+                    "price": "",
+                    "description": "A smooth and refreshing blend of premium matcha and milk served over ice.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Matcha Latte",
+                    "price": "",
+                    "description": "A refreshing mix of matcha, milk, and strawberry compote, offering a perfect balance of earthy and fruity flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Cream Cheese Crepe",
+                    "price": "",
+                    "description": "Eggless Crepes Folded Around A Sweetened Lemon Cream Cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella & bananas.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Milk Chocolate Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a milk chocolate ganache.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Very Berry Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a cream cheese and berry filling.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Fresh Fruit Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella and diced assorted fresh fruits.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tropical Mango Pancake Sundae",
+                    "price": "",
+                    "description": "A delightful dessert featuring fluffy pancakes layered with white chocolate, topped with fresh mango chunks, a scoop of vanilla ice cream, and finished with crunchy almond flakes for a refreshing and indulgent sundae twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sticky Coconut & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with creamy coconut cream, topped with tropical mango chunks, and finished with sesame seeds, bringing a rich and exotic island-style flavor profile.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Mini Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Bite-sized pancakes filled with gooey Nutella, topped with mango, and finished with a dusting of sugar powder, perfect for a fun and indulgent snacking experience.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with rich Nutella, topped with fresh, juicy mango chunks, and finished with vanilla crumbles for a perfect sweet and fruity indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Decadent pancakes infused with rich dark chocolate, complemented by the sweetness of fresh mango and finished with vanilla crumbles for a bold flavor combination.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy waffles topped with luscious cream cheese, fresh mango, and vanilla crumbles, creating a refreshing and mildly tangy treat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Waffle",
+                    "price": "",
+                    "description": "Golden crisp waffles drizzled with creamy Nutella, loaded with ripe mango pieces, and finished with vanilla crumbles for a delightful contrast of textures.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Soft pancakes paired with smooth cream cheese, topped with sweet mango chunks, and finished with vanilla crumbles, offering a balanced blend of tangy and tropical flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Matcha Pancake",
+                    "price": "",
+                    "description": "Premium matcha-flavored pancakes layered with creamy cheese, topped with mango, and finished with vanilla crumbles, delivering a unique earthy and fruity fusion.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Matcha Ice Latte",
+                    "price": "",
+                    "description": "A refreshing iced latte combining tropical mango sweetness with the earthy richness of matcha, perfectly chilled for a smooth sip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Hot Chocolate",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Strawberry Hot Chocolate",
+                    "price": "",
+                    "description": "Rich hot chocolate infused with the flavors of strawberries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mocha Hot Chocolate",
+                    "price": "",
+                    "description": "Coffee flavored rich and dense hot chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boba Cold Coffee",
+                    "price": "",
+                    "description": "Boba Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "A decadent blend of cold coffee infused with rich chocolate and nutty hazelnut, topped with popping boba pearls for the perfect indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A refreshing soda-based cooler bursting with zesty mint, tangy lime, and the playful pop of boba pearls",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A fizzy soda-based mojito infused with ripe mango, fresh mint, and popping boba for a tropical twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Watermelon Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with juicy watermelon, fresh mint, and popping boba for a refreshing twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Orange Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with zesty orange, fresh mint, and popping boba for a citrusy twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Cold Coffee",
+                    "price": "",
+                    "description": "Cold Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "Cold coffee infused with chocolate hazelnut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mint mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mango mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Watermelon Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Refreshing virgin watermelon mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Zesty virgin orange mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pancakes",
+            "items": [
+                {
+                    "name": "Belgian Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Chocolate Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Death By Chocolate Pancake [dbc]",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with White chocolate, milk chocolate and dark chocolate and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with decadent Belgian milk chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with a smooth Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake topped with Belgian milk, Belgian white chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a Belgian almond chocolate ganache, almond flakes and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Pancake",
+                    "price": "",
+                    "description": "Signature Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Pancake With Maple Syrup",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with whipped cream, maple syrup and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with rich Nutella, smooth cream cheese, and a generous topping of whipped cream. You can choose between a regular or a gluten-free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Garden Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with blueberry compote, white chocolate ganache, whipped cream and crumble .You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Pancake",
+                    "price": "",
+                    "description": "Soft And Fluffy Pancake Served With Cookie Cream Spread, Oreo Biscuits, Whipped Cream And Crumble. You Can Choose Between A Regular Or A Gluten Free Option In The Next Step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy chocolate pancake served with a coffee mousse and coffee infused white chocolate. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with crushed Oreos and a sweetened cream cheese. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with a unique raspberry chocolate ganache and crumble. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Filled Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Nutella stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Filled Pancake",
+                    "price": "",
+                    "description": "One large size pancake with Blueberry compote stuffed inside served with white chocolate ganache and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Lava Pancake",
+                    "price": "",
+                    "description": "Chocolate lava pancake that oozes out with Belgian milk chocolate pancake topped with crumbled oreos and a scoop of vanilla ice cream.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Fruits & Nutella Pancake",
+                    "price": "",
+                    "description": "Fresh Fruit Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream Cheese And Fresh Fruits Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with cream cheese and seasonal fresh fruits. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy pancake served with Nutella, whipped cream and fresh bananas. You can choose between a regular or a gluten free option in the next step.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dark Chocolate Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Filled Mini Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Filled Mini Pancakes",
+                    "price": "",
+                    "description": "Miniature Filled Pancakes Served With Nutella And Whipped Cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn And Cheese Pancake With Beans",
+                    "price": "",
+                    "description": "Savory Pancakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Corn And Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy golden pancake packed with corn and gooey cheese, topped with herbs and served with spicy gochujang sauce for a bold Korean-style kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mushroom Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft savory pancake layered with rich cream cheese and topped with saut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Waffles",
+            "items": [
+                {
+                    "name": "Belgian Triple Chocolate Waffle",
+                    "price": "",
+                    "description": "Chocolate Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Milk And White Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Milk and White Chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Belgian Dark Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Belgian Dark chocolate ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Almond Chocolate Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with almond chocolate ganache and topped with almond flakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Purely Nutella Waffle",
+                    "price": "",
+                    "description": "Signature Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tiramisu Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a mocha mousse and mocha chocolate ganache sprinkled with cocoa dust",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kitkat Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle, white chocolate ganache and KitKat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo And Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Flat waffle topped with a sweet and creamy cream cheese topped with oreo crumbs",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cookie Crumble Waffle",
+                    "price": "",
+                    "description": "Crispy and golden waffle served with Cookie Cream spread, Oreo biscuits, whipped cream and crumble.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raspberry Crumble Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with Raspberry Chocolate Ganache",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Biscoff Waffle",
+                    "price": "",
+                    "description": "Crispy golden waffle and imported lotus biscoff spread.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Cheesecake Waffle",
+                    "price": "",
+                    "description": "Gourmet Waffles",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Cheesecake Waffle",
+                    "price": "",
+                    "description": "Waffle-wich topped with sweetened cream cheese and nutella",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Matcha Series",
+            "items": [
+                {
+                    "name": "Matcha Cream Cheese & Strawberry Pancake",
+                    "price": "",
+                    "description": "Fluffy matcha pancake layered with matcha cream cheese and tangy strawberry compote for a perfect sweet-tangy balance.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Soft and fluffy matcha pancake topped with rich matcha cream cheese and whipped cream for a smooth, indulgent bite.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matcha Latte",
+                    "price": "",
+                    "description": "A smooth and refreshing blend of premium matcha and milk served over ice.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Matcha Latte",
+                    "price": "",
+                    "description": "A refreshing mix of matcha, milk, and strawberry compote, offering a perfect balance of earthy and fruity flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Crepes",
+            "items": [
+                {
+                    "name": "Lemon Cream Cheese Crepe",
+                    "price": "",
+                    "description": "Eggless Crepes Folded Around A Sweetened Lemon Cream Cheese",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Banana Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella & bananas.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Milk Chocolate Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a milk chocolate ganache.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Very Berry Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around a cream cheese and berry filling.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Fresh Fruit Crepe",
+                    "price": "",
+                    "description": "Thin crepe folded around Nutella and diced assorted fresh fruits.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Summer Mango Specials",
+            "items": [
+                {
+                    "name": "Tropical Mango Pancake Sundae",
+                    "price": "",
+                    "description": "A delightful dessert featuring fluffy pancakes layered with white chocolate, topped with fresh mango chunks, a scoop of vanilla ice cream, and finished with crunchy almond flakes for a refreshing and indulgent sundae twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sticky Coconut & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with creamy coconut cream, topped with tropical mango chunks, and finished with sesame seeds, bringing a rich and exotic island-style flavor profile.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Mini Nutella Filled Pancake",
+                    "price": "",
+                    "description": "Bite-sized pancakes filled with gooey Nutella, topped with mango, and finished with a dusting of sugar powder, perfect for a fun and indulgent snacking experience.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Pancake",
+                    "price": "",
+                    "description": "Fluffy pancakes layered with rich Nutella, topped with fresh, juicy mango chunks, and finished with vanilla crumbles for a perfect sweet and fruity indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Dark Chocolate Pancake",
+                    "price": "",
+                    "description": "Decadent pancakes infused with rich dark chocolate, complemented by the sweetness of fresh mango and finished with vanilla crumbles for a bold flavor combination.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Pancake",
+                    "price": "",
+                    "description": "Crispy waffles topped with luscious cream cheese, fresh mango, and vanilla crumbles, creating a refreshing and mildly tangy treat.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella & Mango Waffle",
+                    "price": "",
+                    "description": "Golden crisp waffles drizzled with creamy Nutella, loaded with ripe mango pieces, and finished with vanilla crumbles for a delightful contrast of textures.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Cream Cheese Waffle",
+                    "price": "",
+                    "description": "Soft pancakes paired with smooth cream cheese, topped with sweet mango chunks, and finished with vanilla crumbles, offering a balanced blend of tangy and tropical flavors.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango & Matcha Pancake",
+                    "price": "",
+                    "description": "Premium matcha-flavored pancakes layered with creamy cheese, topped with mango, and finished with vanilla crumbles, delivering a unique earthy and fruity fusion.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Matcha Ice Latte",
+                    "price": "",
+                    "description": "A refreshing iced latte combining tropical mango sweetness with the earthy richness of matcha, perfectly chilled for a smooth sip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks (Beverages)",
+            "items": [
+                {
+                    "name": "Belgian Hot Chocolate",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Strawberry Hot Chocolate",
+                    "price": "",
+                    "description": "Rich hot chocolate infused with the flavors of strawberries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mocha Hot Chocolate",
+                    "price": "",
+                    "description": "Coffee flavored rich and dense hot chocolate",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boba Cold Coffee",
+                    "price": "",
+                    "description": "Boba Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "A decadent blend of cold coffee infused with rich chocolate and nutty hazelnut, topped with popping boba pearls for the perfect indulgence.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A refreshing soda-based cooler bursting with zesty mint, tangy lime, and the playful pop of boba pearls",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] A fizzy soda-based mojito infused with ripe mango, fresh mint, and popping boba for a tropical twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Watermelon Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with juicy watermelon, fresh mint, and popping boba for a refreshing twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boba Orange Mojito",
+                    "price": "",
+                    "description": "A fizzy soda-based mojito infused with zesty orange, fresh mint, and popping boba for a citrusy twist.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Cold Coffee",
+                    "price": "",
+                    "description": "Cold Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hazelnut Cold Coffee",
+                    "price": "",
+                    "description": "Cold coffee infused with chocolate hazelnut",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mint mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Classic virgin mango mojito-soda based",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Watermelon Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Refreshing virgin watermelon mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic] Zesty virgin orange mojito with a soda base",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

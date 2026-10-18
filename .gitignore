@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+backend/virenv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Generated data
+backend/data/desc_cache.json
+backend/database.csv
+backend/index_cache/
+
+# ML model cache
+*.bin
+*.gguf
+.cache/
+
+# macOS
+.DS_Store

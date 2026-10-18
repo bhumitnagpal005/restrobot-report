@@ -1,0 +1,2047 @@
+{
+    "restaurant": {
+        "name": "Zorko - Brand Of Food Lovers",
+        "location": "60, Thiruvalam Road, Opposite Site VIT, Katpadi, Vellore",
+        "contact": "+917540005992"
+    },
+    "menu": [
+        {
+            "category": "Pizza and Pasta",
+            "items": [
+                {
+                    "name": "Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "Pasta",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed with creamy cheesy white sauce with veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mexican King Burger",
+                    "price": "",
+                    "description": "Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Salsa Barbeque Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, spicy barbeque salsa and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, Zorko special sauces and spicy Korean sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Tikki Burger",
+                    "price": "",
+                    "description": "Burger elevated with two vegetable patty with veggies and creamy sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic OG Burger",
+                    "price": "",
+                    "description": "Burger layered with vegetable patty, veggies and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Paneer Grilled Burger",
+                    "price": "",
+                    "description": "[Jain Preparation] A delightful, flavorful and creamy burger layered with freshly grilled paneer covered with zorko special sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mexican Grilled Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Maharaja Grilled Sandwich",
+                    "price": "",
+                    "description": "Goodness of paneer marinated with tikka masala, layered with veggies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Mumbai Grilled Sandwich",
+                    "price": "",
+                    "description": "Grilled sandwich stuffed with fresh veggies, mashed potato and Zorko special sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chilli Grilled Sandwich",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Yummy, spicylicious grilled sandwich loaded with capsicum, chillies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pull and Tear Garlic Bun",
+                    "price": "",
+                    "description": "Snacks",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Jalapeno Bun",
+                    "price": "",
+                    "description": "The Korean treat of bun stuffed with jalapeno, orange cheese sauce, herbs, Mozzarella, garlic butter and Korean sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Salted French Fries",
+                    "price": "",
+                    "description": "Fries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "Fries seasoned with salt and tossed with peri peri powder. Served with cheese dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Cheesy Fries",
+                    "price": "",
+                    "description": "Crispy fries loaded with Korean sauce and rich orange cheese sauce for a spicy, cheesy kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sizzling Italian Fries",
+                    "price": "",
+                    "description": "Sizzling fries topped with cheese sauce, Zorkos special sauces, jalapenos, paprika, olives and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic Bread",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Treat Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic bread loaded with golden corn, jalapeno, onion, special seasoning and Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Toofani Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Crispy garlic bread loaded with spicy green chutney marinated paneer and onions, topped with gooey Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Spicy Paneer Toastie",
+                    "price": "",
+                    "description": "Toasties",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Cheese Blast Toastie",
+                    "price": "",
+                    "description": "Peri peri spiced cheese cubes and onions with orange cheese sauce and a cheesy topping.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Italian Treat Toastie",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Zorko style marinated veggies on toast, crowned with cheesy goodness.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos with Cheese Dip",
+                    "price": "",
+                    "description": "Nachos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Delight Nachos",
+                    "price": "",
+                    "description": "Crunchy nachos tossed with cheese and Zorko special sauces and grated cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos and Salsa",
+                    "price": "",
+                    "description": "[Best Seller] Whip up these tangy, spicy and cheesy nachos for a casual get together with friends. Crispy tortilla chips loaded with in house made salsa and cheese sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Masala Maggi",
+                    "price": "",
+                    "description": "A blend of finely ground spices, herbs and double Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Passion Spicy Maggi",
+                    "price": "",
+                    "description": "A chatakdaar Maggi prepared with punch of sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Masala Maggi",
+                    "price": "",
+                    "description": "Maggi prepared with veggies and Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chatori Maggi",
+                    "price": "",
+                    "description": "[Best Seller] A fusion Maggi prepared with special creamy sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Veg Wrap",
+                    "price": "",
+                    "description": "Tortilla wrapped with veg patty, fresh veggies, Zorko special sauces loaded with corn, olive, jalapeno and red paprika.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Salsa Wrap",
+                    "price": "",
+                    "description": "Grilled tortilla rolled with fresh tomato salsa, exotic veggies, potato patty, special sauces and crispy nachos.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Grilled Paneer Wrap",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Grilled paneer tossed in Zorko exotic sauce accompanied with fresh veggies and spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Steamed Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Spiced with ginger, garlic and other spices. Served with dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Fried momos served with a dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Melting Gravy Momos [6 Pieces]",
+                    "price": "",
+                    "description": "[Best Seller] A delightful fusion of traditional Tibetan dumplings with rich, cheesy twist along with special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Premium Cold Coffee",
+                    "price": "",
+                    "description": "Cold Coffee",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strong Cold Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cold Coffee",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Surprise Mojito",
+                    "price": "",
+                    "description": "Mojitos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tangy Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pineapple Punch Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mary Lychee Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Cinderella Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blue Heaven Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Petal Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Chocolate Milkshake",
+                    "price": "",
+                    "description": "Milkshakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Delight Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "KitKat Chocolate Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie Blast Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea",
+                    "price": "",
+                    "description": "Iced Tea",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Fruit Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "American Blue Iced Tea",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Coffee",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot Chocolate",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pizza and Pasta",
+            "items": [
+                {
+                    "name": "Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "Pasta",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed with creamy cheesy white sauce with veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mexican King Burger",
+                    "price": "",
+                    "description": "Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Salsa Barbeque Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, spicy barbeque salsa and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, Zorko special sauces and spicy Korean sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Tikki Burger",
+                    "price": "",
+                    "description": "Burger elevated with two vegetable patty with veggies and creamy sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic OG Burger",
+                    "price": "",
+                    "description": "Burger layered with vegetable patty, veggies and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Paneer Grilled Burger",
+                    "price": "",
+                    "description": "[Jain Preparation] A delightful, flavorful and creamy burger layered with freshly grilled paneer covered with zorko special sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mexican Grilled Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Maharaja Grilled Sandwich",
+                    "price": "",
+                    "description": "Goodness of paneer marinated with tikka masala, layered with veggies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Mumbai Grilled Sandwich",
+                    "price": "",
+                    "description": "Grilled sandwich stuffed with fresh veggies, mashed potato and Zorko special sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chilli Grilled Sandwich",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Yummy, spicylicious grilled sandwich loaded with capsicum, chillies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pull and Tear Garlic Bun",
+                    "price": "",
+                    "description": "Snacks",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Jalapeno Bun",
+                    "price": "",
+                    "description": "The Korean treat of bun stuffed with jalapeno, orange cheese sauce, herbs, Mozzarella, garlic butter and Korean sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Salted French Fries",
+                    "price": "",
+                    "description": "Fries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "Fries seasoned with salt and tossed with peri peri powder. Served with cheese dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Cheesy Fries",
+                    "price": "",
+                    "description": "Crispy fries loaded with Korean sauce and rich orange cheese sauce for a spicy, cheesy kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sizzling Italian Fries",
+                    "price": "",
+                    "description": "Sizzling fries topped with cheese sauce, Zorkos special sauces, jalapenos, paprika, olives and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic Bread",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Treat Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic bread loaded with golden corn, jalapeno, onion, special seasoning and Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Toofani Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Crispy garlic bread loaded with spicy green chutney marinated paneer and onions, topped with gooey Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Spicy Paneer Toastie",
+                    "price": "",
+                    "description": "Toasties",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Cheese Blast Toastie",
+                    "price": "",
+                    "description": "Peri peri spiced cheese cubes and onions with orange cheese sauce and a cheesy topping.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Italian Treat Toastie",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Zorko style marinated veggies on toast, crowned with cheesy goodness.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos with Cheese Dip",
+                    "price": "",
+                    "description": "Nachos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Delight Nachos",
+                    "price": "",
+                    "description": "Crunchy nachos tossed with cheese and Zorko special sauces and grated cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos and Salsa",
+                    "price": "",
+                    "description": "[Best Seller] Whip up these tangy, spicy and cheesy nachos for a casual get together with friends. Crispy tortilla chips loaded with in house made salsa and cheese sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Masala Maggi",
+                    "price": "",
+                    "description": "A blend of finely ground spices, herbs and double Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Passion Spicy Maggi",
+                    "price": "",
+                    "description": "A chatakdaar Maggi prepared with punch of sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Masala Maggi",
+                    "price": "",
+                    "description": "Maggi prepared with veggies and Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chatori Maggi",
+                    "price": "",
+                    "description": "[Best Seller] A fusion Maggi prepared with special creamy sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Veg Wrap",
+                    "price": "",
+                    "description": "Tortilla wrapped with veg patty, fresh veggies, Zorko special sauces loaded with corn, olive, jalapeno and red paprika.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Salsa Wrap",
+                    "price": "",
+                    "description": "Grilled tortilla rolled with fresh tomato salsa, exotic veggies, potato patty, special sauces and crispy nachos.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Grilled Paneer Wrap",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Grilled paneer tossed in Zorko exotic sauce accompanied with fresh veggies and spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Steamed Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Spiced with ginger, garlic and other spices. Served with dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Fried momos served with a dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Melting Gravy Momos [6 Pieces]",
+                    "price": "",
+                    "description": "[Best Seller] A delightful fusion of traditional Tibetan dumplings with rich, cheesy twist along with special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Premium Cold Coffee",
+                    "price": "",
+                    "description": "Cold Coffee",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strong Cold Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cold Coffee",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Surprise Mojito",
+                    "price": "",
+                    "description": "Mojitos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tangy Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pineapple Punch Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mary Lychee Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Cinderella Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blue Heaven Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Petal Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Chocolate Milkshake",
+                    "price": "",
+                    "description": "Milkshakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Delight Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "KitKat Chocolate Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie Blast Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea",
+                    "price": "",
+                    "description": "Iced Tea",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Fruit Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "American Blue Iced Tea",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Coffee",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot Chocolate",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pizza and Pasta",
+            "items": [
+                {
+                    "name": "Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "Pasta",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed with creamy cheesy white sauce with veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mexican King Burger",
+                    "price": "",
+                    "description": "Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Salsa Barbeque Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, spicy barbeque salsa and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, Zorko special sauces and spicy Korean sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Tikki Burger",
+                    "price": "",
+                    "description": "Burger elevated with two vegetable patty with veggies and creamy sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic OG Burger",
+                    "price": "",
+                    "description": "Burger layered with vegetable patty, veggies and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Paneer Grilled Burger",
+                    "price": "",
+                    "description": "[Jain Preparation] A delightful, flavorful and creamy burger layered with freshly grilled paneer covered with zorko special sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mexican Grilled Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Maharaja Grilled Sandwich",
+                    "price": "",
+                    "description": "Goodness of paneer marinated with tikka masala, layered with veggies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Mumbai Grilled Sandwich",
+                    "price": "",
+                    "description": "Grilled sandwich stuffed with fresh veggies, mashed potato and Zorko special sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chilli Grilled Sandwich",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Yummy, spicylicious grilled sandwich loaded with capsicum, chillies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Pull and Tear Garlic Bun",
+                    "price": "",
+                    "description": "Snacks",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Jalapeno Bun",
+                    "price": "",
+                    "description": "The Korean treat of bun stuffed with jalapeno, orange cheese sauce, herbs, Mozzarella, garlic butter and Korean sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Salted French Fries",
+                    "price": "",
+                    "description": "Fries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "Fries seasoned with salt and tossed with peri peri powder. Served with cheese dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Cheesy Fries",
+                    "price": "",
+                    "description": "Crispy fries loaded with Korean sauce and rich orange cheese sauce for a spicy, cheesy kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sizzling Italian Fries",
+                    "price": "",
+                    "description": "Sizzling fries topped with cheese sauce, Zorkos special sauces, jalapenos, paprika, olives and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic Bread",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Treat Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic bread loaded with golden corn, jalapeno, onion, special seasoning and Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Toofani Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Crispy garlic bread loaded with spicy green chutney marinated paneer and onions, topped with gooey Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Spicy Paneer Toastie",
+                    "price": "",
+                    "description": "Toasties",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Cheese Blast Toastie",
+                    "price": "",
+                    "description": "Peri peri spiced cheese cubes and onions with orange cheese sauce and a cheesy topping.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Italian Treat Toastie",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Zorko style marinated veggies on toast, crowned with cheesy goodness.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos with Cheese Dip",
+                    "price": "",
+                    "description": "Nachos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Delight Nachos",
+                    "price": "",
+                    "description": "Crunchy nachos tossed with cheese and Zorko special sauces and grated cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos and Salsa",
+                    "price": "",
+                    "description": "[Best Seller] Whip up these tangy, spicy and cheesy nachos for a casual get together with friends. Crispy tortilla chips loaded with in house made salsa and cheese sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Masala Maggi",
+                    "price": "",
+                    "description": "A blend of finely ground spices, herbs and double Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Passion Spicy Maggi",
+                    "price": "",
+                    "description": "A chatakdaar Maggi prepared with punch of sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Masala Maggi",
+                    "price": "",
+                    "description": "Maggi prepared with veggies and Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chatori Maggi",
+                    "price": "",
+                    "description": "[Best Seller] A fusion Maggi prepared with special creamy sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Veg Wrap",
+                    "price": "",
+                    "description": "Tortilla wrapped with veg patty, fresh veggies, Zorko special sauces loaded with corn, olive, jalapeno and red paprika.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Salsa Wrap",
+                    "price": "",
+                    "description": "Grilled tortilla rolled with fresh tomato salsa, exotic veggies, potato patty, special sauces and crispy nachos.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Grilled Paneer Wrap",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Grilled paneer tossed in Zorko exotic sauce accompanied with fresh veggies and spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Steamed Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Spiced with ginger, garlic and other spices. Served with dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Fried momos served with a dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Melting Gravy Momos [6 Pieces]",
+                    "price": "",
+                    "description": "[Best Seller] A delightful fusion of traditional Tibetan dumplings with rich, cheesy twist along with special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Premium Cold Coffee",
+                    "price": "",
+                    "description": "Cold Coffee",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strong Cold Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cold Coffee",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Surprise Mojito",
+                    "price": "",
+                    "description": "Mojitos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tangy Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pineapple Punch Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mary Lychee Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Cinderella Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blue Heaven Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Petal Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Chocolate Milkshake",
+                    "price": "",
+                    "description": "Milkshakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Delight Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "KitKat Chocolate Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie Blast Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea",
+                    "price": "",
+                    "description": "Iced Tea",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Fruit Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "American Blue Iced Tea",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Coffee",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot Chocolate",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pizza and Pasta",
+            "items": [
+                {
+                    "name": "Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "Pasta",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Alfredo White Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed with creamy cheesy white sauce with veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Arrabbiata Red Sauce Pasta",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Penne tossed in tomato sauce infused with special spices, veggies with punch of chilli flakes.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Baked Ala Rosey Pink Sauce Pasta",
+                    "price": "",
+                    "description": "[Best Seller] [Jain Preparation]\u00a0Pasta infused in a cocktail sauce which is a combination of red and white sauce. The perfect blend of flavors with creamy textured sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Baked Peri Peri Pasta",
+                    "price": "",
+                    "description": "Penne pasta tossed in cheesy and creamy fusion peri peri sauce along with golden corn and Italian herbs.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Burgers and Sandwiches",
+            "items": [
+                {
+                    "name": "Mexican King Burger",
+                    "price": "",
+                    "description": "Burgers",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Salsa Barbeque Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, spicy barbeque salsa and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Burger",
+                    "price": "",
+                    "description": "Burger with veg patty, fresh veggies, Zorko special sauces and spicy Korean sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Tikki Burger",
+                    "price": "",
+                    "description": "Burger elevated with two vegetable patty with veggies and creamy sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic OG Burger",
+                    "price": "",
+                    "description": "Burger layered with vegetable patty, veggies and Zorko special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Paneer Grilled Burger",
+                    "price": "",
+                    "description": "[Jain Preparation] A delightful, flavorful and creamy burger layered with freshly grilled paneer covered with zorko special sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mexican Grilled Sandwich",
+                    "price": "",
+                    "description": "Sandwiches",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Maharaja Grilled Sandwich",
+                    "price": "",
+                    "description": "Goodness of paneer marinated with tikka masala, layered with veggies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Mumbai Grilled Sandwich",
+                    "price": "",
+                    "description": "Grilled sandwich stuffed with fresh veggies, mashed potato and Zorko special sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chilli Grilled Sandwich",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Yummy, spicylicious grilled sandwich loaded with capsicum, chillies and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Snacks",
+            "items": [
+                {
+                    "name": "Cheese Pull and Tear Garlic Bun",
+                    "price": "",
+                    "description": "Snacks",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Jalapeno Bun",
+                    "price": "",
+                    "description": "The Korean treat of bun stuffed with jalapeno, orange cheese sauce, herbs, Mozzarella, garlic butter and Korean sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Salted French Fries",
+                    "price": "",
+                    "description": "Fries",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri French Fries",
+                    "price": "",
+                    "description": "Fries seasoned with salt and tossed with peri peri powder. Served with cheese dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Cheesy Fries",
+                    "price": "",
+                    "description": "Crispy fries loaded with Korean sauce and rich orange cheese sauce for a spicy, cheesy kick.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Sizzling Italian Fries",
+                    "price": "",
+                    "description": "Sizzling fries topped with cheese sauce, Zorkos special sauces, jalapenos, paprika, olives and cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic Bread",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Supreme Treat Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Garlic bread loaded with golden corn, jalapeno, onion, special seasoning and Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Toofani Garlic Bread [3 Slices]",
+                    "price": "",
+                    "description": "Crispy garlic bread loaded with spicy green chutney marinated paneer and onions, topped with gooey Mozzarella.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Spicy Paneer Toastie",
+                    "price": "",
+                    "description": "Toasties",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Cheese Blast Toastie",
+                    "price": "",
+                    "description": "Peri peri spiced cheese cubes and onions with orange cheese sauce and a cheesy topping.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Italian Treat Toastie",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Zorko style marinated veggies on toast, crowned with cheesy goodness.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos with Cheese Dip",
+                    "price": "",
+                    "description": "Nachos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Delight Nachos",
+                    "price": "",
+                    "description": "Crunchy nachos tossed with cheese and Zorko special sauces and grated cheese.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos and Salsa",
+                    "price": "",
+                    "description": "[Best Seller] Whip up these tangy, spicy and cheesy nachos for a casual get together with friends. Crispy tortilla chips loaded with in house made salsa and cheese sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Maggi",
+            "items": [
+                {
+                    "name": "Double Masala Maggi",
+                    "price": "",
+                    "description": "A blend of finely ground spices, herbs and double Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Passion Spicy Maggi",
+                    "price": "",
+                    "description": "A chatakdaar Maggi prepared with punch of sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Masala Maggi",
+                    "price": "",
+                    "description": "Maggi prepared with veggies and Maggi masala.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chatori Maggi",
+                    "price": "",
+                    "description": "[Best Seller] A fusion Maggi prepared with special creamy sauces and veggies.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Wraps",
+            "items": [
+                {
+                    "name": "Classic Veg Wrap",
+                    "price": "",
+                    "description": "Tortilla wrapped with veg patty, fresh veggies, Zorko special sauces loaded with corn, olive, jalapeno and red paprika.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Salsa Wrap",
+                    "price": "",
+                    "description": "Grilled tortilla rolled with fresh tomato salsa, exotic veggies, potato patty, special sauces and crispy nachos.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Grilled Paneer Wrap",
+                    "price": "",
+                    "description": "[Jain Preparation]\u00a0Grilled paneer tossed in Zorko exotic sauce accompanied with fresh veggies and spices.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Momos",
+            "items": [
+                {
+                    "name": "Steamed Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Spiced with ginger, garlic and other spices. Served with dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fried Momos [6 Pieces]",
+                    "price": "",
+                    "description": "Fried momos served with a dip.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Melting Gravy Momos [6 Pieces]",
+                    "price": "",
+                    "description": "[Best Seller] A delightful fusion of traditional Tibetan dumplings with rich, cheesy twist along with special sauces.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks (Beverages)",
+            "items": [
+                {
+                    "name": "Premium Cold Coffee",
+                    "price": "",
+                    "description": "Cold Coffee",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strong Cold Coffee",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Cold Coffee",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Surprise Mojito",
+                    "price": "",
+                    "description": "Mojitos",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tangy Mango Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pineapple Punch Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mary Lychee Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Orange Cinderella Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blue Heaven Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Petal Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Mojito",
+                    "price": "",
+                    "description": "[Non Alcoholic]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Chocolate Milkshake",
+                    "price": "",
+                    "description": "Milkshakes",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rose Delight Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "KitKat Chocolate Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie Blast Milkshake",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Iced Tea",
+                    "price": "",
+                    "description": "Iced Tea",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Fruit Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cranberry Iced Tea",
+                    "price": "",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "American Blue Iced Tea",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot Coffee",
+                    "price": "",
+                    "description": "Hot Beverages",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot Chocolate",
+                    "price": "",
+                    "description": "[Best Seller]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

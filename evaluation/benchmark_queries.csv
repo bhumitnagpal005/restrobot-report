@@ -1,0 +1,31 @@
+query_id,query,category
+Q001,Find vegetarian food under 200 rupees,Price & Dietary
+Q002,Find spicy non-vegetarian food,Dietary & Spice
+Q003,Find vegetarian rolls under ₹200,Multi-Constraint
+Q004,Find paneer dishes,Semantic / Entity
+Q005,Find Indian food,Cuisine
+Q006,Find chicken dishes under ₹250,Price & Dietary
+Q007,Find spicy food,Spice Level
+Q008,Find food from Spice Villa,Restaurant Specific
+Q009,Find pizza under ₹200,Category & Price
+Q010,Find cheap vegetarian food,Price & Dietary
+Q011,Find spicy chicken wings,Dietary & Spice
+Q012,Find chocolate desserts,Category
+Q013,Find biryani in Katpadi,Location & Category
+Q014,Find burgers under ₹180,Category & Price
+Q015,Find cold beverages and milkshakes,Category
+Q016,Find pasta in cheese sauce,Category & Description
+Q017,Find momos with chili sauce,Category & Description
+Q018,Find rolls from Food House,Restaurant & Category
+Q019,Find tandoori chicken,Entity & Category
+Q020,Find chole bhature,Entity
+Q021,Find spicy paneer roll,Multi-Constraint
+Q022,Find garlic naan,Entity & Category
+Q023,Find veg burger under ₹180,Multi-Constraint
+Q024,Find sweet lassi,Category & Flavor
+Q025,Find waffles and ice cream,Desserts
+Q026,Find crispy fries,Category
+Q027,Find non-veg biryani,Dietary & Category
+Q028,Find egg rolls,Dietary & Category
+Q029,Find dark chocolate shake,Category & Flavor
+Q030,Find vegetarian pizza from Domino's,Multi-Constraint
